@@ -159,7 +159,8 @@ export default function LoginPage() {
             </motion.button>
           </form>
 
-          {/* Divider */}
+          {/* Google Sign In - Uncomment and configure Google OAuth credentials in .env.local to enable */}
+          {/*
           <div className="relative my-6">
             <div className="absolute inset-0 flex items-center">
               <div className="w-full border-t border-gray-300"></div>
@@ -169,7 +170,6 @@ export default function LoginPage() {
             </div>
           </div>
 
-          {/* Google Sign In */}
           <motion.button
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
@@ -197,6 +197,7 @@ export default function LoginPage() {
             </svg>
             Continue with Google
           </motion.button>
+          */}
         </div>
       </motion.div>
     </div>
