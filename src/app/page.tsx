@@ -1,24 +1,15 @@
 'use client';
 
-import { useSession, signOut } from 'next-auth/react';
-import { useRouter } from 'next/navigation';
-import { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { classes } from '@/data/classes';
 import { LogOut, GraduationCap, Sparkles } from 'lucide-react';
 import Link from 'next/link';
+import { useAuth } from '@/lib/useAuth';
 
 export default function HomePage() {
-  const { data: session, status } = useSession();
-  const router = useRouter();
+  const { isLoggedIn, userName, isLoading, logout } = useAuth();
 
-  useEffect(() => {
-    if (status === 'unauthenticated') {
-      router.push('/login');
-    }
-  }, [status, router]);
-
-  if (status === 'loading') {
+  if (isLoading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-100 via-pink-100 to-blue-100">
         <motion.div
@@ -32,7 +23,7 @@ export default function HomePage() {
     );
   }
 
-  if (status === 'unauthenticated') {
+  if (!isLoggedIn) {
     return null;
   }
 
@@ -60,14 +51,13 @@ export default function HomePage() {
             <div className="flex items-center gap-4">
               <div className="hidden md:block text-right">
                 <p className="text-sm font-semibold text-gray-800">
-                  {session?.user?.name}
+                  {userName}
                 </p>
-                <p className="text-xs text-gray-600">{session?.user?.email}</p>
               </div>
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                onClick={() => signOut({ callbackUrl: '/login' })}
+                onClick={logout}
                 className="flex items-center gap-2 bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-xl shadow-lg transition-colors"
               >
                 <LogOut className="w-4 h-4" />

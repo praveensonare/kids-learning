@@ -1,16 +1,12 @@
 'use client';
 
-import { useSession } from 'next-auth/react';
-import { useRouter, useParams } from 'next/navigation';
-import { useEffect } from 'react';
+import { useParams } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { getClassById, getSubjectsByClass, getLessonsBySubject } from '@/data/classes';
 import { ArrowLeft, BookOpen, Clock, TrendingUp } from 'lucide-react';
 import Link from 'next/link';
 
 export default function SubjectPage() {
-  const { data: session, status } = useSession();
-  const router = useRouter();
   const params = useParams();
   const classId = params.class as string;
   const subjectId = params.subject as string;
@@ -19,26 +15,6 @@ export default function SubjectPage() {
   const subjects = getSubjectsByClass(classId);
   const subjectData = subjects.find((s) => s.id === subjectId);
   const lessons = getLessonsBySubject(classId, subjectId);
-
-  useEffect(() => {
-    if (status === 'unauthenticated') {
-      router.push('/login');
-    }
-  }, [status, router]);
-
-  if (status === 'loading') {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-100 via-pink-100 to-blue-100">
-        <motion.div
-          animate={{ rotate: 360 }}
-          transition={{ duration: 1, repeat: Infinity, ease: 'linear' }}
-          className="text-6xl"
-        >
-          📖
-        </motion.div>
-      </div>
-    );
-  }
 
   if (!classData || !subjectData) {
     return (

@@ -1,42 +1,19 @@
 'use client';
 
-import { useSession } from 'next-auth/react';
-import { useRouter, useParams } from 'next/navigation';
-import { useEffect, useState } from 'react';
+import { useParams } from 'next/navigation';
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { getClassById, getSubjectsByClass } from '@/data/classes';
 import { ArrowLeft, GraduationCap } from 'lucide-react';
 import Link from 'next/link';
 
 export default function ClassPage() {
-  const { data: session, status } = useSession();
-  const router = useRouter();
   const params = useParams();
   const classId = params.class as string;
   const [activeSubject, setActiveSubject] = useState(0);
 
   const classData = getClassById(classId);
   const subjects = getSubjectsByClass(classId);
-
-  useEffect(() => {
-    if (status === 'unauthenticated') {
-      router.push('/login');
-    }
-  }, [status, router]);
-
-  if (status === 'loading') {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-100 via-pink-100 to-blue-100">
-        <motion.div
-          animate={{ rotate: 360 }}
-          transition={{ duration: 1, repeat: Infinity, ease: 'linear' }}
-          className="text-6xl"
-        >
-          📚
-        </motion.div>
-      </div>
-    );
-  }
 
   if (!classData) {
     return (

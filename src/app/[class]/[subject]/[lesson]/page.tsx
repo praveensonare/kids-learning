@@ -1,8 +1,7 @@
 'use client';
 
-import { useSession } from 'next-auth/react';
-import { useRouter, useParams } from 'next/navigation';
-import { useEffect, useState } from 'react';
+import { useParams } from 'next/navigation';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
   getClassById,
@@ -28,8 +27,6 @@ import Link from 'next/link';
 type SectionType = 'learn' | 'worksheet' | 'quiz' | 'challenges';
 
 export default function LessonPage() {
-  const { data: session, status } = useSession();
-  const router = useRouter();
   const params = useParams();
   const classId = params.class as string;
   const subjectId = params.subject as string;
@@ -48,12 +45,6 @@ export default function LessonPage() {
   const lessonData = lessons.find((l) => l.id === lessonId);
   const quizQuestions = getQuizByLesson(lessonId);
   const challenges = getChallengesByLesson(lessonId);
-
-  useEffect(() => {
-    if (status === 'unauthenticated') {
-      router.push('/login');
-    }
-  }, [status, router]);
 
   const handleQuizSubmit = () => {
     let correctCount = 0;
@@ -77,20 +68,6 @@ export default function LessonPage() {
       setCompletedChallenges([...completedChallenges, challengeId]);
     }
   };
-
-  if (status === 'loading') {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-100 via-pink-100 to-blue-100">
-        <motion.div
-          animate={{ rotate: 360 }}
-          transition={{ duration: 1, repeat: Infinity, ease: 'linear' }}
-          className="text-6xl"
-        >
-          🎯
-        </motion.div>
-      </div>
-    );
-  }
 
   if (!classData || !subjectData || !lessonData) {
     return (
