@@ -4,7 +4,7 @@ An interactive, rich, and responsive learning platform for nursery to primary sc
 
 ## Features ✨
 
-- **Authentication**: Secure login with username/password or Google OAuth
+- **Simple Demo Login**: No authentication required - enter any username and password
 - **Mobile-First Design**: Fully responsive interface optimized for all devices
 - **Interactive Learning**: Engaging lessons with multiple learning modes
 - **Cambridge Standards**: Content aligned with Cambridge International curriculum
@@ -13,9 +13,9 @@ An interactive, rich, and responsive learning platform for nursery to primary sc
 ## Pages & Routes 📚
 
 ### `/login`
-- Login page with username/password authentication
-- Google OAuth integration
-- Demo credentials: `username: demo, password: demo123`
+- Simple demo login page
+- Enter any username and password to access the platform
+- No actual authentication - perfect for demos and testing
 
 ### `/` (Home)
 - Displays all available classes (Nursery to Year 6)
@@ -44,7 +44,7 @@ An interactive, rich, and responsive learning platform for nursery to primary sc
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **Authentication**: NextAuth.js
+- **Authentication**: Simple localStorage-based (demo only)
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
 
@@ -55,11 +55,7 @@ An interactive, rich, and responsive learning platform for nursery to primary sc
 npm install
 ```
 
-2. Set up environment variables:
-   - Copy `.env.local` and update with your values
-   - For Google OAuth, get credentials from [Google Cloud Console](https://console.cloud.google.com/)
-
-3. Run the development server:
+2. Run the development server:
 ```bash
 npm run dev
 ```
@@ -98,10 +94,10 @@ kids-learning/
 ## Features in Detail 🎯
 
 ### Authentication
-- Username/password authentication
-- Google OAuth integration
-- Protected routes with middleware
-- Session management
+- Simple demo login (accepts any credentials)
+- localStorage-based session
+- Easy to use for demos and testing
+- No complex setup required
 
 ### Responsive Design
 - Mobile-first approach
