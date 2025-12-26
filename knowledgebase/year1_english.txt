@@ -10,10 +10,10 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Phonics - Phase 5 and Beyond
-TOPIC 2: Common Exception Words
-TOPIC 3: Reading Comprehension
-TOPIC 4: Sentence Writing
-TOPIC 5: Grammar Basics
-TOPIC 6: Story Writing
-TOPIC 7: Poetry and Rhyme
+1, Phonics - Phase 5 and Beyond, Learn about phonics - phase 5 and beyond
+2, Common Exception Words, Learn about common exception words
+3, Reading Comprehension, Learn about reading comprehension
+4, Sentence Writing, Learn about sentence writing
+5, Grammar Basics, Learn about grammar basics
+6, Story Writing, Learn about story writing
+7, Poetry and Rhyme, Learn about poetry and rhyme

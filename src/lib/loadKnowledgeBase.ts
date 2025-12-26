@@ -5,6 +5,7 @@ export interface Topic {
   id: string;
   number: number;
   title: string;
+  description: string;
   fullContent: string;
   theory?: string;
   examples?: string;
@@ -95,18 +96,23 @@ export async function loadKnowledgeBase(
     }
 
     // Extract topic list from index file
-    const topicPattern = /^TOPIC (\d+):\s*(.+)$/;
+    // New format: number, title, description
     const topicsStart = lines.findIndex(line => line.includes('Topics:'));
 
     if (topicsStart !== -1) {
       for (let i = topicsStart + 1; i < lines.length; i++) {
-        const line = lines[i];
-        const match = line.match(topicPattern);
+        const line = lines[i].trim();
+        if (!line) continue;
 
-        if (match) {
-          const topicNumber = parseInt(match[1]);
-          const topicTitle = match[2].trim();
+        // Parse CSV format: number, title, description
+        const parts = line.split(',').map(p => p.trim());
+        if (parts.length >= 2) {
+          const topicNumber = parseInt(parts[0]);
+          const topicTitle = parts[1];
+          const topicDescription = parts.length >= 3 ? parts.slice(2).join(', ') : '';
           const topicId = topicTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+
+          if (!isNaN(topicNumber)) {
 
           // Read individual topic file
           const topicFilename = `${className}_${subjectName}_topic${topicNumber}.txt`;
@@ -166,11 +172,13 @@ export async function loadKnowledgeBase(
             id: topicId,
             number: topicNumber,
             title: topicTitle,
+            description: topicDescription,
             fullContent: '',
             theory: theory.trim(),
             examples: examples.trim(),
             worksheets: worksheets.trim(),
           });
+          }
         }
       }
     }

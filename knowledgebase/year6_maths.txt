@@ -5,11 +5,11 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Place Value to 10,000,000: Read, write, order, compare; powers of 10; negative numbers in context
-TOPIC 2: Four Operations: Multi-step problems; long multiplication/division; BIDMAS (Brackets, Indices, Division/Multiplication, Addition/Subtraction); mental calculations with large numbers
-TOPIC 3: Fractions/Decimals/Percentages: Simplify fractions; common factors/multiples; add/subtract fractions with different denominators; multiply/divide fractions; 4 decimal places; percentages of amounts; percentage increase/decrease
-TOPIC 4: Ratio and Proportion: Ratio notation; solve problems; scale factors; similar shapes; unequal sharing
-TOPIC 5: Algebra: Use simple formulae; generate sequences; express missing number problems algebraically; find pairs of numbers for equations with two unknowns; enumerate possibilities
-TOPIC 6: Measurement: Convert between standard units; area of triangles/parallelograms; volume of cubes/cuboids
-TOPIC 7: Geometry: Classify shapes; angles in polygons; draw 2D shapes; coordinates (4 quadrants); translate/reflect shapes; names of parts of circle
-TOPIC 8: Statistics: Pie charts, line graphs, mean average; interpret and solve problems
+1, Place Value to 10,000,000: Read, write, order, compare; powers of 10; negative numbers in context, Learn about place value to 10,000,000: read, write, order, compare; powers of 10; negative numbers in context
+2, Four Operations: Multi-step problems; long multiplication/division; BIDMAS (Brackets, Indices, Division/Multiplication, Addition/Subtraction); mental calculations with large numbers, Learn about four operations: multi-step problems; long multiplication/division; bidmas (brackets, indices, division/multiplication, addition/subtraction); mental calculations with large numbers
+3, Fractions/Decimals/Percentages: Simplify fractions; common factors/multiples; add/subtract fractions with different denominators; multiply/divide fractions; 4 decimal places; percentages of amounts; percentage increase/decrease, Learn about fractions/decimals/percentages: simplify fractions; common factors/multiples; add/subtract fractions with different denominators; multiply/divide fractions; 4 decimal places; percentages of amounts; percentage increase/decrease
+4, Ratio and Proportion: Ratio notation; solve problems; scale factors; similar shapes; unequal sharing, Learn about ratio and proportion: ratio notation; solve problems; scale factors; similar shapes; unequal sharing
+5, Algebra: Use simple formulae; generate sequences; express missing number problems algebraically; find pairs of numbers for equations with two unknowns; enumerate possibilities, Learn about algebra: use simple formulae; generate sequences; express missing number problems algebraically; find pairs of numbers for equations with two unknowns; enumerate possibilities
+6, Measurement: Convert between standard units; area of triangles/parallelograms; volume of cubes/cuboids, Learn about measurement: convert between standard units; area of triangles/parallelograms; volume of cubes/cuboids
+7, Geometry: Classify shapes; angles in polygons; draw 2D shapes; coordinates (4 quadrants); translate/reflect shapes; names of parts of circle, Learn about geometry: classify shapes; angles in polygons; draw 2d shapes; coordinates (4 quadrants); translate/reflect shapes; names of parts of circle
+8, Statistics: Pie charts, line graphs, mean average; interpret and solve problems, Learn about statistics: pie charts, line graphs, mean average; interpret and solve problems

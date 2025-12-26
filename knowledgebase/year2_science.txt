@@ -11,8 +11,8 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Living Things and Their Habitats
-TOPIC 2: Plants
-TOPIC 3: Animals Including Humans
-TOPIC 4: Uses of Everyday Materials
-TOPIC 5: Seasonal Changes
+1, Living Things and Their Habitats, Learn about living things and their habitats
+2, Plants, Learn about plants
+3, Animals Including Humans, Learn about animals including humans
+4, Uses of Everyday Materials, Learn about uses of everyday materials
+5, Seasonal Changes, Learn about seasonal changes

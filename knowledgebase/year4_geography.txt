@@ -5,8 +5,8 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Europe in Detail: Countries, capitals, major cities; mountain ranges (Alps, Pyrenees, Carpathians); rivers (Danube, Rhine, Rhone); climate patterns; land use; compare regions
-TOPIC 2: North and South America: Countries and capitals; physical features (Andes, Amazon, Rockies, Mississippi); climate zones (rainforests, deserts, tundra); time zones
-TOPIC 3: Water Cycle: Evaporation, condensation, precipitation, collection; importance of water; rivers (source, tributary, meander, mouth); flooding; water conservation
-TOPIC 4: Map Skills Advanced: Eight compass points (N, NE, E, SE, S, SW, W, NW); six-figure grid references; contour lines show height; latitude and longitude; symbols and keys
-TOPIC 5: Settlements: Types (hamlet, village, town, city); why settle there (water, trade routes, defense); land use; impact on environment
+1, Europe in Detail: Countries, capitals, major cities; mountain ranges (Alps, Pyrenees, Carpathians); rivers (Danube, Rhine, Rhone); climate patterns; land use; compare regions, Learn about europe in detail: countries, capitals, major cities; mountain ranges (alps, pyrenees, carpathians); rivers (danube, rhine, rhone); climate patterns; land use; compare regions
+2, North and South America: Countries and capitals; physical features (Andes, Amazon, Rockies, Mississippi); climate zones (rainforests, deserts, tundra); time zones, Learn about north and south america: countries and capitals; physical features (andes, amazon, rockies, mississippi); climate zones (rainforests, deserts, tundra); time zones
+3, Water Cycle: Evaporation, condensation, precipitation, collection; importance of water; rivers (source, tributary, meander, mouth); flooding; water conservation, Learn about water cycle: evaporation, condensation, precipitation, collection; importance of water; rivers (source, tributary, meander, mouth); flooding; water conservation
+4, Map Skills Advanced: Eight compass points (N, NE, E, SE, S, SW, W, NW); six-figure grid references; contour lines show height; latitude and longitude; symbols and keys, Learn about map skills advanced: eight compass points (n, ne, e, se, s, sw, w, nw); six-figure grid references; contour lines show height; latitude and longitude; symbols and keys
+5, Settlements: Types (hamlet, village, town, city); why settle there (water, trade routes, defense); land use; impact on environment, Learn about settlements: types (hamlet, village, town, city); why settle there (water, trade routes, defense); land use; impact on environment

@@ -10,10 +10,10 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Advanced Phonics and Spelling
-TOPIC 2: Reading Comprehension and Inference
-TOPIC 3: Grammar - Sentence Types and Tenses
-TOPIC 4: Expanded Noun Phrases
-TOPIC 5: Story Writing with Structure
-TOPIC 6: Non-Fiction Writing
-TOPIC 7: Poetry and Performance
+1, Advanced Phonics and Spelling, Learn about advanced phonics and spelling
+2, Reading Comprehension and Inference, Learn about reading comprehension and inference
+3, Grammar - Sentence Types and Tenses, Learn about grammar - sentence types and tenses
+4, Expanded Noun Phrases, Learn about expanded noun phrases
+5, Story Writing with Structure, Learn about story writing with structure
+6, Non-Fiction Writing, Learn about non-fiction writing
+7, Poetry and Performance, Learn about poetry and performance

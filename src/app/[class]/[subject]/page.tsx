@@ -176,9 +176,16 @@ export default function SubjectPage() {
                         {/* Topic Content */}
                         <div className="flex-1 min-w-0">
                           {/* Topic Title */}
-                          <h4 className="text-base md:text-lg font-bold text-gray-900 group-hover:text-purple-700 transition-colors mb-2 leading-tight">
+                          <h4 className="text-base md:text-lg font-bold text-gray-900 group-hover:text-purple-700 transition-colors mb-1 leading-tight">
                             {topic.title}
                           </h4>
+
+                          {/* Topic Description */}
+                          {topic.description && (
+                            <p className="text-sm text-gray-600 mb-2 leading-relaxed">
+                              {topic.description}
+                            </p>
+                          )}
 
                           {/* Content Badges */}
                           <div className="flex flex-wrap gap-2">

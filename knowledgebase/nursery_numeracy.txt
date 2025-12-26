@@ -11,12 +11,12 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Counting to 10
-TOPIC 2: Number Recognition and Formation
-TOPIC 3: One More and One Less
-TOPIC 4: Comparing Quantities
-TOPIC 5: 2D and 3D Shapes
-TOPIC 6: Patterns
-TOPIC 7: Positional Language
-TOPIC 8: Simple Addition (Combining Groups)
-TOPIC 9: Simple Subtraction (Taking Away)
+1, Counting to 10, Learn about counting to 10
+2, Number Recognition and Formation, Learn about number recognition and formation
+3, One More and One Less, Learn about one more and one less
+4, Comparing Quantities, Learn about comparing quantities
+5, 2D and 3D Shapes, Learn about 2d and 3d shapes
+6, Patterns, Learn about patterns
+7, Positional Language, Learn about positional language
+8, Simple Addition (Combining Groups), Learn about simple addition (combining groups)
+9, Simple Subtraction (Taking Away), Learn about simple subtraction (taking away)

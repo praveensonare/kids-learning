@@ -10,10 +10,10 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Living Things - Animals
-TOPIC 2: Living Things - Plants
-TOPIC 3: Our Bodies and Senses
-TOPIC 4: Materials and Their Properties
-TOPIC 5: Weather and Seasons
-TOPIC 6: Day and Night
-TOPIC 7: Forces and Movement
+1, Living Things - Animals, Learn about living things - animals
+2, Living Things - Plants, Learn about living things - plants
+3, Our Bodies and Senses, Learn about our bodies and senses
+4, Materials and Their Properties, Learn about materials and their properties
+5, Weather and Seasons, Learn about weather and seasons
+6, Day and Night, Learn about day and night
+7, Forces and Movement, Learn about forces and movement

@@ -5,9 +5,9 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Place Value to 1,000,000: Read, write, compare, order; round to nearest 10, 100, 1000, 10,000, 100,000; negative numbers; Roman numerals to 1000
-TOPIC 2: Four Operations: Add/subtract numbers with more than 4 digits; multiply/divide by 10, 100, 1000; multiply 4-digits by 1/2-digits; divide 4-digits by 1-digit; mental calculations; order of operations
-TOPIC 3: Fractions/Decimals/Percentages: Compare/order fractions; add/subtract fractions with same denominator; multiply fractions by whole numbers; decimals to 3 places; percentages as "out of 100"; convert between fractions, decimals, percentages
-TOPIC 4: Measurement: Convert between metric units; area of rectangles (l × w); perimeter; volume; 12/24-hour clock; timetables
-TOPIC 5: Geometry: Properties of rectangles, triangles, parallelograms; angles in triangles (180°), quadrilaterals (360°); measure angles with protractor; reflection and translation on coordinate grid (4 quadrants)
-TOPIC 6: Statistics: Line graphs, tables, timetables; interpret and solve problems
+1, Place Value to 1,000,000: Read, write, compare, order; round to nearest 10, 100, 1000, 10,000, 100,000; negative numbers; Roman numerals to 1000, Learn about place value to 1,000,000: read, write, compare, order; round to nearest 10, 100, 1000, 10,000, 100,000; negative numbers; roman numerals to 1000
+2, Four Operations: Add/subtract numbers with more than 4 digits; multiply/divide by 10, 100, 1000; multiply 4-digits by 1/2-digits; divide 4-digits by 1-digit; mental calculations; order of operations, Learn about four operations: add/subtract numbers with more than 4 digits; multiply/divide by 10, 100, 1000; multiply 4-digits by 1/2-digits; divide 4-digits by 1-digit; mental calculations; order of operations
+3, Fractions/Decimals/Percentages: Compare/order fractions; add/subtract fractions with same denominator; multiply fractions by whole numbers; decimals to 3 places; percentages as "out of 100"; convert between fractions, decimals, percentages, Learn about fractions/decimals/percentages: compare/order fractions; add/subtract fractions with same denominator; multiply fractions by whole numbers; decimals to 3 places; percentages as "out of 100"; convert between fractions, decimals, percentages
+4, Measurement: Convert between metric units; area of rectangles (l × w); perimeter; volume; 12/24-hour clock; timetables, Learn about measurement: convert between metric units; area of rectangles (l × w); perimeter; volume; 12/24-hour clock; timetables
+5, Geometry: Properties of rectangles, triangles, parallelograms; angles in triangles (180°), quadrilaterals (360°); measure angles with protractor; reflection and translation on coordinate grid (4 quadrants), Learn about geometry: properties of rectangles, triangles, parallelograms; angles in triangles (180°), quadrilaterals (360°); measure angles with protractor; reflection and translation on coordinate grid (4 quadrants)
+6, Statistics: Line graphs, tables, timetables; interpret and solve problems, Learn about statistics: line graphs, tables, timetables; interpret and solve problems

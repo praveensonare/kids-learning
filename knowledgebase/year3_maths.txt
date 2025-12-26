@@ -11,11 +11,11 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Place Value to 1000
-TOPIC 2: Addition and Subtraction
-TOPIC 3: Multiplication and Division
-TOPIC 4: Fractions
-TOPIC 5: Measurement
-TOPIC 6: Geometry
-TOPIC 7: Time
-TOPIC 8: Statistics
+1, Place Value to 1000, Learn about place value to 1000
+2, Addition and Subtraction, Learn about addition and subtraction
+3, Multiplication and Division, Learn about multiplication and division
+4, Fractions, Learn about fractions
+5, Measurement, Learn about measurement
+6, Geometry, Learn about geometry
+7, Time, Learn about time
+8, Statistics, Learn about statistics

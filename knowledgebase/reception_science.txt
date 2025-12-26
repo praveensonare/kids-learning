@@ -11,10 +11,10 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Living Things - Animals and Their Habitats
-TOPIC 2: Plants and Growth
-TOPIC 3: Human Body and Health
-TOPIC 4: Materials, Properties, and Changes
-TOPIC 5: Seasons, Weather, and Climate
-TOPIC 6: Light and Dark
-TOPIC 7: Sound and Hearing
+1, Living Things - Animals and Their Habitats, Learn about living things - animals and their habitats
+2, Plants and Growth, Learn about plants and growth
+3, Human Body and Health, Learn about human body and health
+4, Materials, Properties, and Changes, Learn about materials, properties, and changes
+5, Seasons, Weather, and Climate, Learn about seasons, weather, and climate
+6, Light and Dark, Learn about light and dark
+7, Sound and Hearing, Learn about sound and hearing

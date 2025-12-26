@@ -12,11 +12,11 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Place Value to 100
-TOPIC 2: Addition and Subtraction (2-digit numbers)
-TOPIC 3: Multiplication and Division
-TOPIC 4: Fractions
-TOPIC 5: Measurement
-TOPIC 6: Geometry - 2D and 3D Shapes
-TOPIC 7: Time
-TOPIC 8: Statistics and Data
+1, Place Value to 100, Learn about place value to 100
+2, Addition and Subtraction (2-digit numbers), Learn about addition and subtraction (2-digit numbers)
+3, Multiplication and Division, Learn about multiplication and division
+4, Fractions, Learn about fractions
+5, Measurement, Learn about measurement
+6, Geometry - 2D and 3D Shapes, Learn about geometry - 2d and 3d shapes
+7, Time, Learn about time
+8, Statistics and Data, Learn about statistics and data

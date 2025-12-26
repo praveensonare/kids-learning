@@ -10,8 +10,8 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Reading Comprehension
-TOPIC 2: Writing - Narrative
-TOPIC 3: Grammar and Punctuation
-TOPIC 4: Spelling and Vocabulary
-TOPIC 5: Poetry
+1, Reading Comprehension, Learn about reading comprehension
+2, Writing - Narrative, Learn about writing - narrative
+3, Grammar and Punctuation, Learn about grammar and punctuation
+4, Spelling and Vocabulary, Learn about spelling and vocabulary
+5, Poetry, Learn about poetry

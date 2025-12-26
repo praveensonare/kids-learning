@@ -5,8 +5,8 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Living Things/Habitats: Classification keys, environmental changes affect living things, construct food chains (producers, predators, prey)
-TOPIC 2: Animals/Humans: Digestion (mouth, esophagus, stomach, intestines), teeth types (incisors, canines, molars), food chains, healthy eating
-TOPIC 3: States of Matter: Solids, liquids, gases; particles; melting, freezing, evaporating, condensing; water cycle (evaporation, condensation, precipitation); temperature effects
-TOPIC 4: Sound: Vibrations travel through medium, pitch (high/low), volume (loud/quiet), sound travels differently through materials, patterns between pitch/volume and vibration
-TOPIC 5: Electricity: Simple circuits, cells, wires, bulbs, switches, buzzers; complete circuit needed; conductors and insulators; common appliances use electricity
+1, Living Things/Habitats: Classification keys, environmental changes affect living things, construct food chains (producers, predators, prey), Learn about living things/habitats: classification keys, environmental changes affect living things, construct food chains (producers, predators, prey)
+2, Animals/Humans: Digestion (mouth, esophagus, stomach, intestines), teeth types (incisors, canines, molars), food chains, healthy eating, Learn about animals/humans: digestion (mouth, esophagus, stomach, intestines), teeth types (incisors, canines, molars), food chains, healthy eating
+3, States of Matter: Solids, liquids, gases; particles; melting, freezing, evaporating, condensing; water cycle (evaporation, condensation, precipitation); temperature effects, Learn about states of matter: solids, liquids, gases; particles; melting, freezing, evaporating, condensing; water cycle (evaporation, condensation, precipitation); temperature effects
+4, Sound: Vibrations travel through medium, pitch (high/low), volume (loud/quiet), sound travels differently through materials, patterns between pitch/volume and vibration, Learn about sound: vibrations travel through medium, pitch (high/low), volume (loud/quiet), sound travels differently through materials, patterns between pitch/volume and vibration
+5, Electricity: Simple circuits, cells, wires, bulbs, switches, buzzers; complete circuit needed; conductors and insulators; common appliances use electricity, Learn about electricity: simple circuits, cells, wires, bulbs, switches, buzzers; complete circuit needed; conductors and insulators; common appliances use electricity

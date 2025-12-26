@@ -11,12 +11,12 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Number and Place Value to 100
-TOPIC 2: Addition Within 20
-TOPIC 3: Subtraction Within 20
-TOPIC 4: Multiplication Introduction
-TOPIC 5: Division Introduction
-TOPIC 6: Fractions - Halves and Quarters
-TOPIC 7: Geometry - 2D and 3D Shapes
-TOPIC 8: Measurement
-TOPIC 9: Time
+1, Number and Place Value to 100, Learn about number and place value to 100
+2, Addition Within 20, Learn about addition within 20
+3, Subtraction Within 20, Learn about subtraction within 20
+4, Multiplication Introduction, Learn about multiplication introduction
+5, Division Introduction, Learn about division introduction
+6, Fractions - Halves and Quarters, Learn about fractions - halves and quarters
+7, Geometry - 2D and 3D Shapes, Learn about geometry - 2d and 3d shapes
+8, Measurement, Learn about measurement
+9, Time, Learn about time

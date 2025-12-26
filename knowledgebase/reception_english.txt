@@ -10,10 +10,10 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Phonics (Phase 2-4)
-TOPIC 2: High-Frequency Words (Tricky Words)
-TOPIC 3: Reading CVC and Simple Sentences
-TOPIC 4: Writing - Letter Formation
-TOPIC 5: Sentence Writing
-TOPIC 6: Story Comprehension
-TOPIC 7: Vocabulary and Language
+1, Phonics (Phase 2-4), Learn about phonics (phase 2-4)
+2, High-Frequency Words (Tricky Words), Learn about high-frequency words (tricky words)
+3, Reading CVC and Simple Sentences, Learn about reading cvc and simple sentences
+4, Writing - Letter Formation, Learn about writing - letter formation
+5, Sentence Writing, Learn about sentence writing
+6, Story Comprehension, Learn about story comprehension
+7, Vocabulary and Language, Learn about vocabulary and language

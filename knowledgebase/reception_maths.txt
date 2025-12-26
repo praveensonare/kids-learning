@@ -10,12 +10,12 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Counting and Number Recognition (0-20)
-TOPIC 2: One More, One Less
-TOPIC 3: Comparing Numbers
-TOPIC 4: Number Bonds to 10
-TOPIC 5: Addition Within 10
-TOPIC 6: Subtraction Within 10
-TOPIC 7: 2D and 3D Shapes
-TOPIC 8: Measurement - Length, Weight, Capacity
-TOPIC 9: Time
+1, Counting and Number Recognition (0-20), Learn about counting and number recognition (0-20)
+2, One More, One Less, Learn about one more, one less
+3, Comparing Numbers, Learn about comparing numbers
+4, Number Bonds to 10, Learn about number bonds to 10
+5, Addition Within 10, Learn about addition within 10
+6, Subtraction Within 10, Learn about subtraction within 10
+7, 2D and 3D Shapes, Learn about 2d and 3d shapes
+8, Measurement - Length, Weight, Capacity, Learn about measurement - length, weight, capacity
+9, Time, Learn about time

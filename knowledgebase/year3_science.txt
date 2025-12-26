@@ -10,8 +10,8 @@ Learning Objectives:
 
 Topics:
 
-TOPIC 1: Plants
-TOPIC 2: Animals Including Humans
-TOPIC 3: Rocks and Soils
-TOPIC 4: Light and Shadows
-TOPIC 5: Forces and Magnets
+1, Plants, Learn about plants
+2, Animals Including Humans, Learn about animals including humans
+3, Rocks and Soils, Learn about rocks and soils
+4, Light and Shadows, Learn about light and shadows
+5, Forces and Magnets, Learn about forces and magnets
