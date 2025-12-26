@@ -1,18 +1,15 @@
 Year 2 Science - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Ask questions and perform simple tests
-- Observe closely and gather data
-- Identify and classify living things
-- Understand uses of everyday materials
-- Describe how animals obtain food
-- Explain importance of exercise, diet, and hygiene
-- Observe seasonal changes over the year
+- Understand animal habitats and food chains
+- Explore plant growth
+- Investigate materials and their uses
+- Learn about healthy living
+- Discover forces and motion
 
-Topics:
+Chapters:
 
-1, Living Things and Their Habitats, Learn about living things and their habitats
-2, Plants, Learn about plants
-3, Animals Including Humans, Learn about animals including humans
-4, Uses of Everyday Materials, Learn about uses of everyday materials
-5, Seasonal Changes, Learn about seasonal changes
+1, Living Things and Habitats, habitats, microhabitats, food chains, living, dead, never alive
+2, Plants, seeds, bulbs, growth, water, light, temperature, germination
+3, Uses of Materials, suitability, properties, changing shape, squashing, bending, twisting
+4, Healthy Living, exercise, nutrition, hygiene, growth, basic needs

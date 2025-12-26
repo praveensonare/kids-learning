@@ -1,14 +1,15 @@
-Year 4 Maths - Cambridge Primary Standards
+Year 4 Mathematics - Cambridge Primary Curriculum
 
 Learning Objectives:
+- Work with place value to 10000
+- Master multiplication and division
+- Understand decimals
+- Calculate area and perimeter
+- Work with coordinates
 
+Chapters:
 
-Topics:
-
-1, Place Value to 10,000: Thousands, hundreds, tens, ones; compare and order; round to nearest 10, 100, 1000; Roman numerals to 100 (I, V, X, L, C), Learn about place value to 10,000: thousands, hundreds, tens, ones; compare and order; round to nearest 10, 100, 1000; roman numerals to 100 (i, v, x, l, c)
-2, Four Operations: Add/subtract 4-digits (column method); multiply 3-digits by 1-digit; divide 3-digits by 1-digit; mental strategies; inverse operations, Learn about four operations: add/subtract 4-digits (column method); multiply 3-digits by 1-digit; divide 3-digits by 1-digit; mental strategies; inverse operations
-3, Times Tables: All tables to 12×12; factor pairs; multiplication facts; related division facts; multiply by 10 and 100, Learn about times tables: all tables to 12×12; factor pairs; multiplication facts; related division facts; multiply by 10 and 100
-4, Fractions/Decimals: Count in fractions; add/subtract with same denominator; recognize equivalent fractions; decimals (tenths and hundredths); compare decimals; money as decimals (£4.56), Learn about fractions/decimals: count in fractions; add/subtract with same denominator; recognize equivalent fractions; decimals (tenths and hundredths); compare decimals; money as decimals (£4.56)
-5, Measurement: Convert units (km-m, m-cm, kg-g, l-ml); perimeter of rectangles; area by counting squares; 12-hour and 24-hour time, Learn about measurement: convert units (km-m, m-cm, kg-g, l-ml); perimeter of rectangles; area by counting squares; 12-hour and 24-hour time
-6, Geometry: Classify shapes by properties; angles (acute, obtuse, right); lines of symmetry; position and direction; translations; coordinates (first quadrant), Learn about geometry: classify shapes by properties; angles (acute, obtuse, right); lines of symmetry; position and direction; translations; coordinates (first quadrant)
-7, Statistics: Interpret/construct bar charts, time graphs, pictograms; discrete and continuous data, Learn about statistics: interpret/construct bar charts, time graphs, pictograms; discrete and continuous data
+1, Place Value to 10000, thousands, hundreds, tens, ones, rounding, roman numerals
+2, Times Tables and Division, 6x, 7x, 9x, 11x, 12x tables, factor pairs, division facts
+3, Fractions and Decimals, equivalent fractions, decimals, tenths, hundredths, fraction problems
+4, Area and Perimeter, area, perimeter, rectangles, rectilinear shapes, coordinates

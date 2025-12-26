@@ -1,22 +1,15 @@
-Year 1 Maths - Cambridge Primary Curriculum
+Year 1 Mathematics - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Count, read and write numbers to 100
-- Add and subtract one-digit and two-digit numbers to 20
-- Understand place value (tens and ones)
-- Recognize and name 2D and 3D shapes
-- Measure using standard and non-standard units
-- Tell time to the hour and half hour
-- Solve problems using reasoning
+- Count to 100 and beyond
+- Add and subtract within 20
+- Understand place value
+- Measure and compare
+- Work with fractions
 
-Topics:
+Chapters:
 
-1, Number and Place Value to 100, Learn about number and place value to 100
-2, Addition Within 20, Learn about addition within 20
-3, Subtraction Within 20, Learn about subtraction within 20
-4, Multiplication Introduction, Learn about multiplication introduction
-5, Division Introduction, Learn about division introduction
-6, Fractions - Halves and Quarters, Learn about fractions - halves and quarters
-7, Geometry - 2D and 3D Shapes, Learn about geometry - 2d and 3d shapes
-8, Measurement, Learn about measurement
-9, Time, Learn about time
+1, Place Value, tens, ones, numbers to 100, comparing, ordering, number line
+2, Addition and Subtraction, adding, subtracting, within 20, number bonds, word problems
+3, Multiplication Intro, groups, arrays, doubling, halving, equal groups
+4, Fractions and Measurement, half, quarter, length, weight, capacity, time

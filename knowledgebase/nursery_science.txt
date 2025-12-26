@@ -1,19 +1,15 @@
-Nursery Science - Discovery and Exploration
+Nursery Science - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Explore the natural world through observation and investigation
-- Develop curiosity about living things, materials, and physical phenomena
-- Learn to ask questions and make predictions
-- Use all five senses to investigate objects and materials
-- Understand basic concepts about animals, plants, and the environment
-- Develop scientific vocabulary through hands-on experiences
+- Explore the natural world through observation
+- Use senses to discover and investigate
+- Understand basic needs of living things
+- Observe changes in materials and objects
+- Develop curiosity about how things work
 
-Topics:
+Chapters:
 
-1, Living Things - Animals, Learn about living things - animals
-2, Living Things - Plants, Learn about living things - plants
-3, Our Bodies and Senses, Learn about our bodies and senses
-4, Materials and Their Properties, Learn about materials and their properties
-5, Weather and Seasons, Learn about weather and seasons
-6, Day and Night, Learn about day and night
-7, Forces and Movement, Learn about forces and movement
+1, My Five Senses, sight, hearing, touch, taste, smell, senses, observation
+2, Plants and Animals, living things, plants, animals, growth, needs, habitats
+3, Weather Watch, weather, seasons, sun, rain, wind, temperature, clouds
+4, Materials Around Us, materials, properties, hard, soft, rough, smooth, textures

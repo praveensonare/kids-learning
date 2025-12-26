@@ -1,12 +1,15 @@
-Year 5 Science - Cambridge Primary Standards
+Year 5 Science - Cambridge Primary Curriculum
 
 Learning Objectives:
+- Understand properties and changes of materials
+- Study Earth and space
+- Learn about forces
+- Explore life cycles
+- Investigate reversible changes
 
+Chapters:
 
-Topics:
-
-1, Living Things/Life Cycles: Life cycles (mammal, amphibian, insect, bird); reproduction in plants (sexual, asexual); animal reproduction; Jane Goodall, David Attenborough, Learn about living things/life cycles: life cycles (mammal, amphibian, insect, bird); reproduction in plants (sexual, asexual); animal reproduction; jane goodall, david attenborough
-2, Animals/Humans: Changes through puberty, gestation periods, life expectancy, Learn about animals/humans: changes through puberty, gestation periods, life expectancy
-3, Properties/Changes of Materials: Compare properties, dissolving, separating mixtures (filtering, sieving, evaporating), reversible/irreversible changes (burning, rusting, mixing), new materials formed, Learn about properties/changes of materials: compare properties, dissolving, separating mixtures (filtering, sieving, evaporating), reversible/irreversible changes (burning, rusting, mixing), new materials formed
-4, Earth and Space: Earth, Sun, Moon (spherical bodies); Earth's rotation (day/night); Moon orbits Earth; Earth orbits Sun; planets in Solar System; Sun at center, Learn about earth and space: earth, sun, moon (spherical bodies); earth's rotation (day/night); moon orbits earth; earth orbits sun; planets in solar system; sun at center
-5, Forces: Gravity, air resistance, water resistance, friction; mechanisms (levers, pulleys, gears) allow smaller force to have greater effect, Learn about forces: gravity, air resistance, water resistance, friction; mechanisms (levers, pulleys, gears) allow smaller force to have greater effect
+1, Materials and Properties, dissolving, separating mixtures, reversible changes, irreversible changes
+2, Earth and Space, solar system, planets, Earth rotation, day and night, seasons
+3, Forces, gravity, air resistance, water resistance, friction, mechanisms, levers
+4, Life Cycles, reproduction, mammals, amphibians, insects, birds, plants

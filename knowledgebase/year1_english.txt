@@ -1,19 +1,15 @@
 Year 1 English - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Apply phonic knowledge to read and spell words accurately
-- Read common exception words fluently
-- Write sentences with correct punctuation and grammar
-- Understand and retell stories with proper sequence
-- Develop vocabulary through reading and discussion
-- Participate confidently in speaking and listening activities
+- Apply phonic knowledge to decode words
+- Read common exception words
+- Write sentences with proper punctuation
+- Use suffixes and prefixes
+- Develop reading comprehension
 
-Topics:
+Chapters:
 
-1, Phonics - Phase 5 and Beyond, Learn about phonics - phase 5 and beyond
-2, Common Exception Words, Learn about common exception words
-3, Reading Comprehension, Learn about reading comprehension
-4, Sentence Writing, Learn about sentence writing
-5, Grammar Basics, Learn about grammar basics
-6, Story Writing, Learn about story writing
-7, Poetry and Rhyme, Learn about poetry and rhyme
+1, Advanced Phonics, Phase 5 phonics, alternative spellings, split digraphs, trigraphs, decoding
+2, Reading Skills, fluency, expression, comprehension, prediction, inference
+3, Sentence Construction, sentences, capital letters, full stops, question marks, exclamation marks
+4, Word Building, prefixes, suffixes, -ed, -ing, -s, plural, word families

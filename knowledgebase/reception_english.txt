@@ -1,19 +1,15 @@
 Reception English - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Read simple CVC (consonant-vowel-consonant) words using phonics
-- Write simple sentences with capital letters and full stops
-- Develop comprehension skills through listening and discussion
-- Build vocabulary through stories and conversations
-- Form letters correctly with appropriate size and spacing
-- Recognize high-frequency words by sight
+- Read and write phonetically plausible words
+- Read common exception words
+- Write simple sentences
+- Develop comprehension skills
+- Understand story structure
 
-Topics:
+Chapters:
 
-1, Phonics (Phase 2-4), Learn about phonics (phase 2-4)
-2, High-Frequency Words (Tricky Words), Learn about high-frequency words (tricky words)
-3, Reading CVC and Simple Sentences, Learn about reading cvc and simple sentences
-4, Writing - Letter Formation, Learn about writing - letter formation
-5, Sentence Writing, Learn about sentence writing
-6, Story Comprehension, Learn about story comprehension
-7, Vocabulary and Language, Learn about vocabulary and language
+1, Phonics Foundations, phonics, letter sounds, blending, segmenting, CVC words, digraphs
+2, Reading Adventures, reading, decoding, sight words, fluency, common exception words
+3, Writing Journey, sentence writing, capital letters, full stops, finger spaces, handwriting
+4, Story Comprehension, understanding, prediction, inference, retelling, story structure

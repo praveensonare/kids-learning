@@ -1,17 +1,15 @@
 Year 3 Science - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Ask relevant questions and set up simple tests
-- Make systematic observations and measurements
-- Gather, record, and present data
-- Use evidence to answer questions
-- Identify differences and similarities
-- Use scientific vocabulary
+- Compare and group rocks
+- Understand nutrition and skeletons
+- Explore forces and magnets
+- Investigate light and shadows
+- Study plants
 
-Topics:
+Chapters:
 
-1, Plants, Learn about plants
-2, Animals Including Humans, Learn about animals including humans
-3, Rocks and Soils, Learn about rocks and soils
-4, Light and Shadows, Learn about light and shadows
-5, Forces and Magnets, Learn about forces and magnets
+1, Rocks and Soils, igneous, sedimentary, metamorphic, fossils, soil formation, permeability
+2, Animals and Humans, nutrition, skeleton, muscles, bones, joints, diet
+3, Forces and Magnets, push, pull, friction, magnetic, poles, attract, repel
+4, Light and Shadow, light sources, reflection, mirrors, shadows, sun safety

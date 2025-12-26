@@ -1,21 +1,15 @@
-Reception Maths - Cambridge Primary Curriculum
+Reception Mathematics - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Count reliably to 20 and beyond
-- Recognize, order, and write numbers 0-20
-- Understand addition and subtraction within 10
-- Recognize and describe 2D and 3D shapes
-- Compare and measure using non-standard units
-- Understand time concepts and solve simple problems
+- Count and order numbers to 20
+- Add and subtract within 10
+- Understand number bonds
+- Recognize and create patterns
+- Describe 2D and 3D shapes
 
-Topics:
+Chapters:
 
-1, Counting and Number Recognition (0-20), Learn about counting and number recognition (0-20)
-2, One More, One Less, Learn about one more, one less
-3, Comparing Numbers, Learn about comparing numbers
-4, Number Bonds to 10, Learn about number bonds to 10
-5, Addition Within 10, Learn about addition within 10
-6, Subtraction Within 10, Learn about subtraction within 10
-7, 2D and 3D Shapes, Learn about 2d and 3d shapes
-8, Measurement - Length, Weight, Capacity, Learn about measurement - length, weight, capacity
-9, Time, Learn about time
+1, Numbers to 20, counting, number order, more, less, estimation, number line
+2, Addition and Subtraction, adding, subtracting, number bonds, within 10, strategies
+3, Shape and Space, shapes, 2D, 3D, properties, patterns, symmetry
+4, Measurement Basics, length, height, weight, capacity, time, comparing

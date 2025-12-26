@@ -1,22 +1,15 @@
-Year 2 Maths - Cambridge Primary Curriculum
+Year 2 Mathematics - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Count, read, write numbers to 100, understanding place value
-- Add and subtract 2-digit numbers
-- Know 2, 5, 10 times tables
-- Use and apply fractions
-- Measure using standard units
-- Identify and describe properties of 2D and 3D shapes
-- Tell time to 5 minutes
-- Interpret simple graphs and data
+- Count in steps of 2, 3, 5, and 10
+- Add and subtract two-digit numbers
+- Learn multiplication and division
+- Work with fractions
+- Measure accurately
 
-Topics:
+Chapters:
 
-1, Place Value to 100, Learn about place value to 100
-2, Addition and Subtraction (2-digit numbers), Learn about addition and subtraction (2-digit numbers)
-3, Multiplication and Division, Learn about multiplication and division
-4, Fractions, Learn about fractions
-5, Measurement, Learn about measurement
-6, Geometry - 2D and 3D Shapes, Learn about geometry - 2d and 3d shapes
-7, Time, Learn about time
-8, Statistics and Data, Learn about statistics and data
+1, Place Value to 100, tens, ones, comparing, ordering, number patterns, partitioning
+2, Four Operations, addition, subtraction, multiplication, division, word problems
+3, Fractions, halves, quarters, thirds, equal parts, fraction of amount
+4, Measurement, length, mass, temperature, capacity, time, money

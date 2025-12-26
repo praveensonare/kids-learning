@@ -1,20 +1,15 @@
-Reception Science - Exploring the World Around Us
+Reception Science - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Observe and describe the natural and physical world
-- Ask questions and test simple ideas
-- Identify and name common plants and animals
-- Understand the properties of different materials
-- Recognize seasonal changes and weather patterns
-- Explore how things work through investigation
-- Develop scientific vocabulary and observational skills
+- Observe and describe the natural world
+- Understand life cycles
+- Explore materials and their properties
+- Investigate forces and movement
+- Learn about seasonal changes
 
-Topics:
+Chapters:
 
-1, Living Things - Animals and Their Habitats, Learn about living things - animals and their habitats
-2, Plants and Growth, Learn about plants and growth
-3, Human Body and Health, Learn about human body and health
-4, Materials, Properties, and Changes, Learn about materials, properties, and changes
-5, Seasons, Weather, and Climate, Learn about seasons, weather, and climate
-6, Light and Dark, Learn about light and dark
-7, Sound and Hearing, Learn about sound and hearing
+1, Living Things, animals, plants, growth, life cycle, baby animals, seeds
+2, Material Detectives, materials, wood, plastic, metal, fabric, properties, uses
+3, Seasons and Weather, spring, summer, autumn, winter, weather patterns, seasonal changes
+4, Push and Pull, forces, push, pull, movement, speed, direction

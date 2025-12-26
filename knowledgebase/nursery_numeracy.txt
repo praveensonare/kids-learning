@@ -9,14 +9,9 @@ Learning Objectives:
 - Understand positional language
 - Create and continue simple patterns
 
-Topics:
+Chapters:
 
-1, Counting to 10, Learn about counting to 10
-2, Number Recognition and Formation, Learn about number recognition and formation
-3, One More and One Less, Learn about one more and one less
-4, Comparing Quantities, Learn about comparing quantities
-5, 2D and 3D Shapes, Learn about 2d and 3d shapes
-6, Patterns, Learn about patterns
-7, Positional Language, Learn about positional language
-8, Simple Addition (Combining Groups), Learn about simple addition (combining groups)
-9, Simple Subtraction (Taking Away), Learn about simple subtraction (taking away)
+1, Counting Adventures, counting, numbers 1-10, one-to-one, counting objects, number sequence
+2, Number Recognition, numeral recognition, number formation, writing numbers, number names
+3, Shape Explorers, 2D shapes, 3D shapes, circle, square, triangle, rectangle, sphere, cube
+4, Patterns and Positions, patterns, sequences, positional language, above, below, beside

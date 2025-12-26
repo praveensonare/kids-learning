@@ -1,17 +1,15 @@
 Year 3 English - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Read a range of fiction, non-fiction, and poetry
-- Use dictionaries to check meanings
-- Write narratives with detailed settings and characters
-- Use conjunctions, adverbs, and prepositions
-- Organize paragraphs around a theme
-- Present ideas orally with expression
+- Read a wide range of books
+- Write structured narratives and non-fiction
+- Use paragraphs to organize ideas
+- Apply spelling rules
+- Understand word classes
 
-Topics:
+Chapters:
 
-1, Reading Comprehension, Learn about reading comprehension
-2, Writing - Narrative, Learn about writing - narrative
-3, Grammar and Punctuation, Learn about grammar and punctuation
-4, Spelling and Vocabulary, Learn about spelling and vocabulary
-5, Poetry, Learn about poetry
+1, Reading for Meaning, comprehension, inference, authors intent, themes, literary language
+2, Writing Stories, narrative structure, paragraphs, dialogue, description, character development
+3, Grammar and Punctuation, nouns, verbs, adjectives, adverbs, prepositions, conjunctions
+4, Non-Fiction Writing, information texts, instructions, explanations, reports, organization

@@ -129,8 +129,8 @@ export default function SubjectPage() {
           </div>
         )}
 
-        {/* Topics List - Book Style */}
-        {!loading && knowledgeBase && knowledgeBase.topics.length > 0 && (
+        {/* Chapters List - Book Style */}
+        {!loading && knowledgeBase && knowledgeBase.chapters.length > 0 && (
           <div className="max-w-4xl mx-auto">
             {/* Table of Contents Header */}
             <motion.div
@@ -145,66 +145,61 @@ export default function SubjectPage() {
                 </h3>
               </div>
               <p className="text-sm text-gray-600 mt-2 ml-9">
-                {knowledgeBase.topics.length} Topics · Click any topic to start learning
+                {knowledgeBase.chapters.length} Chapters · Click any chapter to start learning
               </p>
             </motion.div>
 
-            {/* Topics List */}
+            {/* Chapters List */}
             <div className="bg-white/95 backdrop-blur-sm rounded-b-2xl shadow-xl border-x-2 border-b-2 border-purple-200 divide-y divide-gray-200">
-              {knowledgeBase.topics.map((topic, index) => (
+              {knowledgeBase.chapters.map((chapter, index) => (
                 <motion.div
-                  key={topic.id}
+                  key={chapter.id}
                   initial={{ opacity: 0, x: -20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: index * 0.05 }}
                 >
-                  <Link href={`/${classId}/${subjectId}/${topic.id}`}>
+                  <Link href={`/${classId}/${subjectId}/${chapter.id}`}>
                     <motion.div
                       whileHover={{ backgroundColor: 'rgba(147, 51, 234, 0.05)', x: 4 }}
                       className="p-4 md:p-5 cursor-pointer transition-all group relative"
                     >
                       <div className="flex items-start gap-4">
-                        {/* Topic Number */}
+                        {/* Chapter Number */}
                         <div className="flex-shrink-0">
                           <div className={`${subjectData.color} w-10 h-10 md:w-12 md:h-12 rounded-lg flex items-center justify-center shadow-md border-2 border-white group-hover:scale-110 transition-transform`}>
                             <span className="text-lg md:text-xl font-black text-white">
-                              {topic.number}
+                              {chapter.number}
                             </span>
                           </div>
                         </div>
 
-                        {/* Topic Content */}
+                        {/* Chapter Content */}
                         <div className="flex-1 min-w-0">
-                          {/* Topic Title */}
+                          {/* Chapter Title */}
                           <h4 className="text-base md:text-lg font-bold text-gray-900 group-hover:text-purple-700 transition-colors mb-1 leading-tight">
-                            {topic.title}
+                            {chapter.title}
                           </h4>
 
-                          {/* Topic Description */}
-                          {topic.description && (
+                          {/* Topics Count */}
+                          {chapter.topics && chapter.topics.length > 0 && (
                             <p className="text-sm text-gray-600 mb-2 leading-relaxed">
-                              {topic.description}
+                              {chapter.topics.length} {chapter.topics.length === 1 ? 'topic' : 'topics'} to explore
                             </p>
                           )}
 
-                          {/* Content Badges */}
+                          {/* Keywords Badges */}
                           <div className="flex flex-wrap gap-2">
-                            {topic.theory && (
-                              <span className="bg-blue-50 text-blue-700 px-2 py-0.5 rounded-md text-xs font-semibold border border-blue-200 flex items-center gap-1">
-                                <BookOpen className="w-3 h-3" />
-                                Theory
+                            {chapter.keywords.slice(0, 6).map((keyword, idx) => (
+                              <span
+                                key={idx}
+                                className="bg-purple-50 text-purple-700 px-2 py-0.5 rounded-md text-xs font-semibold border border-purple-200"
+                              >
+                                {keyword}
                               </span>
-                            )}
-                            {topic.examples && (
-                              <span className="bg-green-50 text-green-700 px-2 py-0.5 rounded-md text-xs font-semibold border border-green-200 flex items-center gap-1">
-                                <Lightbulb className="w-3 h-3" />
-                                Examples
-                              </span>
-                            )}
-                            {topic.worksheets && (
-                              <span className="bg-orange-50 text-orange-700 px-2 py-0.5 rounded-md text-xs font-semibold border border-orange-200 flex items-center gap-1">
-                                <FileText className="w-3 h-3" />
-                                Worksheets
+                            ))}
+                            {chapter.keywords.length > 6 && (
+                              <span className="bg-gray-50 text-gray-600 px-2 py-0.5 rounded-md text-xs font-semibold border border-gray-200">
+                                +{chapter.keywords.length - 6} more
                               </span>
                             )}
                           </div>
@@ -256,15 +251,15 @@ export default function SubjectPage() {
               <div className="flex items-center gap-3 text-sm text-gray-700">
                 <Sparkles className="w-5 h-5 text-purple-600" />
                 <p className="font-semibold">
-                  Each topic includes comprehensive theory, worked examples, and practice worksheets
+                  Each chapter contains multiple topics with comprehensive theory, worked examples, and practice problems
                 </p>
               </div>
             </motion.div>
           </div>
         )}
 
-        {/* No Topics State */}
-        {!loading && (!knowledgeBase || knowledgeBase.topics.length === 0) && (
+        {/* No Chapters State */}
+        {!loading && (!knowledgeBase || knowledgeBase.chapters.length === 0) && (
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
