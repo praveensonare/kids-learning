@@ -1,10 +1,27 @@
-Year 5 History - Cambridge Primary Standards
+Year 5 History - Cambridge Primary Curriculum
 
-Learning Objectives: Know and understand British history chronologically, understand change/continuity, make connections, analyze trends
+Learning Objectives:
+- Study Ancient Greece
+- Learn about Greek legacy
+- Understand democracy
+- Study Greek mythology
+- Compare ancient civilizations
 
-Key Topics:
-TOPIC 1: Anglo-Saxons and Scots (CE 410-1066): Migration after Romans left; kingdoms (Northumbria, Mercia, Wessex); King Alfred the Great; Anglo-Saxon culture (Beowulf, Sutton Hoo); Christianity spreads; Viking raids and settlements; Edward the Confessor
-TOPIC 2: Vikings (CE 793-1066): Viking invasions; Lindisfarne raid (793); Danelaw; Viking culture (longships, sagas, gods); trade and exploration; King Cnut; Harald Hardrada; Battle of Stamford Bridge
-TOPIC 3: Early Islamic Civilization (CE 600-1600): Prophet Muhammad; spread of Islam; Baghdad House of Wisdom; achievements in mathematics (algebra, algorithms), medicine, astronomy, architecture; compare with European Dark Ages
-TOPIC 4: Historical Study Non-European: Maya civilization, Benin Kingdom, or Shang Dynasty; achievements, daily life, legacy
-Worksheets: Anglo-Saxon/Viking comparison, Islamic Golden Age inventions, timeline integration, source analysis, historical debates
+Chapters:
+
+chapter no: 1
+name: Ancient Greek Civilization
+description: Athens, Sparta, City-states, Greek society
+
+chapter no: 2
+name: Greek Democracy
+description: Democracy, Government, Citizenship, Voting
+
+chapter no: 3
+name: Greek Culture
+description: Olympics, Theater, Philosophy, Architecture
+
+chapter no: 4
+name: Greek Legacy
+description: Influence, Modern world, Alphabet, Mathematics
+

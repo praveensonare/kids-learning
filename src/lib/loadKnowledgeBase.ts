@@ -5,20 +5,30 @@ export interface Topic {
   id: string;
   number: number;
   title: string;
-  fullContent: string;
+  description: string;
   theory?: string;
   examples?: string;
   worksheets?: string;
+  problemsEasy?: string[];
+  problemsMedium?: string[];
+  problemsDifficult?: string[];
+}
+
+export interface Chapter {
+  id: string;
+  number: number;
+  title: string;
+  keywords: string[];
+  topics: Topic[];
 }
 
 export interface KnowledgeBaseContent {
   title: string;
   learningObjectives: string[];
-  keyTopics: string[];
+  chapters: Chapter[];
   activities: string[];
   funFacts: string[];
   tips: string[];
-  topics: Topic[];
 }
 
 export async function loadKnowledgeBase(
@@ -72,11 +82,10 @@ export async function loadKnowledgeBase(
     const parsedContent: KnowledgeBaseContent = {
       title: '',
       learningObjectives: [],
-      keyTopics: [],
+      chapters: [],
       activities: [],
       funFacts: [],
       tips: [],
-      topics: [],
     };
 
     // Extract title (first line)
@@ -94,101 +103,73 @@ export async function loadKnowledgeBase(
       }
     }
 
-    // Extract topics (TOPIC 1: Title, TOPIC 2: Title, etc.)
-    const topicPattern = /^TOPIC (\d+):\s*(.+)$/;
-    let currentTopic: Topic | null = null;
-    let currentSection = '';
-    let sectionContent: string[] = [];
+    // Extract chapters from index file
+    // New format: chapter no: X \n name: Chapter Name \n description: topic1, topic2, ...
+    const chaptersStart = lines.findIndex(line => line.includes('Chapters:'));
 
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i];
-      const topicMatch = line.match(topicPattern);
+    if (chaptersStart !== -1) {
+      let i = chaptersStart + 1;
+      while (i < lines.length) {
+        const line = lines[i].trim();
 
-      if (topicMatch) {
-        // Save previous topic if exists
-        if (currentTopic) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
-            }
-          }
-          parsedContent.topics.push(currentTopic);
+        // Skip empty lines
+        if (!line) {
+          i++;
+          continue;
         }
 
-        // Start new topic
-        const topicNumber = parseInt(topicMatch[1]);
-        const topicTitle = topicMatch[2].trim();
-        currentTopic = {
-          id: topicTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
-          number: topicNumber,
-          title: topicTitle,
-          fullContent: '',
-          theory: '',
-          examples: '',
-          worksheets: '',
-        };
-        currentSection = '';
-        sectionContent = [];
-      } else if (currentTopic) {
-        // Check for section headers
-        if (line.trim() === 'Theory:' || line.startsWith('Theory:')) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
-            }
-          }
-          currentSection = 'Theory';
-          sectionContent = [];
-        } else if (line.trim() === 'Examples:' || line.startsWith('Examples:') || line.includes('Mental Strategies:') || line.includes('Examples - ')) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
-            }
-          }
-          currentSection = 'Examples';
-          sectionContent = [];
-        } else if (line.trim() === 'Worksheets:' || line.startsWith('Worksheets:')) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
-            }
-          }
-          currentSection = 'Worksheets';
-          sectionContent = [];
-        } else if (currentSection) {
-          sectionContent.push(line);
+        // Stop if we hit another section
+        if (line.startsWith('Sample') || line.startsWith('Assessment')) {
+          break;
         }
+
+        // Look for chapter no:
+        if (line.startsWith('chapter no:')) {
+          const chapterNumber = parseInt(line.split(':')[1].trim());
+
+          // Get name from next line
+          i++;
+          const nameLine = lines[i].trim();
+          let chapterTitle = '';
+          if (nameLine.startsWith('name:')) {
+            chapterTitle = nameLine.split(':').slice(1).join(':').trim();
+          }
+
+          // Get description from next line
+          i++;
+          const descLine = lines[i].trim();
+          let keywords: string[] = [];
+          if (descLine.startsWith('description:')) {
+            const descriptionText = descLine.split(':').slice(1).join(':').trim();
+            keywords = descriptionText.split(',').map(k => k.trim());
+          }
+
+          if (!isNaN(chapterNumber) && chapterTitle) {
+            const chapterId = chapterTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+
+            const chapter: Chapter = {
+              id: chapterId,
+              number: chapterNumber,
+              title: chapterTitle,
+              keywords: keywords,
+              topics: []
+            };
+
+            // Read individual chapter file
+            const chapterFilename = `${className}_${subjectName}_chapter${chapterNumber}.txt`;
+            const chapterFilePath = path.join(process.cwd(), 'knowledgebase', chapterFilename);
+
+            if (fs.existsSync(chapterFilePath)) {
+              const chapterContent = fs.readFileSync(chapterFilePath, 'utf-8');
+              chapter.topics = parseChapterTopics(chapterContent);
+            }
+
+            parsedContent.chapters.push(chapter);
+          }
+        }
+
+        i++;
       }
-    }
-
-    // Save last topic
-    if (currentTopic) {
-      if (currentSection && sectionContent.length > 0) {
-        if (currentSection === 'Theory') {
-          currentTopic.theory = sectionContent.join('\n');
-        } else if (currentSection === 'Examples') {
-          currentTopic.examples = sectionContent.join('\n');
-        } else if (currentSection === 'Worksheets') {
-          currentTopic.worksheets = sectionContent.join('\n');
-        }
-      }
-      parsedContent.topics.push(currentTopic);
     }
 
     // Extract sample activities
@@ -202,9 +183,9 @@ export async function loadKnowledgeBase(
     }
 
     // Generate fun facts and tips
-    if (parsedContent.topics.length > 0) {
+    if (parsedContent.chapters.length > 0) {
       parsedContent.funFacts.push(
-        `Explore ${parsedContent.topics.length} exciting topics in this subject!`
+        `Explore ${parsedContent.chapters.length} exciting chapters in this subject!`
       );
     }
 
@@ -216,5 +197,115 @@ export async function loadKnowledgeBase(
   } catch (error) {
     console.error('Error loading knowledge base:', error);
     return null;
+  }
+}
+
+// Helper function to parse topics from chapter content
+function parseChapterTopics(content: string): Topic[] {
+  const topics: Topic[] = [];
+  const lines = content.split('\n');
+
+  // Find all TOPIC sections
+  const topicPattern = /^TOPIC (\d+):\s*(.+)$/;
+  let currentTopic: Topic | null = null;
+  let currentSection = '';
+  let sectionContent: string[] = [];
+  let problemsEasy: string[] = [];
+  let problemsMedium: string[] = [];
+  let problemsDifficult: string[] = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const topicMatch = line.match(topicPattern);
+
+    if (topicMatch) {
+      // Save previous topic
+      if (currentTopic) {
+        saveSectionContent(currentTopic, currentSection, sectionContent);
+        currentTopic.problemsEasy = problemsEasy;
+        currentTopic.problemsMedium = problemsMedium;
+        currentTopic.problemsDifficult = problemsDifficult;
+        topics.push(currentTopic);
+      }
+
+      // Start new topic
+      const topicNumber = parseInt(topicMatch[1]);
+      const topicTitle = topicMatch[2].trim();
+      currentTopic = {
+        id: topicTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+        number: topicNumber,
+        title: topicTitle,
+        description: '',
+      };
+      currentSection = '';
+      sectionContent = [];
+      problemsEasy = [];
+      problemsMedium = [];
+      problemsDifficult = [];
+    } else if (line.startsWith('---')) {
+      // Topic separator
+      continue;
+    } else if (line.trim() === 'Theory:') {
+      saveSectionContent(currentTopic, currentSection, sectionContent);
+      currentSection = 'Theory';
+      sectionContent = [];
+    } else if (line.startsWith('Examples:') || line.includes('Example 1:')) {
+      saveSectionContent(currentTopic, currentSection, sectionContent);
+      currentSection = 'Examples';
+      sectionContent = line.startsWith('Examples:') ? [] : [line];
+    } else if (line.startsWith('Interactive Worksheet:')) {
+      saveSectionContent(currentTopic, currentSection, sectionContent);
+      currentSection = 'Worksheet';
+      sectionContent = [];
+    } else if (line.startsWith('Problems - Easy Level:')) {
+      saveSectionContent(currentTopic, currentSection, sectionContent);
+      currentSection = 'ProblemsEasy';
+      sectionContent = [];
+    } else if (line.startsWith('Problems - Medium Level:')) {
+      saveSectionContent(currentTopic, currentSection, sectionContent);
+      currentSection = 'ProblemsMedium';
+      sectionContent = [];
+    } else if (line.startsWith('Problems - Difficult Level:')) {
+      saveSectionContent(currentTopic, currentSection, sectionContent);
+      currentSection = 'ProblemsDifficult';
+      sectionContent = [];
+    } else if (currentSection) {
+      const trimmed = line.trim();
+      if (trimmed) {
+        if (currentSection === 'ProblemsEasy') {
+          if (/^\d+\./.test(trimmed)) problemsEasy.push(trimmed);
+        } else if (currentSection === 'ProblemsMedium') {
+          if (/^\d+\./.test(trimmed)) problemsMedium.push(trimmed);
+        } else if (currentSection === 'ProblemsDifficult') {
+          if (/^\d+\./.test(trimmed)) problemsDifficult.push(trimmed);
+        } else {
+          sectionContent.push(line);
+        }
+      }
+    }
+  }
+
+  // Save last topic
+  if (currentTopic) {
+    saveSectionContent(currentTopic, currentSection, sectionContent);
+    currentTopic.problemsEasy = problemsEasy;
+    currentTopic.problemsMedium = problemsMedium;
+    currentTopic.problemsDifficult = problemsDifficult;
+    topics.push(currentTopic);
+  }
+
+  return topics;
+}
+
+function saveSectionContent(topic: Topic | null, section: string, content: string[]) {
+  if (!topic || !section || content.length === 0) return;
+
+  const text = content.join('\n').trim();
+  if (section === 'Theory') {
+    topic.theory = text;
+  } else if (section === 'Examples') {
+    topic.examples = text;
+  } else if (section === 'Worksheet') {
+    topic.worksheets = text;
   }
 }

@@ -96,7 +96,7 @@ export default function HomePage() {
         </motion.div>
 
         {/* Class Cards Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 md:gap-6 max-w-7xl mx-auto relative z-10">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-5 max-w-7xl mx-auto relative z-10">
           {classes.map((classItem, index) => (
             <motion.div
               key={classItem.id}
@@ -106,10 +106,10 @@ export default function HomePage() {
             >
               <Link href={`/${classItem.id}`}>
                 <motion.div
-                  whileHover={{ y: -10, scale: 1.03 }}
+                  whileHover={{ y: -8, scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
-                  className={`${classItem.color} rounded-3xl p-6 shadow-2xl cursor-pointer h-full transition-all hover:shadow-[0_20px_50px_rgba(0,0,0,0.3)] relative overflow-hidden group border-2 border-white/20`}
-                  style={{ minHeight: '300px' }}
+                  className={`${classItem.color} rounded-2xl p-4 shadow-xl cursor-pointer h-full transition-all hover:shadow-2xl relative overflow-hidden group border-2 border-white/20`}
+                  style={{ minHeight: '220px' }}
                 >
                   {/* Decorative Pattern Background */}
                   <div className="absolute inset-0 opacity-10">
@@ -132,7 +132,7 @@ export default function HomePage() {
                   <div className="relative z-10 flex flex-col items-center text-center h-full justify-between">
                     {/* Icon with glow */}
                     <motion.div
-                      className="text-6xl md:text-7xl mb-3 drop-shadow-2xl filter brightness-110"
+                      className="text-4xl md:text-5xl mb-2 drop-shadow-2xl filter brightness-110"
                       animate={{
                         rotate: [0, 10, -10, 0],
                         scale: [1, 1.05, 1.05, 1]
@@ -148,20 +148,20 @@ export default function HomePage() {
 
                     <div className="flex-1 flex flex-col justify-center">
                       {/* Title with stronger shadow */}
-                      <h3 className="text-2xl md:text-3xl font-black text-white mb-3 drop-shadow-[0_4px_8px_rgba(0,0,0,0.5)]">
+                      <h3 className="text-xl md:text-2xl font-black text-white mb-2 drop-shadow-[0_4px_8px_rgba(0,0,0,0.5)]">
                         {classItem.name}
                       </h3>
 
                       {/* Level Badge */}
-                      <div className="inline-block bg-white/40 backdrop-blur-xl px-5 py-2 rounded-full mb-3 border-2 border-white/60 shadow-lg">
-                        <p className="text-sm font-black text-white drop-shadow-md">
+                      <div className="inline-block bg-white/40 backdrop-blur-xl px-3 py-1 rounded-full mb-2 border-2 border-white/60 shadow-lg">
+                        <p className="text-xs font-black text-white drop-shadow-md">
                           {classItem.level}
                         </p>
                       </div>
 
                       {/* Description with background */}
-                      <div className="bg-black/20 backdrop-blur-sm rounded-2xl px-4 py-3 border border-white/20">
-                        <p className="text-white text-sm md:text-base font-bold drop-shadow-md leading-snug">
+                      <div className="bg-black/20 backdrop-blur-sm rounded-xl px-3 py-2 border border-white/20">
+                        <p className="text-white text-xs md:text-sm font-bold drop-shadow-md leading-snug">
                           {classItem.description}
                         </p>
                       </div>
@@ -169,16 +169,16 @@ export default function HomePage() {
 
                     {/* Arrow Icon with pulse effect */}
                     <motion.div
-                      className="mt-4"
+                      className="mt-2"
                       animate={{ x: [0, 8, 0] }}
                       transition={{
                         duration: 1.5,
                         repeat: Infinity,
                       }}
                     >
-                      <div className="bg-white/50 backdrop-blur-md p-3 rounded-full border-2 border-white/70 shadow-xl group-hover:bg-white/70 transition-all">
+                      <div className="bg-white/50 backdrop-blur-md p-2 rounded-full border-2 border-white/70 shadow-xl group-hover:bg-white/70 transition-all">
                         <svg
-                          className="w-6 h-6 text-white drop-shadow-lg"
+                          className="w-5 h-5 text-white drop-shadow-lg"
                           fill="none"
                           stroke="currentColor"
                           viewBox="0 0 24 24"

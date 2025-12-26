@@ -1,190 +1,27 @@
 Year 1 English - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Apply phonic knowledge to read and spell words accurately
-- Read common exception words fluently
-- Write sentences with correct punctuation and grammar
-- Understand and retell stories with proper sequence
-- Develop vocabulary through reading and discussion
-- Participate confidently in speaking and listening activities
+- Apply phonic knowledge to decode words
+- Read common exception words
+- Write sentences with proper punctuation
+- Use suffixes and prefixes
+- Develop reading comprehension
 
-Key Topics:
+Chapters:
 
-TOPIC 1: Phonics - Phase 5 and Beyond
-Theory: Phase 5 phonics introduces alternative spellings for sounds already learned. Children learn that the same sound can be spelled in different ways (ai/ay/a-e for the long 'a' sound).
+chapter no: 1
+name: Advanced Phonics
+description: Phase 5 phonics, Alternative spellings, Split digraphs, Trigraphs
 
-Alternative Spellings Examples:
-- Long 'a': ai (rain), ay (play), a-e (cake), a (table)
-- Long 'e': ee (tree), ea (sea), e-e (these), e (he), ie (field)
-- Long 'i': igh (light), i-e (bike), y (fly), ie (pie)
-- Long 'o': oa (boat), o-e (bone), ow (snow), o (go)
-- Long 'u': ue (blue), u-e (cute), ew (new)
+chapter no: 2
+name: Reading Skills
+description: Fluency, Expression, Comprehension, Prediction
 
-Worksheets:
-1. Sort Words: Group words by their spelling pattern (rain, play, cake all have long 'a')
-2. Read and Match: Read words and match to pictures (night, light, bright)
-3. Spell Check: Circle the correct spelling (rane, rain, rayn)
-4. Phoneme Frames: How many sounds in "night"? (3: n-igh-t)
+chapter no: 3
+name: Sentence Construction
+description: Sentences, Capital letters, Full stops, Question marks
 
-TOPIC 2: Common Exception Words
-Theory: These high-frequency words don't follow regular phonic patterns and must be learned by sight.
+chapter no: 4
+name: Word Building
+description: Prefixes, Suffixes, -ed, -ing
 
-Year 1 Common Exception Words:
-the, a, do, to, today, of, said, says, are, were, was, is, his, has, I, you, your, they, be, he, me, she, we, no, go, so, by, my, here, there, where, love, come, some, one, once, ask, friend, school, put, push, pull, full, house, our
-
-Worksheets:
-1. Look, Cover, Write, Check: Practice spelling exception words
-2. Sentence Building: Use 5 exception words in sentences
-3. Word Search: Find 10 exception words in the grid
-4. Missing Letters: c_me, s_me, fr_ _nd
-
-TOPIC 3: Reading Comprehension
-Theory: Good readers make sense of what they read by thinking about characters, events, and meanings. They can answer questions and make predictions.
-
-Reading Strategies:
-- Sound out unfamiliar words
-- Use picture clues
-- Re-read if confused
-- Think about what makes sense
-- Predict what happens next
-- Visualize the story
-
-Comprehension Questions:
-- Who? (characters)
-- What? (events)
-- Where? (setting)
-- When? (time)
-- Why? (reasons)
-- How? (method)
-
-Example Text: "Jack climbed the tall beanstalk. He saw a giant's castle in the clouds. Jack felt scared but he was brave."
-
-Questions:
-- Who climbed the beanstalk? (Jack)
-- What did Jack see? (A giant's castle)
-- How did Jack feel? (Scared but brave)
-- Why do you think Jack was brave? (He kept going even though he was scared)
-
-Worksheets:
-1. Read and Answer: Read a short story and answer 5 questions
-2. True or False: Mark statements about the text as T or F
-3. Story Sequence: Put events in order (1, 2, 3, 4)
-4. Character Feelings: How did the character feel at the start? At the end?
-
-TOPIC 4: Sentence Writing
-Theory: Sentences express complete thoughts. They must start with capital letters, have correct spaces, and end with appropriate punctuation (. ! ?).
-
-Sentence Types:
-- Statement: "The cat is black." (full stop)
-- Question: "Where is the cat?" (question mark)
-- Exclamation: "What a big cat!" (exclamation mark)
-- Command: "Feed the cat." (full stop)
-
-Sentence Checklist:
-✓ Capital letter at start
-✓ Finger spaces between words
-✓ Makes sense
-✓ Correct punctuation at end
-✓ Proper letter formation
-
-Worksheets:
-1. Fix the Sentence: "the dog ran fast" → "The dog ran fast."
-2. Add Punctuation: "Where are you going__ I am going to school__"
-3. Expand Sentences: "I like dogs." → "I like big, fluffy dogs with wagging tails."
-4. Type the Sentence: Identify if statement, question, command, or exclamation
-
-TOPIC 5: Grammar Basics
-Theory: Understanding parts of speech helps us construct correct and interesting sentences.
-
-Nouns: Names of people, places, things, animals
-Examples: cat, London, book, teacher, happiness
-
-Verbs: Action or being words
-Examples: run, jump, eat, is, was, has
-
-Adjectives: Describing words (tell us more about nouns)
-Examples: big, small, red, happy, fluffy
-
-Plural Nouns:
-- Add -s: cat → cats, dog → dogs
-- Add -es: box → boxes, church → churches
-- Irregular: child → children, mouse → mice
-
-Worksheets:
-1. Noun Hunt: Circle all the nouns in the sentence
-2. Verb Actions: Match verbs to pictures of actions
-3. Adjective Addition: Add adjectives: "The ___ dog played with a ___ ball."
-4. Singular to Plural: Write the plural form of 10 nouns
-
-TOPIC 6: Story Writing
-Theory: Stories have a clear structure with beginning, middle, and end. They include characters, settings, and events.
-
-Story Structure:
-- Beginning: Introduce characters and setting
-- Middle: Problem or adventure happens
-- End: Problem solved, story concludes
-
-Story Elements:
-- Who: Characters (give them names)
-- Where: Setting (describe the place)
-- When: Time (morning, long ago, etc.)
-- What: Events (what happens)
-- Feelings: How characters feel
-
-Example Story Plan:
-Beginning: "Once upon a time, there was a brave knight named Sir Tom."
-Middle: "He went to rescue a dragon from a mean wizard."
-End: "Sir Tom freed the dragon and they became friends."
-
-Worksheets:
-1. Story Plan: Draw and label beginning, middle, end
-2. Character Description: Draw and describe your character
-3. Story Starter: Continue "One day, I found a magic key..."
-4. Rewrite: Retell a fairy tale in your own words
-
-TOPIC 7: Poetry and Rhyme
-Theory: Poems use rhythm, rhyme, and special language to create images and feelings.
-
-Rhyming Patterns:
-- Couplets: AA (lines 1&2 rhyme)
-- Alternate: ABAB (lines 1&3, 2&4 rhyme)
-
-Example Poem:
-"The cat sat on the mat, (A)
-And wore a little hat. (A)
-The dog ran very far, (B)
-To play with a toy car." (B)
-
-Poetic Devices:
-- Alliteration: "Silly snakes slither slowly"
-- Repetition: "Jump, jump, jump!"
-- Onomatopoeia: splash, bang, buzz
-
-Worksheets:
-1. Find the Rhyme: Circle pairs of rhyming words in the poem
-2. Complete the Poem: Fill in the missing rhyming word
-3. Write a Couplet: Two lines that rhyme about your pet
-4. Alliteration: Write a sentence where most words start with 's'
-
-Sample Activities:
-- Guided Reading: Small group sessions with leveled books
-- Phonics Games: Sound bingo, word building with magnetic letters
-- Independent Writing: Daily writing journal or news
-- Drama: Role-play stories, hot-seating characters
-- Poetry Performance: Learn and recite poems
-- Book Club: Share favorite books with class
-- Spelling Practice: Weekly spelling tests and games
-- Handwriting: Daily practice of letter formation and joins
-- Library Time: Choose books independently
-- Author Study: Read multiple books by one author
-
-Assessment Ideas:
-- Can decode words using phonic knowledge
-- Reads common exception words automatically
-- Writes sentences with capital letters and full stops
-- Uses question marks and exclamation marks appropriately
-- Spells common words correctly
-- Uses adjectives to make writing interesting
-- Retells familiar stories in sequence
-- Participates in class discussions
-- Reads age-appropriate texts with fluency

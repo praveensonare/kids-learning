@@ -1,14 +1,27 @@
-Year 6 Maths - Cambridge Primary Standards (Preparation for Secondary)
+Year 6 Mathematics - Cambridge Primary Curriculum
 
-Learning Objectives: Read/write numbers to 10,000,000, algebra introduction, ratio and proportion, advanced fractions/decimals/percentages, circles, BIDMAS
+Learning Objectives:
+- Work with numbers to 10000000
+- Master all four operations
+- Work fluently with fractions, decimals and percentages
+- Solve complex problems
+- Apply mathematical reasoning
 
-Key Topics:
-TOPIC 1: Place Value to 10,000,000: Read, write, order, compare; powers of 10; negative numbers in context
-TOPIC 2: Four Operations: Multi-step problems; long multiplication/division; BIDMAS (Brackets, Indices, Division/Multiplication, Addition/Subtraction); mental calculations with large numbers
-TOPIC 3: Fractions/Decimals/Percentages: Simplify fractions; common factors/multiples; add/subtract fractions with different denominators; multiply/divide fractions; 4 decimal places; percentages of amounts; percentage increase/decrease
-TOPIC 4: Ratio and Proportion: Ratio notation; solve problems; scale factors; similar shapes; unequal sharing
-TOPIC 5: Algebra: Use simple formulae; generate sequences; express missing number problems algebraically; find pairs of numbers for equations with two unknowns; enumerate possibilities
-TOPIC 6: Measurement: Convert between standard units; area of triangles/parallelograms; volume of cubes/cuboids
-TOPIC 7: Geometry: Classify shapes; angles in polygons; draw 2D shapes; coordinates (4 quadrants); translate/reflect shapes; names of parts of circle
-TOPIC 8: Statistics: Pie charts, line graphs, mean average; interpret and solve problems
-Worksheets: Large number calculations, algebra problems, ratio and proportion, advanced fraction operations, geometric reasoning, statistical analysis
+Chapters:
+
+chapter no: 1
+name: Number and Place Value
+description: Ten million, Negative numbers, Rounding, Estimation
+
+chapter no: 2
+name: Calculation Mastery
+description: Four operations, Order of operations, Mental strategies, Problem solving
+
+chapter no: 3
+name: FDP and Ratio
+description: Fractions, Decimals, Percentages, Ratio
+
+chapter no: 4
+name: Geometry and Statistics
+description: Circles, Area, Volume, Mean
+

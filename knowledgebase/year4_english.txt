@@ -1,11 +1,27 @@
-Year 4 English - Cambridge Primary Standards
+Year 4 English - Cambridge Primary Curriculum
 
-Learning Objectives: Read widely, write for range of purposes, use complex grammar structures, speak confidently, expand vocabulary through context
+Learning Objectives:
+- Read and discuss a range of texts
+- Write with clear structure and detail
+- Use advanced punctuation
+- Expand vocabulary
+- Understand grammar rules
 
-Key Topics:
-TOPIC 1: Reading - Fiction/Non-Fiction/Poetry: Themes, inference from actions/dialogue, predict from stated/implied details, summarize main ideas, identify how language/structure/presentation contribute to meaning
-TOPIC 2: Writing Narrative: Detailed settings/characters, varied sentence structures (simple, compound, complex), paragraphs for cohesion, fronted adverbials, powerful vocabulary
-TOPIC 3: Grammar: Determiners, pronouns, possessive pronouns, fronted adverbials with commas, noun phrases, prepositions, conjunctions, inverted commas for speech and quotes
-TOPIC 4: Spelling: Prefixes (in-, im-, il-, ir-, sub-, inter-), suffixes (-ation, -ly, -ous), homophones (accept/except, whose/who's), apostrophes for possession/contraction
-TOPIC 5: Poetry Analysis: Figurative language, verse structure, rhythm and rhyme, performance, write own poems using techniques learned
-Worksheets: Character analysis, story planning, grammar exercises, spelling tests, poetry annotation, writing for different audiences and purposes
+Chapters:
+
+chapter no: 1
+name: Advanced Reading
+description: Analyzing, Evaluating, Comparing texts, Themes
+
+chapter no: 2
+name: Creative Writing
+description: Descriptive writing, Settings, Characters, Suspense
+
+chapter no: 3
+name: Advanced Grammar
+description: Fronted adverbials, Pronouns, Determiners, Clauses
+
+chapter no: 4
+name: Punctuation Mastery
+description: Inverted commas, Apostrophes, Commas in lists, Direct speech
+

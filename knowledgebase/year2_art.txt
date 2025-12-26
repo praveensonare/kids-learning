@@ -1,11 +1,26 @@
-Year 2 Art & Design - Cambridge Primary Standards
+Year 2 Art - Cambridge Primary Curriculum
 
-Learning Objectives: Develop techniques in drawing/painting/sculpture, use sketchbook to collect ideas, learn about great artists/architects/designers
+Learning Objectives:
+- Develop techniques in drawing, painting and sculpture
+- Learn about great artists and designers
+- Use sketch books to record observations
+- Mix and use a range of colors
 
-Key Topics:
-TOPIC 1: Drawing Skills: Different pencils (H, HB, B); observational drawing with detail; patterns and textures; continuous line drawing; mark-making
-TOPIC 2: Painting Techniques: Warm colors (red, orange, yellow) vs cool colors (blue, green, purple); painting moods; thick and thin brushes; watercolor techniques; landscape painting
-TOPIC 3: Printing: Block printing with objects; patterns and repeats; potato/sponge printing; creating wrapping paper designs; symmetry in prints
-TOPIC 4: Textiles: Weaving with paper/fabric strips; simple stitching; fabric collage; creating patterns on fabric
-TOPIC 5: Artist Studies: Henri Matisse (cut-outs, bright colors), Claude Monet (water lilies, Impressionism), Paul Klee (geometric patterns, colors)
-Worksheets: Sketchbook practice, color mood boards, pattern designs, artist comparison activities
+Chapters:
+
+chapter no: 1
+name: Drawing and Mark Making
+description: Sketching, Shading, Texture, Tone
+
+chapter no: 2
+name: Color Theory
+description: Color wheel, Warm colors, Cool colors, Tints
+
+chapter no: 3
+name: Print Making
+description: Printing, Patterns, Repeated patterns, Stamps
+
+chapter no: 4
+name: Famous Artists
+description: Monet, Van Gogh, Art movements, Impressionism
+

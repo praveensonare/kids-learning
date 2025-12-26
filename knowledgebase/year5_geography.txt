@@ -1,11 +1,27 @@
-Year 5 Geography - Cambridge Primary Standards
+Year 5 Geography - Cambridge Primary Curriculum
 
-Learning Objectives: Locate world countries focusing on N&S America, identify human/physical features, understand biomes, use digital/computer mapping
+Learning Objectives:
+- Study North and South America
+- Understand biomes
+- Learn about climate change
+- Study rivers in detail
+- Understand human geography
 
-Key Topics:
-TOPIC 1: North America in Detail: USA states and cities; Canada provinces; Mexico; physical features (Grand Canyon, Great Lakes, Rocky Mountains); climate zones; economic activities; population distribution
-TOPIC 2: South America: Countries and capitals; Amazon Rainforest (extent, importance, deforestation); Andes Mountains; climate zones; indigenous peoples; economic activities (farming, mining)
-TOPIC 3: Biomes: Rainforests (tropical, temperate); deserts (hot, cold); tundra; savanna; characteristics; plants and animals adapted; climate; threats to biomes
-TOPIC 4: Environmental Issues: Deforestation causes and effects; climate change; conservation; sustainable development; human impact on environment
-TOPIC 5: Economic Geography: Trade; imports and exports; fair trade; how goods get from production to consumers; economic activities (primary, secondary, tertiary)
-Worksheets: Biome comparison charts, rainforest layers diagram, trade route mapping, environmental impact studies, data interpretation
+Chapters:
+
+chapter no: 1
+name: Americas
+description: North America, South America, Countries, Physical features
+
+chapter no: 2
+name: Biomes and Climate
+description: Rainforest, Desert, Tundra, Grassland
+
+chapter no: 3
+name: Rivers
+description: River features, Erosion, Deposition, Flood plains
+
+chapter no: 4
+name: Climate Change
+description: Global warming, Greenhouse gases, Sustainability, Renewable energy
+

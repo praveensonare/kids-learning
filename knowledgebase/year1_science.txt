@@ -1,50 +1,27 @@
-# Year 1 - Science Knowledge Base
+Year 1 Science - Cambridge Primary Curriculum
 
-## Cambridge Primary Science Stage 1
+Learning Objectives:
+- Classify common animals
+- Identify plants and their parts
+- Distinguish materials by properties
+- Understand seasonal changes
+- Explore light and sound
 
-### Learning Objectives
-- Identify and name common plants and animals
-- Describe basic structures of common flowering plants
-- Identify and name parts of the human body
-- Distinguish between materials
-- Observe seasonal changes
+Chapters:
 
-### Key Topics
+chapter no: 1
+name: Animals Including Humans
+description: Animal groups, Mammals, Birds, Fish
 
-#### Plants
-- Common wild and garden plants
-- Deciduous and evergreen trees
-- Basic structure (roots, stem, leaves, flowers)
-- Plant growth requirements
+chapter no: 2
+name: Plants
+description: Plant parts, Leaves, Flowers, Roots
 
-#### Animals Including Humans
-- Common animals (fish, amphibians, reptiles, birds, mammals)
-- Carnivores, herbivores and omnivores
-- Parts of the human body
-- Senses and their functions
+chapter no: 3
+name: Everyday Materials
+description: Wood, Plastic, Glass, Metal
 
-#### Everyday Materials
-- Wood, plastic, glass, metal, water, rock
-- Properties (hard/soft, stretchy/stiff, shiny/dull, rough/smooth)
-- Comparing and grouping materials
-- Uses of materials
+chapter no: 4
+name: Seasonal Changes
+description: Four seasons, Weather, Day length, Temperature
 
-#### Seasonal Changes
-- Observing changes across the four seasons
-- Weather patterns
-- Day length variations
-- How seasons affect trees and animals
-
-### Working Scientifically
-- Asking simple questions
-- Observing closely
-- Performing simple tests
-- Identifying and classifying
-- Recording findings
-
-### Activities
-- Nature walks and observations
-- Growing plants from seeds
-- Sorting materials by properties
-- Seasonal diaries
-- Animal habitat studies

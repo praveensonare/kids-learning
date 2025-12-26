@@ -1,11 +1,27 @@
-Year 6 Science - Cambridge Primary Standards (Preparation for Secondary)
+Year 6 Science - Cambridge Primary Curriculum
 
-Learning Objectives: Take measurements with increasing accuracy, record data using scientific diagrams/labels/tables, identify scientific evidence to support/refute ideas, report findings from enquiries
+Learning Objectives:
+- Classify living things
+- Understand human circulatory system
+- Study evolution and inheritance
+- Learn about light
+- Explore electricity in depth
 
-Key Topics:
-TOPIC 1: Living Things/Classification: Classification of living things (kingdoms, vertebrates/invertebrates); give reasons for classification based on characteristics; Carl Linnaeus
-TOPIC 2: Animals/Humans: Circulatory system (heart, blood vessels, blood); impact of diet, exercise, drugs, lifestyle on body function; nutrients and water transported in blood; heart pumps blood
-TOPIC 3: Evolution/Inheritance: Characteristics inherited from parents; variation in offspring; adaptation leads to evolution; fossils provide evidence; Charles Darwin, Alfred Wallace, Mary Anning
-TOPIC 4: Light: Light travels in straight lines; objects seen when light reflects into eye; light travels from source to eye or source to object to eye; shadows have same shape as objects
-TOPIC 5: Electricity: Associate brightness of bulb with number/voltage of cells; compare/give reasons for variations in components; use recognized symbols for circuits (cell, battery, bulb, switch, buzzer, motor)
-Worksheets: Classification keys, circulatory system diagrams, inheritance patterns, light ray diagrams, circuit drawings with symbols
+Chapters:
+
+chapter no: 1
+name: Classification
+description: Micro-organisms, Carl Linnaeus, Kingdoms, Classification keys
+
+chapter no: 2
+name: Circulation and Health
+description: Heart, Blood vessels, Circulatory system, Healthy lifestyle
+
+chapter no: 3
+name: Evolution and Inheritance
+description: Adaptation, Evolution, Inheritance, Fossils
+
+chapter no: 4
+name: Light and Electricity
+description: Light travels, Shadows, Reflection, Circuits
+

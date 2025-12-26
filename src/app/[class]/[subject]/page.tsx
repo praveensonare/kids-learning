@@ -3,7 +3,7 @@
 import { useParams } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { getClassById, getSubjectsByClass } from '@/data/classes';
-import { ArrowLeft, BookOpen, Sparkles, FileText } from 'lucide-react';
+import { ArrowLeft, BookOpen, Sparkles, FileText, Lightbulb } from 'lucide-react';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { KnowledgeBaseContent } from '@/lib/loadKnowledgeBase';
@@ -129,135 +129,137 @@ export default function SubjectPage() {
           </div>
         )}
 
-        {/* Topics Grid */}
-        {!loading && knowledgeBase && knowledgeBase.topics.length > 0 && (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 max-w-7xl mx-auto">
-            {knowledgeBase.topics.map((topic, index) => (
-              <motion.div
-                key={topic.id}
-                initial={{ opacity: 0, y: 50 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: index * 0.1 }}
-              >
-                <Link href={`/${classId}/${subjectId}/${topic.id}`}>
-                  <motion.div
-                    whileHover={{ y: -8, scale: 1.02 }}
-                    whileTap={{ scale: 0.98 }}
-                    className="bg-white/95 backdrop-blur-sm rounded-3xl shadow-2xl hover:shadow-[0_20px_50px_rgba(0,0,0,0.25)] cursor-pointer transition-all relative overflow-hidden group border-2 border-purple-200/50"
-                    style={{ minHeight: '280px' }}
-                  >
-                    {/* Decorative Pattern */}
-                    <div className="absolute inset-0 opacity-5">
-                      <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
-                        <defs>
-                          <pattern
-                            id={`topic-pattern-${index}`}
-                            x="0"
-                            y="0"
-                            width="25"
-                            height="25"
-                            patternUnits="userSpaceOnUse"
-                          >
-                            <circle cx="12.5" cy="12.5" r="1.5" fill="currentColor" className="text-purple-600" />
-                          </pattern>
-                        </defs>
-                        <rect width="100%" height="100%" fill={`url(#topic-pattern-${index})`} />
-                      </svg>
-                    </div>
+        {/* Chapters List - Book Style */}
+        {!loading && knowledgeBase && knowledgeBase.chapters.length > 0 && (
+          <div className="max-w-4xl mx-auto">
+            {/* Table of Contents Header */}
+            <motion.div
+              initial={{ opacity: 0, y: -10 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="bg-white/95 backdrop-blur-sm rounded-t-2xl shadow-lg border-2 border-purple-200 p-4 md:p-6"
+            >
+              <div className="flex items-center gap-3">
+                <BookOpen className="w-6 h-6 text-purple-600" />
+                <h3 className="text-xl md:text-2xl font-black bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
+                  Table of Contents
+                </h3>
+              </div>
+              <p className="text-sm text-gray-600 mt-2 ml-9">
+                {knowledgeBase.chapters.length} Chapters · Click any chapter to start learning
+              </p>
+            </motion.div>
 
-                    {/* Gradient Top Bar */}
-                    <div className={`${subjectData.color} h-3 w-full`}></div>
-
-                    {/* Content */}
-                    <div className="relative z-10 p-6 md:p-7 flex flex-col h-full">
-                      {/* Topic Number Badge */}
-                      <div className="flex items-start gap-4 mb-4">
-                        <motion.div
-                          className={`${subjectData.color} rounded-2xl p-4 flex-shrink-0 shadow-lg border-2 border-white`}
-                          whileHover={{ rotate: [0, -10, 10, -10, 0] }}
-                          transition={{ duration: 0.5 }}
-                        >
-                          <span className="text-2xl md:text-3xl font-black text-white drop-shadow-md">
-                            {topic.number}
-                          </span>
-                        </motion.div>
-
-                        <div className="flex-1 min-w-0">
-                          <div className="bg-gradient-to-r from-purple-100 to-pink-100 px-3 py-1 rounded-full inline-block mb-2">
-                            <span className="text-xs font-bold text-purple-700">TOPIC {topic.number}</span>
+            {/* Chapters List */}
+            <div className="bg-white/95 backdrop-blur-sm rounded-b-2xl shadow-xl border-x-2 border-b-2 border-purple-200 divide-y divide-gray-200">
+              {knowledgeBase.chapters.map((chapter, index) => (
+                <motion.div
+                  key={chapter.id}
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: index * 0.05 }}
+                >
+                  <Link href={`/${classId}/${subjectId}/${chapter.id}`}>
+                    <motion.div
+                      whileHover={{ backgroundColor: 'rgba(147, 51, 234, 0.05)', x: 4 }}
+                      className="p-4 md:p-5 cursor-pointer transition-all group relative"
+                    >
+                      <div className="flex items-start gap-4">
+                        {/* Chapter Number */}
+                        <div className="flex-shrink-0">
+                          <div className={`${subjectData.color} w-10 h-10 md:w-12 md:h-12 rounded-lg flex items-center justify-center shadow-md border-2 border-white group-hover:scale-110 transition-transform`}>
+                            <span className="text-lg md:text-xl font-black text-white">
+                              {chapter.number}
+                            </span>
                           </div>
                         </div>
-                      </div>
 
-                      {/* Topic Title */}
-                      <h3 className="text-xl md:text-2xl font-black text-gray-900 mb-4 leading-tight group-hover:text-purple-700 transition-colors">
-                        {topic.title}
-                      </h3>
+                        {/* Chapter Content */}
+                        <div className="flex-1 min-w-0">
+                          {/* Chapter Title */}
+                          <h4 className="text-base md:text-lg font-bold text-gray-900 group-hover:text-purple-700 transition-colors mb-1 leading-tight">
+                            {chapter.title}
+                          </h4>
 
-                      {/* Topic Preview */}
-                      <div className="flex-1 mb-4">
-                        <div className="flex items-center gap-2 text-sm text-gray-600 mb-2">
-                          <FileText className="w-4 h-4 text-purple-500" />
-                          <span className="font-semibold">What you'll learn:</span>
+                          {/* Topics Count */}
+                          {chapter.topics && chapter.topics.length > 0 && (
+                            <p className="text-sm text-gray-600 mb-2 leading-relaxed">
+                              {chapter.topics.length} {chapter.topics.length === 1 ? 'topic' : 'topics'} to explore
+                            </p>
+                          )}
+
+                          {/* Keywords Badges */}
+                          <div className="flex flex-wrap gap-2">
+                            {chapter.keywords.slice(0, 6).map((keyword, idx) => (
+                              <span
+                                key={idx}
+                                className="bg-purple-50 text-purple-700 px-2 py-0.5 rounded-md text-xs font-semibold border border-purple-200"
+                              >
+                                {keyword}
+                              </span>
+                            ))}
+                            {chapter.keywords.length > 6 && (
+                              <span className="bg-gray-50 text-gray-600 px-2 py-0.5 rounded-md text-xs font-semibold border border-gray-200">
+                                +{chapter.keywords.length - 6} more
+                              </span>
+                            )}
+                          </div>
                         </div>
-                        <div className="flex flex-wrap gap-2">
-                          {topic.theory && (
-                            <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-xs font-bold border border-blue-200">
-                              Theory
-                            </span>
-                          )}
-                          {topic.examples && (
-                            <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-xs font-bold border border-green-200">
-                              Examples
-                            </span>
-                          )}
-                          {topic.worksheets && (
-                            <span className="bg-orange-100 text-orange-700 px-3 py-1 rounded-full text-xs font-bold border border-orange-200">
-                              Worksheets
-                            </span>
-                          )}
-                        </div>
-                      </div>
 
-                      {/* Click Indicator */}
-                      <motion.div
-                        className="flex items-center justify-between mt-auto pt-4 border-t-2 border-purple-100"
-                        animate={{ x: [0, 5, 0] }}
-                        transition={{
-                          duration: 1.5,
-                          repeat: Infinity,
-                        }}
-                      >
-                        <span className="text-sm font-bold text-purple-600">Start Learning</span>
-                        <div className={`${subjectData.color} p-2 rounded-full shadow-md border-2 border-white group-hover:scale-110 transition-transform`}>
-                          <svg
-                            className="w-5 h-5 text-white"
-                            fill="none"
-                            stroke="currentColor"
-                            viewBox="0 0 24 24"
-                            strokeWidth={3.5}
+                        {/* Arrow Indicator */}
+                        <div className="flex-shrink-0 self-center">
+                          <motion.div
+                            animate={{ x: [0, 4, 0] }}
+                            transition={{
+                              duration: 1.5,
+                              repeat: Infinity,
+                              ease: "easeInOut"
+                            }}
+                            className="text-gray-400 group-hover:text-purple-600 transition-colors"
                           >
-                            <path
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                              d="M9 5l7 7-7 7"
-                            />
-                          </svg>
+                            <svg
+                              className="w-5 h-5 md:w-6 md:h-6"
+                              fill="none"
+                              stroke="currentColor"
+                              viewBox="0 0 24 24"
+                              strokeWidth={2.5}
+                            >
+                              <path
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                d="M9 5l7 7-7 7"
+                              />
+                            </svg>
+                          </motion.div>
                         </div>
-                      </motion.div>
-                    </div>
+                      </div>
 
-                    {/* Shine Effect */}
-                    <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/0 to-transparent group-hover:via-white/20 transition-all duration-500 transform -translate-x-full group-hover:translate-x-full"></div>
-                  </motion.div>
-                </Link>
-              </motion.div>
-            ))}
+                      {/* Hover Effect Line */}
+                      <div className="absolute left-0 top-0 bottom-0 w-1 bg-gradient-to-b from-purple-500 to-pink-500 transform scale-y-0 group-hover:scale-y-100 transition-transform origin-top"></div>
+                    </motion.div>
+                  </Link>
+                </motion.div>
+              ))}
+            </div>
+
+            {/* Footer Info */}
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.3 }}
+              className="mt-6 bg-gradient-to-r from-purple-50 to-pink-50 rounded-2xl p-4 border-2 border-purple-200"
+            >
+              <div className="flex items-center gap-3 text-sm text-gray-700">
+                <Sparkles className="w-5 h-5 text-purple-600" />
+                <p className="font-semibold">
+                  Each chapter contains multiple topics with comprehensive theory, worked examples, and practice problems
+                </p>
+              </div>
+            </motion.div>
           </div>
         )}
 
-        {/* No Topics State */}
-        {!loading && (!knowledgeBase || knowledgeBase.topics.length === 0) && (
+        {/* No Chapters State */}
+        {!loading && (!knowledgeBase || knowledgeBase.chapters.length === 0) && (
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}

@@ -1,212 +1,27 @@
 Year 2 Science - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Ask questions and perform simple tests
-- Observe closely and gather data
-- Identify and classify living things
-- Understand uses of everyday materials
-- Describe how animals obtain food
-- Explain importance of exercise, diet, and hygiene
-- Observe seasonal changes over the year
+- Understand animal habitats and food chains
+- Explore plant growth
+- Investigate materials and their uses
+- Learn about healthy living
+- Discover forces and motion
 
-Key Topics:
+Chapters:
 
-TOPIC 1: Living Things and Their Habitats
-Theory: Living things live in habitats that provide what they need. Different habitats support different plants and animals.
+chapter no: 1
+name: Living Things and Habitats
+description: Habitats, Microhabitats, Food chains, Living
 
-Habitats:
-- Woodland: trees, fallen logs, soil (squirrels, birds, insects, foxes, deer)
-- Ocean: salt water, rocks, sand (fish, whales, crabs, seaweed, coral)
-- Pond: fresh water, plants, mud (frogs, newts, fish, dragonflies, pond skaters)
-- Rainforest: hot, wet, many trees (monkeys, parrots, snakes, jaguars)
-- Desert: hot, dry, sand (camels, lizards, scorpions, cacti)
-- Arctic: cold, ice, snow (polar bears, penguins, seals, arctic foxes)
+chapter no: 2
+name: Plants
+description: Seeds, Bulbs, Growth, Water
 
-Micro-habitats:
-- Under log: woodlice, beetles, worms, slugs
-- Tree bark: insects, moss, lichen
-- Pond edge: frogs, newts, water plants
-- Stone wall: spiders, insects, moss
+chapter no: 3
+name: Uses of Materials
+description: Suitability, Properties, Changing shape, Squashing
 
-Food Chains:
-- Producer: plant makes own food (grass, tree)
-- Consumer: animal eats plants or other animals
-- Simple chain: grass → rabbit → fox
-- Another chain: leaves → caterpillar → bird → cat
+chapter no: 4
+name: Healthy Living
+description: Exercise, Nutrition, Hygiene, Growth
 
-Worksheets:
-1. Habitat Match: Connect animals to their habitats
-2. Micro-habitat Hunt: Record what you find under logs, stones
-3. Food Chain: Create food chains using local animals
-4. Living/Non-living: Sort items into living, once lived, never lived
-
-TOPIC 2: Plants
-Theory: Plants are essential for life. They grow from seeds and have specific needs.
-
-What Plants Need to Stay Healthy:
-- Light: photosynthesis, makes food
-- Water: for growth, keeps plant firm
-- Suitable temperature: not too hot or cold
-- Space: room to grow
-
-How Seeds Disperse:
-- Wind: dandelion, sycamore (lightweight, parachutes, wings)
-- Animals: burrs stick to fur, fruit eaten then seeds dropped
-- Water: coconut floats to new places
-- Explosion: pea pods burst open, shoots seeds out
-
-Seed to Plant Investigation:
-- Plant beans/cress in different conditions
-- Test: no water, no light, no warmth, perfect conditions
-- Observe differences in growth
-- Record with photos and measurements
-
-Parts and Their Jobs:
-- Roots: anchor plant, absorb water and nutrients
-- Stem: support, transport water and nutrients
-- Leaves: make food through photosynthesis, breathe
-- Flower: reproduction, attract insects, make seeds
-- Seeds: contain baby plant, food store, grow into new plant
-
-Worksheets:
-1. Plant Needs Experiment: Record plant growth in different conditions
-2. Seed Dispersal: Match seeds to their dispersal method
-3. Label Diagram: Parts of a flowering plant
-4. Growth Diary: Measure and record bean plant weekly
-
-TOPIC 3: Animals Including Humans
-Theory: Animals need food, water, and air. They have offspring which grow into adults. We must care for our bodies.
-
-Basic Needs:
-- Food: energy and nutrients
-- Water: stay hydrated, bodies need water
-- Air: breathe oxygen
-- Shelter: protection from weather and predators
-
-Offspring (babies):
-- Mammals: give birth to live young (kittens, puppies, calves, babies)
-- Birds: lay eggs, keep warm, chicks hatch
-- Amphibians: lay eggs in water, tadpoles → frogs
-- Reptiles: most lay eggs, baby looks like mini adult
-- Insects: eggs → larva → pupa → adult (metamorphosis)
-
-Growth:
-- Baby → child → teenager → adult → elderly
-- Animals grow and change as they get older
-- Need right food and care to grow healthily
-
-Staying Healthy:
-- Balanced diet: fruits, vegetables, proteins, carbs, dairy
-- Exercise: 60 minutes daily for children, makes strong
-- Hygiene: wash hands, brush teeth, shower, clean clothes
-- Sleep: 10-11 hours for children aged 6-13
-- Water: 6-8 glasses daily
-
-Worksheets:
-1. Life Cycles: Arrange pictures showing animal growth stages
-2. Food Groups: Sort foods into groups, plan balanced meal
-3. Exercise Diary: Record physical activities for one week
-4. Hygiene Checklist: Daily habits for staying clean and healthy
-
-TOPIC 4: Uses of Everyday Materials
-Theory: Materials have properties that make them suitable for specific uses. We can change materials in different ways.
-
-Material Properties and Uses:
-- Waterproof: plastic (raincoats, umbrellas, bottles)
-- Transparent: glass (windows, glasses, jars)
-- Flexible: rubber (elastic bands, tyres, hoses)
-- Hard: metal (tools, nails, screws, cars)
-- Soft: fabric (cushions, clothes, curtains)
-- Strong: wood (furniture, buildings, pencils)
-
-How Materials Change:
-- Squashing: playdough, sponge, bread
-- Bending: wire, plastic ruler, card
-- Twisting: cloth, wire, rope
-- Stretching: elastic, rubber band, spring
-- Some change permanently (bread squashed)
-- Some return to original shape (sponge, elastic)
-
-Suitability of Materials:
-- Why is metal good for saucepans? (hard, strong, conducts heat)
-- Why is glass good for windows? (transparent, waterproof)
-- Why is wood good for furniture? (strong, hard, can be shaped)
-- Why is plastic good for toys? (colorful, light, strong, safe)
-
-Recycling:
-- Reuse materials instead of throwing away
-- Glass, plastic, paper, metal can be recycled
-- Reduces waste, saves resources, helps environment
-
-Worksheets:
-1. Material Properties: Test and record material properties
-2. Best Material: Choose suitable materials for different objects
-3. Change Investigation: Test which materials can be squashed/bent/stretched
-4. Recycling Sort: Which bin does each item go in?
-
-TOPIC 5: Seasonal Changes
-Theory: The four seasons have different weather, daylight hours, and effects on living things.
-
-Detailed Season Observations:
-
-Spring (March-May):
-- Temperature: warmer, 8-15°C
-- Daylight: increasing (12-16 hours)
-- Weather: showers, some sunny days, warmer
-- Plants: buds, blossoms, new leaves, flowers bloom
-- Animals: baby animals born, birds nest, butterflies emerge
-- Activities: plant seeds, spring clean, Easter
-
-Summer (June-August):
-- Temperature: warm to hot, 15-25°C
-- Daylight: longest days (16-17 hours)
-- Weather: sunny, occasional rain, warmest season
-- Plants: full leaves, fruits ripen, flowers in full bloom
-- Animals: young animals grow, lots of insects, birds feed young
-- Activities: holidays, beach, outdoor games, summer sports
-
-Autumn (September-November):
-- Temperature: cooling, 10-18°C
-- Daylight: decreasing (10-14 hours)
-- Weather: windy, rain, cooler, misty mornings
-- Plants: leaves turn red/orange/brown, fall, conkers, harvest
-- Animals: prepare for winter, gather food, some migrate
-- Activities: harvest festival, Halloween, collect leaves
-
-Winter (December-February):
-- Temperature: cold, 0-8°C
-- Daylight: shortest days (7-9 hours)
-- Weather: cold, frost, maybe snow, icy
-- Plants: deciduous trees bare, evergreens keep leaves, not much grows
-- Animals: some hibernate, birds fluff feathers, difficult to find food
-- Activities: Christmas, warm clothes, indoor activities
-
-Worksheets:
-1. Season Wheel: Divide into four, add features of each season
-2. Monthly Records: Record weather, temperature, daylight hours each month
-3. Tree Observation: Photo same tree each month, note changes
-4. Season Sort: Group pictures into correct seasons
-
-Sample Activities:
-- Nature Walks: Observe habitats, collect specimens safely
-- Growing Investigation: Plant seeds, vary conditions, measure growth
-- Material Testing: Test properties using simple equipment
-- Food Chain Game: Role-play animals in food chains
-- Life Cycle Models: Create models showing animal life cycles
-- Healthy Eating: Plan and make healthy snacks
-- Exercise Challenges: PE activities, measure heart rate
-- Seasonal Diaries: Record observations throughout the year
-- Recycling Project: Set up classroom recycling system
-- Micro-habitat Exploration: Use magnifying glasses safely
-
-Assessment Ideas:
-- Names and describes different habitats
-- Creates simple food chains
-- Explains what plants need to grow
-- Describes life cycles of common animals
-- Makes healthy choices for diet and exercise
-- Identifies properties of materials
-- Chooses suitable materials for purposes
-- Describes seasonal changes with observations
-- Asks scientific questions
-- Records findings with simple tables and diagrams

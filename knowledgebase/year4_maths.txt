@@ -1,13 +1,27 @@
-Year 4 Maths - Cambridge Primary Standards
+Year 4 Mathematics - Cambridge Primary Curriculum
 
-Learning Objectives: Count to 10,000, multiply/divide by 10/100, all times tables, decimals to 2 places, area and perimeter, coordinates, time conversions
+Learning Objectives:
+- Work with place value to 10000
+- Master multiplication and division
+- Understand decimals
+- Calculate area and perimeter
+- Work with coordinates
 
-Key Topics:
-TOPIC 1: Place Value to 10,000: Thousands, hundreds, tens, ones; compare and order; round to nearest 10, 100, 1000; Roman numerals to 100 (I, V, X, L, C)
-TOPIC 2: Four Operations: Add/subtract 4-digits (column method); multiply 3-digits by 1-digit; divide 3-digits by 1-digit; mental strategies; inverse operations
-TOPIC 3: Times Tables: All tables to 12×12; factor pairs; multiplication facts; related division facts; multiply by 10 and 100
-TOPIC 4: Fractions/Decimals: Count in fractions; add/subtract with same denominator; recognize equivalent fractions; decimals (tenths and hundredths); compare decimals; money as decimals (£4.56)
-TOPIC 5: Measurement: Convert units (km-m, m-cm, kg-g, l-ml); perimeter of rectangles; area by counting squares; 12-hour and 24-hour time
-TOPIC 6: Geometry: Classify shapes by properties; angles (acute, obtuse, right); lines of symmetry; position and direction; translations; coordinates (first quadrant)
-TOPIC 7: Statistics: Interpret/construct bar charts, time graphs, pictograms; discrete and continuous data
-Worksheets: Place value problems, column methods, times tables tests, fraction equivalence, area and perimeter, coordinate plotting, data interpretation
+Chapters:
+
+chapter no: 1
+name: Place Value to 10000
+description: Thousands, Hundreds, Tens, Ones
+
+chapter no: 2
+name: Times Tables and Division
+description: 6x, 7x, 9x, 11x
+
+chapter no: 3
+name: Fractions and Decimals
+description: Equivalent fractions, Decimals, Tenths, Hundredths
+
+chapter no: 4
+name: Area and Perimeter
+description: Area, Perimeter, Rectangles, Rectilinear shapes
+

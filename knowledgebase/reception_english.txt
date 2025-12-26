@@ -1,171 +1,27 @@
 Reception English - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Read simple CVC (consonant-vowel-consonant) words using phonics
-- Write simple sentences with capital letters and full stops
-- Develop comprehension skills through listening and discussion
-- Build vocabulary through stories and conversations
-- Form letters correctly with appropriate size and spacing
-- Recognize high-frequency words by sight
+- Read and write phonetically plausible words
+- Read common exception words
+- Write simple sentences
+- Develop comprehension skills
+- Understand story structure
 
-Key Topics:
+Chapters:
 
-TOPIC 1: Phonics (Phase 2-4)
-Theory: Phonics is a method of teaching reading by linking sounds (phonemes) with letters or groups of letters (graphemes). By learning these relationships, children can decode unfamiliar words.
+chapter no: 1
+name: Phonics Foundations
+description: Phonics, Letter sounds, Blending, Segmenting
 
-Phase 2 Sounds: s, a, t, p, i, n, m, d, g, o, c, k, ck, e, u, r, h, b, f, l
-Phase 3 Sounds: j, v, w, x, y, z, qu, ch, sh, th, ng, ai, ee, igh, oa, oo, ar, or, ur, ow, oi, ear, air, ure, er
-Phase 4: Blending adjacent consonants (CCVC and CVCC words)
+chapter no: 2
+name: Reading Adventures
+description: Reading, Decoding, Sight words, Fluency
 
-Examples:
-- CVC words: cat, dog, sun, pin, mop
-- Blending: c-a-t = cat, sh-o-p = shop
-- Segmenting: fish = f-i-sh
-- Phase 4: cr-a-b = crab, t-e-n-t = tent
+chapter no: 3
+name: Writing Journey
+description: Sentence writing, Capital letters, Full stops, Finger spaces
 
-Worksheets:
-1. Sound Buttons: Put dots under each sound in the word "ship" (sh-i-p = 3 sounds)
-2. Blending Practice: Read these words: sat, pit, dog, run, hug
-3. Word Building: Use letter cards to make: cat, can, man, pan
+chapter no: 4
+name: Story Comprehension
+description: Understanding, Prediction, Inference, Retelling
 
-TOPIC 2: High-Frequency Words (Tricky Words)
-Theory: Some common words don't follow regular phonics rules and need to be learned by sight. These are called "tricky words" or "sight words."
-
-Examples - Set 1:
-- the, to, I, no, go, into, he, she, we, me, be
-- was, you, they, all, are, my, her
-
-Examples - Set 2:
-- said, so, have, like, some, come, were, there, little, one, when, out, what
-
-Worksheets:
-1. Word Recognition: Circle the word "the" every time you see it in the sentence
-2. Tricky Word Practice: Write "I" "the" "said" three times each
-3. Missing Word: Fill in: "I ___ play." (can)
-4. Sentence Reading: "I like the big dog."
-
-TOPIC 3: Reading CVC and Simple Sentences
-Theory: Reading involves decoding words by blending sounds and using picture clues. Fluent reading comes with practice.
-
-Examples:
-Simple Sentences:
-- "The cat sat."
-- "I can run."
-- "Dad is big."
-- "Look at the dog!"
-
-Reading Strategies:
-- Sound out each word
-- Look at the picture for clues
-- Re-read if it doesn't make sense
-- Think: does that sound right?
-
-Worksheets:
-1. Read and Match: Read the sentence "The cat is fat" and draw a picture
-2. Yes or No: "Can a pig fly?" (No)
-3. Sentence Completion: "I can ___ fast." (run/hop/swim)
-4. Comprehension: Read "Sam has a red ball. He plays in the park." Questions: Who? What? Where?
-
-TOPIC 4: Writing - Letter Formation
-Theory: Correct letter formation ensures legible handwriting. Letters should be formed consistently, starting at the correct point.
-
-Letter Families:
-- Round letters: c, o, a, d, g, q (start at 2 o'clock)
-- Long letters: l, t, h, b, k, f (start at the top)
-- Descenders: g, j, p, q, y (go below the line)
-- Zigzag letters: k, v, w, x, z
-
-Examples:
-- Letter 'a': Round, up, down, flick
-- Letter 't': Down, lift, cross
-- Letter 'g': Round, up, down, curl
-
-Worksheets:
-1. Letter Families: Practice all the round letters c, o, a, d, g, q
-2. Join the Dots: Follow numbered dots to form letter 's'
-3. Rainbow Letters: Write letter 'a' five times in different colors
-4. Name Writing: Write your first name neatly on the line
-
-TOPIC 5: Sentence Writing
-Theory: Sentences express complete thoughts. They start with capital letters, have spaces between words, and end with punctuation marks (. ! ?).
-
-Examples:
-- "I like cats." (statement - full stop)
-- "Can you jump?" (question - question mark)
-- "Look out!" (exclamation - exclamation mark)
-
-Sentence Checklist:
-✓ Capital letter at the start
-✓ Finger spaces between words
-✓ Full stop at the end
-✓ Sounds right when read aloud
-
-Worksheets:
-1. Fix the Sentence: "i like dogs" → "I like dogs."
-2. Sentence Building: Use word cards to make: "The dog is big."
-3. Write a Sentence: Write about your favorite toy
-4. Add Punctuation: Put full stops and capital letters in the right places
-
-TOPIC 6: Story Comprehension
-Theory: Comprehension means understanding what we read or hear. Good readers think about characters, settings, and events.
-
-Story Elements:
-- Characters: Who is in the story?
-- Setting: Where and when does it happen?
-- Beginning: How does the story start?
-- Middle: What happens?
-- End: How does it end?
-- Problem and Solution: What goes wrong? How is it fixed?
-
-Examples - "The Three Billy Goats Gruff":
-- Characters: 3 goats, troll
-- Setting: Bridge over a river
-- Problem: Troll won't let goats cross
-- Solution: Biggest goat pushes troll into water
-
-Worksheets:
-1. Story Map: Draw the beginning, middle, and end of "Goldilocks"
-2. Character Questions: Who was kind? Who was naughty?
-3. Prediction: What do you think will happen next?
-4. Retelling: Put the story pictures in order 1, 2, 3, 4
-
-TOPIC 7: Vocabulary and Language
-Theory: Learning new words helps us express ideas clearly and understand complex texts.
-
-Word Types:
-- Nouns: cat, dog, house, mum
-- Verbs (action words): run, jump, eat, play
-- Adjectives (describing words): big, little, red, happy
-
-Examples:
-- The BIG dog (adjective)
-- The dog RUNS fast (verb)
-- The DOG is brown (noun)
-
-Worksheets:
-1. Adjectives: Circle the describing word in "the red car"
-2. Verb Actions: Draw yourself doing these actions: jump, sit, clap
-3. Noun Hunt: Find and write 5 nouns from a picture
-4. Sentence Expansion: Change "I see a cat" to "I see a big black cat"
-
-Sample Activities:
-- Daily Phonics Sessions: 15-20 minutes of phonics practice
-- Guided Reading: Small group reading with teacher support
-- Independent Writing: Writing news, stories, labels
-- Story Time: Read-aloud with discussions
-- Word Games: Bingo with high-frequency words
-- Role Play: Acting out stories in costume area
-- Library Time: Choosing and sharing books
-- Letter Hunt: Finding letters/words in environmental print
-- Puppet Shows: Retelling stories with puppets
-- Reading to Toys: Practice reading to stuffed animals
-
-Assessment Ideas:
-- Can read CVC words (cat, dog, sun) accurately
-- Recognizes 20+ high-frequency words
-- Writes simple sentences with capital letters and full stops
-- Forms letters correctly (most of the time)
-- Shows understanding of stories through discussion
-- Can segment words into phonemes (c-a-t)
-- Uses phonics knowledge to spell simple words
-- Engages with books independently

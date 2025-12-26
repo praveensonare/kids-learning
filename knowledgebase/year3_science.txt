@@ -1,116 +1,27 @@
 Year 3 Science - Cambridge Primary Curriculum
 
 Learning Objectives:
-- Ask relevant questions and set up simple tests
-- Make systematic observations and measurements
-- Gather, record, and present data
-- Use evidence to answer questions
-- Identify differences and similarities
-- Use scientific vocabulary
+- Compare and group rocks
+- Understand nutrition and skeletons
+- Explore forces and magnets
+- Investigate light and shadows
+- Study plants
 
-Key Topics:
+Chapters:
 
-TOPIC 1: Plants
-Plant structure and functions:
-- Roots: absorb water and nutrients, anchor plant
-- Stem: transport water, support
-- Leaves: photosynthesis (light + CO₂ + water → glucose + oxygen)
-- Flowers: reproduction, attract pollinators
+chapter no: 1
+name: Rocks and Soils
+description: Igneous, Sedimentary, Metamorphic, Fossils
 
-Requirements for growth:
-- Water, light, suitable temperature, nutrients
-- Investigation: vary conditions, measure growth
+chapter no: 2
+name: Animals and Humans
+description: Nutrition, Skeleton, Muscles, Bones
 
-Water transportation:
-- Observe celery in colored water
-- Water travels up stem to leaves
-- Transpiration: water evaporates from leaves
+chapter no: 3
+name: Forces and Magnets
+description: Push, Pull, Friction, Magnetic
 
-Life cycles:
-- Seed → germination → seedling → mature plant → flowering → seed production
+chapter no: 4
+name: Light and Shadow
+description: Light sources, Reflection, Mirrors, Shadows
 
-TOPIC 2: Animals Including Humans
-Nutrition:
-- Balanced diet: carbohydrates, proteins, fats, vitamins, minerals
-- Food groups and their roles
-- Plan healthy meals
-
-Skeleton and muscles:
-- Skeleton: support, protection, movement
-- Major bones: skull, ribs, spine, pelvis, femur
-- Joints: where bones meet, allow movement
-- Muscles: work in pairs, contract and relax
-- Investigation: measure strength, flexibility
-
-TOPIC 3: Rocks and Soils
-Types of rocks:
-- Igneous: formed from lava/magma (granite, basalt)
-- Sedimentary: layers compressed over time (sandstone, limestone, chalk)
-- Metamorphic: changed by heat/pressure (marble, slate)
-
-Properties:
-- Hard or soft
-- Permeable (water passes through) or impermeable
-- Texture: smooth, rough, grainy
-
-Soil formation:
-- Weathering breaks down rocks
-- Organic matter (dead plants/animals) mixes in
-- Different soil types: sandy, clay, loamy
-
-Fossils:
-- Remains of prehistoric plants/animals preserved in rock
-- Tell us about past life
-
-TOPIC 4: Light and Shadows
-Light sources:
-- Sun, fire, light bulbs, screens, glow sticks
-- Moon and planets reflect light (not sources)
-
-Reflection:
-- Light bounces off shiny surfaces
-- Mirrors reflect light
-- Angles of incidence and reflection
-
-Shadows:
-- Formed when opaque object blocks light
-- Shadow shape matches object
-- Size depends on distance from light source
-- Sun creates shadows at different positions throughout day
-
-Danger:
-- Never look directly at sun
-- Can damage eyes permanently
-
-TOPIC 5: Forces and Magnets
-Contact forces:
-- Push and pull
-- Friction: opposes movement, creates heat
-- Surfaces: rough surfaces have more friction
-
-Magnetic forces:
-- Attract: magnetic materials (iron, steel, nickel, cobalt)
-- Repel: like poles push apart (N-N or S-S)
-- Attract: unlike poles pull together (N-S)
-- Magnetic field: area around magnet
-- Uses: fridge magnets, compasses, speakers
-
-Poles:
-- North and South poles
-- Compass needle points North
-- Earth is a giant magnet
-
-Investigations:
-- Test which materials are magnetic
-- Test strength of different magnets
-- Make electromagnets
-
-Worksheets and Activities:
-1. Plant experiments and growth diaries
-2. Food group sorting and meal planning
-3. Skeleton labeling and joint movement
-4. Rock and soil testing
-5. Shadow investigations at different times
-6. Mirror reflection experiments
-7. Magnet strength testing
-8. Scientific enquiry planning sheets

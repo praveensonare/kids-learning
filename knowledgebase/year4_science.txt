@@ -1,11 +1,27 @@
-Year 4 Science - Cambridge Primary Standards
+Year 4 Science - Cambridge Primary Curriculum
 
-Learning Objectives: Set up comparative tests, observe over time, gather/record data, use scientific evidence
+Learning Objectives:
+- Classify living things
+- Understand digestive system
+- Study states of matter
+- Explore electricity
+- Learn about sound
 
-Key Topics:
-TOPIC 1: Living Things/Habitats: Classification keys, environmental changes affect living things, construct food chains (producers, predators, prey)
-TOPIC 2: Animals/Humans: Digestion (mouth, esophagus, stomach, intestines), teeth types (incisors, canines, molars), food chains, healthy eating
-TOPIC 3: States of Matter: Solids, liquids, gases; particles; melting, freezing, evaporating, condensing; water cycle (evaporation, condensation, precipitation); temperature effects
-TOPIC 4: Sound: Vibrations travel through medium, pitch (high/low), volume (loud/quiet), sound travels differently through materials, patterns between pitch/volume and vibration
-TOPIC 5: Electricity: Simple circuits, cells, wires, bulbs, switches, buzzers; complete circuit needed; conductors and insulators; common appliances use electricity
-Worksheets: Classification activities, digestion diagrams, states of matter experiments, sound investigations, circuit building
+Chapters:
+
+chapter no: 1
+name: Living Things
+description: Classification, Vertebrates, Invertebrates, Habitats
+
+chapter no: 2
+name: Digestion
+description: Digestive system, Teeth, Food chains, Producers
+
+chapter no: 3
+name: States of Matter
+description: Solids, Liquids, Gases, Changes of state
+
+chapter no: 4
+name: Electricity and Sound
+description: Circuits, Conductors, Insulators, Vibrations
+
