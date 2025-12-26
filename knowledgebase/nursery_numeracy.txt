@@ -17,3 +17,11 @@ chapter no: 2
 name: Numbers 6-10
 description: Counting to 10, Number Recognition 6-10, Number Bonds to 5, Zero
 
+chapter no: 3
+name: Shapes and Space
+description: Basic 2D Shapes, Basic 3D Shapes, Shape Properties, Sorting Shapes
+
+chapter no: 4
+name: Patterns and Positions
+description: Simple Patterns, Repeating Patterns, Positional Language, Size Ordering
+
