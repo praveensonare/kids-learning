@@ -1,296 +1,296 @@
-Year 3 Mathematics - Chapter 1: Place Value
+Year3 Maths - Chapter 1: Place Value
 
-TOPIC 1: Hundreds
+TOPIC 1: Understanding Hundreds, Tens and Ones
 
 Theory:
-This section covers hundreds in detail. Students will learn the fundamental concepts, key terminology, and important principles related to hundreds. Understanding hundreds is essential for building a strong foundation in this subject area.
+Place value is the value of a digit based on its position in a number. In a 3-digit number, we have:
+- Hundreds place (leftmost digit)
+- Tens place (middle digit)
+- Ones place (rightmost digit)
 
-Key points to remember:
-- Hundreds helps develop important skills
-- Practice and repetition strengthen understanding
-- Real-world applications make learning meaningful
+For example, in the number 347:
+- 3 is in the hundreds place = 3 × 100 = 300
+- 4 is in the tens place = 4 × 10 = 40
+- 7 is in the ones place = 7 × 1 = 7
+Total: 300 + 40 + 7 = 347
 
 Examples:
-Example 1: Hundreds Application
-- Step 1: Observe and identify the hundreds
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated hundreds
+Example 1: What is the value of 5 in the number 562?
+Solution: 5 is in the hundreds place, so its value is 5 × 100 = 500
 
-Example 2: Hundreds Application
-- Step 1: Observe and identify the hundreds
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated hundreds
+Example 2: Partition the number 438 into hundreds, tens and ones.
+Solution: 438 = 400 + 30 + 8
 
-Example 3: Hundreds Application
-- Step 1: Observe and identify the hundreds
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated hundreds
+Example 3: Which digit is in the tens place in 721?
+Solution: The digit 2 is in the tens place and represents 20
 
 Interactive Worksheet:
-1. Complete the hundreds activity
-2. Draw or create a representation
-3. Explain your thinking
-4. Share with a partner
-5. Reflect on what you learned
+Practice partitioning numbers:
+1. Write 275 in expanded form
+2. Identify the place value of each digit in 619
+3. Compare which is greater: 6 hundreds or 60 tens?
+4. Build a number with 4 hundreds, 2 tens, and 9 ones
+5. What number has 7 in the tens place and totals 573?
 
 Problems - Easy Level:
-1. Basic hundreds question: Complete the simple task
-2. Basic hundreds question: Complete the simple task
-3. Basic hundreds question: Complete the simple task
-4. Basic hundreds question: Complete the simple task
-5. Basic hundreds question: Complete the simple task
-6. Basic hundreds question: Complete the simple task
-7. Basic hundreds question: Complete the simple task
-8. Basic hundreds question: Complete the simple task
-9. Basic hundreds question: Complete the simple task
-10. Basic hundreds question: Complete the simple task
+1. What is the value of 8 in 382?
+2. How many tens are in 560?
+3. Write 200 + 70 + 3 as a number
+4. Which digit is in the ones place in 645?
+5. True or False: In 912, the 1 represents 10
+6. What number is 4 hundreds, 5 tens, 2 ones?
+7. Circle the digit in the hundreds place: 738
+8. How many ones in 100?
+9. Write the number for 3 hundreds
+10. Is 9 in the tens or ones place in 594?
 
 Problems - Medium Level:
-1. Intermediate hundreds question: Apply your knowledge
-2. Intermediate hundreds question: Apply your knowledge
-3. Intermediate hundreds question: Apply your knowledge
-4. Intermediate hundreds question: Apply your knowledge
-5. Intermediate hundreds question: Apply your knowledge
-6. Intermediate hundreds question: Apply your knowledge
-7. Intermediate hundreds question: Apply your knowledge
-8. Intermediate hundreds question: Apply your knowledge
-9. Intermediate hundreds question: Apply your knowledge
-10. Intermediate hundreds question: Apply your knowledge
+1. Write 856 in expanded form
+2. What is 10 more than 347?
+3. Compare: 4 hundreds __ 40 tens (use <, >, =)
+4. Round 378 to the nearest hundred
+5. What is the place value of 6 in 625?
+6. Partition 409 into H, T, O
+7. How many tens are in 5 hundreds?
+8. Write a number with 0 tens, 6 hundreds, 3 ones
+9. What is 100 less than 562?
+10. Order from smallest: 721, 712, 271
 
 Problems - Difficult Level:
-1. Advanced hundreds question: Demonstrate mastery
-2. Advanced hundreds question: Demonstrate mastery
-3. Advanced hundreds question: Demonstrate mastery
-4. Advanced hundreds question: Demonstrate mastery
-5. Advanced hundreds question: Demonstrate mastery
-6. Advanced hundreds question: Demonstrate mastery
-7. Advanced hundreds question: Demonstrate mastery
-8. Advanced hundreds question: Demonstrate mastery
-9. Advanced hundreds question: Demonstrate mastery
-10. Advanced hundreds question: Demonstrate mastery
+1. How many different 3-digit numbers can you make with 4, 7, 2?
+2. What is the largest 3-digit number with digits totaling 15?
+3. If you add 2 hundreds to 456, what number do you get?
+4. True or False: 70 tens equals 7 hundreds
+5. A number has the same digit in tens and ones place, total is 484. What is it?
+6. Round 549 to nearest 10 and nearest 100
+7. What is missing: 6__ 3 = 600 + __ + 3
+8. Decrease 900 by 3 hundreds and 4 tens
+9. Make the largest and smallest number: 3, 0, 9
+10. What happens to 275 if you swap the hundreds and ones digits?
 
 ---
 
-TOPIC 2: Tens
+TOPIC 2: Comparing and Ordering Numbers
 
 Theory:
-This section covers tens in detail. Students will learn the fundamental concepts, key terminology, and important principles related to tens. Understanding tens is essential for building a strong foundation in this subject area.
+When comparing numbers, we look at digits from left to right:
+1. Start with the hundreds place
+2. If hundreds are equal, check tens
+3. If tens are equal, check ones
 
-Key points to remember:
-- Tens helps develop important skills
-- Practice and repetition strengthen understanding
-- Real-world applications make learning meaningful
+Symbols: < (less than), > (greater than), = (equal to)
+
+For example, comparing 456 and 482:
+- Hundreds: 4 = 4 (same)
+- Tens: 5 < 8 (different!)
+- Therefore: 456 < 482
 
 Examples:
-Example 1: Tens Application
-- Step 1: Observe and identify the tens
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated tens
+Example 1: Compare 365 and 341
+Hundreds: 3 = 3, Tens: 6 > 4
+Answer: 365 > 341
 
-Example 2: Tens Application
-- Step 1: Observe and identify the tens
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated tens
+Example 2: Order 527, 572, 257 from smallest to largest
+Answer: 257, 527, 572
 
-Example 3: Tens Application
-- Step 1: Observe and identify the tens
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated tens
+Example 3: Which is greater: 8 hundreds or 790?
+800 > 790, so 8 hundreds is greater
 
 Interactive Worksheet:
-1. Complete the tens activity
-2. Draw or create a representation
-3. Explain your thinking
-4. Share with a partner
-5. Reflect on what you learned
+Comparison challenges:
+1. Use <, >, = to compare: 456 __ 465
+2. Order from largest to smallest: 893, 839, 938
+3. Which is smaller: 5 hundreds or 520?
+4. Write 3 numbers between 700 and 710
+5. Find the missing number: 645 < ___ < 655
 
 Problems - Easy Level:
-1. Basic tens question: Complete the simple task
-2. Basic tens question: Complete the simple task
-3. Basic tens question: Complete the simple task
-4. Basic tens question: Complete the simple task
-5. Basic tens question: Complete the simple task
-6. Basic tens question: Complete the simple task
-7. Basic tens question: Complete the simple task
-8. Basic tens question: Complete the simple task
-9. Basic tens question: Complete the simple task
-10. Basic tens question: Complete the simple task
+1. 347 __ 374 (use <, > or =)
+2. Which is larger: 528 or 582?
+3. Is 600 > 599?
+4. Order: 213, 123, 321 (smallest first)
+5. True or False: 450 = 4 hundreds + 5 tens
+6. Circle the largest: 645, 654, 546
+7. What number is between 300 and 302?
+8. Is 7 hundreds more than 690?
+9. 800 __ 80 (use < or >)
+10. Which is smallest: 912, 921, 129?
 
 Problems - Medium Level:
-1. Intermediate tens question: Apply your knowledge
-2. Intermediate tens question: Apply your knowledge
-3. Intermediate tens question: Apply your knowledge
-4. Intermediate tens question: Apply your knowledge
-5. Intermediate tens question: Apply your knowledge
-6. Intermediate tens question: Apply your knowledge
-7. Intermediate tens question: Apply your knowledge
-8. Intermediate tens question: Apply your knowledge
-9. Intermediate tens question: Apply your knowledge
-10. Intermediate tens question: Apply your knowledge
+1. Order from smallest: 467, 476, 647, 674
+2. Write all numbers between 598 and 603
+3. Compare: 9 hundreds __ 890
+4. What is the smallest 3-digit number?
+5. What is 1 more than 699?
+6. Find two numbers with sum 1000, one is 456
+7. True or False: 10 hundreds = 1 thousand
+8. Circle numbers greater than 5 hundreds: 550, 500, 499, 501
+9. Order backward from 510 to 505
+10. What comes exactly between 400 and 500?
 
 Problems - Difficult Level:
-1. Advanced tens question: Demonstrate mastery
-2. Advanced tens question: Demonstrate mastery
-3. Advanced tens question: Demonstrate mastery
-4. Advanced tens question: Demonstrate mastery
-5. Advanced tens question: Demonstrate mastery
-6. Advanced tens question: Demonstrate mastery
-7. Advanced tens question: Demonstrate mastery
-8. Advanced tens question: Demonstrate mastery
-9. Advanced tens question: Demonstrate mastery
-10. Advanced tens question: Demonstrate mastery
+1. Write 5 numbers between 795 and 805
+2. If A = 465 and B is 30 more, is A < B?
+3. Order: 100+200+30, 300+20+10, 200+100+40
+4. What is the largest number less than 900 with all different digits?
+5. True or False: Rounding 449 and 450 to nearest 10 gives same answer
+6. Compare: (4×100) + (5×10) __ 450
+7. Which is closer to 500: 485 or 515?
+8. Find 3 consecutive numbers with middle number 678
+9. How many numbers between 100-200 have 5 in tens place?
+10. Order these from smallest: 6H+3T+2, 5H+9T+9, 7H+1T+0
 
 ---
 
-TOPIC 3: Ones
+TOPIC 3: Rounding Numbers
 
 Theory:
-This section covers ones in detail. Students will learn the fundamental concepts, key terminology, and important principles related to ones. Understanding ones is essential for building a strong foundation in this subject area.
+Rounding makes numbers simpler to work with.
 
-Key points to remember:
-- Ones helps develop important skills
-- Practice and repetition strengthen understanding
-- Real-world applications make learning meaningful
+Rounding to nearest 10:
+- Look at the ones digit
+- If it's 5 or more, round UP
+- If it's 4 or less, round DOWN
+
+Rounding to nearest 100:
+- Look at the tens digit
+- If it's 50 or more, round UP
+- If it's 40 or less, round DOWN
+
+Example: Round 347 to nearest 10
+- Ones digit is 7 (≥5)
+- Round UP: 347 → 350
+
+Example: Round 347 to nearest 100
+- Tens is 4 (≤4)
+- Round DOWN: 347 → 300
 
 Examples:
-Example 1: Ones Application
-- Step 1: Observe and identify the ones
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated ones
+Example 1: Round 563 to nearest 10
+Ones = 3 (less than 5), so round down: 560
 
-Example 2: Ones Application
-- Step 1: Observe and identify the ones
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated ones
+Example 2: Round 563 to nearest 100
+Tens = 6 (more than 5), so round up: 600
 
-Example 3: Ones Application
-- Step 1: Observe and identify the ones
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated ones
+Example 3: Round 450 to nearest 100
+Tens = 5 (exactly 5), so round up: 500
 
 Interactive Worksheet:
-1. Complete the ones activity
-2. Draw or create a representation
-3. Explain your thinking
-4. Share with a partner
-5. Reflect on what you learned
+Rounding practice:
+1. Round to nearest 10: 234, 567, 891
+2. Round to nearest 100: 234, 567, 891
+3. Which numbers round to 400 when rounded to nearest 100?
+4. Round 555 to nearest 10 and nearest 100
+5. True or False: 749 rounds to 800
 
 Problems - Easy Level:
-1. Basic ones question: Complete the simple task
-2. Basic ones question: Complete the simple task
-3. Basic ones question: Complete the simple task
-4. Basic ones question: Complete the simple task
-5. Basic ones question: Complete the simple task
-6. Basic ones question: Complete the simple task
-7. Basic ones question: Complete the simple task
-8. Basic ones question: Complete the simple task
-9. Basic ones question: Complete the simple task
-10. Basic ones question: Complete the simple task
+1. Round 56 to nearest 10
+2. Round 340 to nearest 100
+3. Does 77 round to 80 or 70?
+4. Round 505 to nearest 10
+5. True or False: 99 rounds to 100
+6. Round 200 to nearest 100
+7. Does 455 round up or down to nearest 100?
+8. Round 628 to nearest 10
+9. What does 150 round to (nearest 100)?
+10. Round 74 to nearest 10
 
 Problems - Medium Level:
-1. Intermediate ones question: Apply your knowledge
-2. Intermediate ones question: Apply your knowledge
-3. Intermediate ones question: Apply your knowledge
-4. Intermediate ones question: Apply your knowledge
-5. Intermediate ones question: Apply your knowledge
-6. Intermediate ones question: Apply your knowledge
-7. Intermediate ones question: Apply your knowledge
-8. Intermediate ones question: Apply your knowledge
-9. Intermediate ones question: Apply your knowledge
-10. Intermediate ones question: Apply your knowledge
+1. Round 347 to nearest 10 and nearest 100
+2. Which rounds to 600: 555 or 645?
+3. Round 299 to nearest 100
+4. What is 763 rounded to nearest 10?
+5. True or False: 250 rounds to 200 (nearest 100)
+6. Round to nearest 100: 849
+7. Does 945 round to 940 or 950?
+8. What is 501 rounded to nearest 100?
+9. Round 675 to nearest 10
+10. Which doesn't round to 300: 251, 299, 349?
 
 Problems - Difficult Level:
-1. Advanced ones question: Demonstrate mastery
-2. Advanced ones question: Demonstrate mastery
-3. Advanced ones question: Demonstrate mastery
-4. Advanced ones question: Demonstrate mastery
-5. Advanced ones question: Demonstrate mastery
-6. Advanced ones question: Demonstrate mastery
-7. Advanced ones question: Demonstrate mastery
-8. Advanced ones question: Demonstrate mastery
-9. Advanced ones question: Demonstrate mastery
-10. Advanced ones question: Demonstrate mastery
+1. Round 456 to nearest 10, then round answer to nearest 100
+2. True or False: Rounding to 10 then 100 gives same result as rounding to 100 directly
+3. What is the smallest number that rounds to 500?
+4. Find a number that rounds to 700 (nearest 100) and 680 (nearest 10)
+5. Round 549 to nearest 10 and 100. Find the difference.
+6. How many numbers between 400-500 round to 450 (nearest 10)?
+7. Does 999 round to 1000 when rounded to nearest 10?
+8. What numbers round to exactly 800 (nearest 100)?
+9. If a number rounds to 560 (nearest 10), what could it be?
+10. Round 755 twice to nearest 10. What do you get?
 
 ---
 
-TOPIC 4: Numbers to 1000
+TOPIC 4: Number Patterns
 
 Theory:
-This section covers numbers to 1000 in detail. Students will learn the fundamental concepts, key terminology, and important principles related to numbers to 1000. Understanding numbers to 1000 is essential for building a strong foundation in this subject area.
+Number patterns follow rules. Common patterns:
 
-Key points to remember:
-- Numbers to 1000 helps develop important skills
-- Practice and repetition strengthen understanding
-- Real-world applications make learning meaningful
+Counting in steps:
+- Count in 2s: 2, 4, 6, 8, 10...
+- Count in 5s: 5, 10, 15, 20, 25...
+- Count in 10s: 10, 20, 30, 40...
+- Count in 100s: 100, 200, 300, 400...
+
+Finding the rule:
+1. Look at differences between numbers
+2. Check if difference is constant
+3. Apply rule to find next numbers
+
+Example: 15, 25, 35, 45, ?
+Difference = 10 each time
+Next number = 45 + 10 = 55
 
 Examples:
-Example 1: Numbers to 1000 Application
-- Step 1: Observe and identify the numbers to 1000
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated numbers to 1000
+Example 1: Continue the pattern: 130, 140, 150, __
+Rule: +10 each time. Answer: 160
 
-Example 2: Numbers to 1000 Application
-- Step 1: Observe and identify the numbers to 1000
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated numbers to 1000
+Example 2: What is the rule? 3, 6, 9, 12, 15
+Rule: Add 3 or count in 3s
 
-Example 3: Numbers to 1000 Application
-- Step 1: Observe and identify the numbers to 1000
-- Step 2: Apply the concept practically
-- Step 3: Check your understanding
-- Result: Successfully demonstrated numbers to 1000
+Example 3: Fill in: 200, __, 400, 500
+Rule: +100. Missing number: 300
 
 Interactive Worksheet:
-1. Complete the numbers to 1000 activity
-2. Draw or create a representation
-3. Explain your thinking
-4. Share with a partner
-5. Reflect on what you learned
+Pattern problems:
+1. Continue: 45, 50, 55, __, __
+2. Find rule: 110, 120, 130, 140
+3. Count backward in 10s from 800
+4. What comes before 305 when counting in 5s?
+5. Find missing: 24, 32, __, 48, 56
 
 Problems - Easy Level:
-1. Basic numbers to 1000 question: Complete the simple task
-2. Basic numbers to 1000 question: Complete the simple task
-3. Basic numbers to 1000 question: Complete the simple task
-4. Basic numbers to 1000 question: Complete the simple task
-5. Basic numbers to 1000 question: Complete the simple task
-6. Basic numbers to 1000 question: Complete the simple task
-7. Basic numbers to 1000 question: Complete the simple task
-8. Basic numbers to 1000 question: Complete the simple task
-9. Basic numbers to 1000 question: Complete the simple task
-10. Basic numbers to 1000 question: Complete the simple task
+1. Continue: 10, 20, 30, __
+2. What is the rule? 5, 10, 15, 20
+3. Count in 100s: 200, 300, __
+4. Next number: 50, 55, 60, __
+5. Continue: 2, 4, 6, 8, __
+6. Count back in 10s: 100, 90, __
+7. What comes after 25 (counting in 5s)?
+8. Find missing: 100, __, 300
+9. Continue: 40, 50, 60, __
+10. Rule for: 3, 6, 9, 12?
 
 Problems - Medium Level:
-1. Intermediate numbers to 1000 question: Apply your knowledge
-2. Intermediate numbers to 1000 question: Apply your knowledge
-3. Intermediate numbers to 1000 question: Apply your knowledge
-4. Intermediate numbers to 1000 question: Apply your knowledge
-5. Intermediate numbers to 1000 question: Apply your knowledge
-6. Intermediate numbers to 1000 question: Apply your knowledge
-7. Intermediate numbers to 1000 question: Apply your knowledge
-8. Intermediate numbers to 1000 question: Apply your knowledge
-9. Intermediate numbers to 1000 question: Apply your knowledge
-10. Intermediate numbers to 1000 question: Apply your knowledge
+1. Continue: 145, 150, 155, __, __
+2. Count in 50s: 50, 100, __, __
+3. Find missing: 48, 56, __, 72
+4. Count backward in 5s from 500
+5. What is the 6th number: 15, 30, 45...?
+6. Find rule: 125, 135, 145, 155
+7. Continue: 375, 400, 425, __
+8. Missing numbers: 64, __, __, 88
+9. Count in 25s: 25, __, 75, __
+10. Backward in 100s: 1000, 900, __
 
 Problems - Difficult Level:
-1. Advanced numbers to 1000 question: Demonstrate mastery
-2. Advanced numbers to 1000 question: Demonstrate mastery
-3. Advanced numbers to 1000 question: Demonstrate mastery
-4. Advanced numbers to 1000 question: Demonstrate mastery
-5. Advanced numbers to 1000 question: Demonstrate mastery
-6. Advanced numbers to 1000 question: Demonstrate mastery
-7. Advanced numbers to 1000 question: Demonstrate mastery
-8. Advanced numbers to 1000 question: Demonstrate mastery
-9. Advanced numbers to 1000 question: Demonstrate mastery
-10. Advanced numbers to 1000 question: Demonstrate mastery
-
+1. Find 10th number: 7, 14, 21, 28...
+2. Continue: 97, 94, 91, __, __
+3. What is the rule? 2, 6, 18, 54
+4. Missing: 320, __, __, __, 360
+5. Count backward in 25s from 1000 to 900
+6. Is 156 in this pattern: 12, 24, 36...?
+7. Find rule: 500, 450, 400, 350
+8. Continue: 128, 134, 140, __, __
+9. Which doesn't fit: 45, 50, 60, 65?
+10. Find missing: 875, __, __, __, 775
