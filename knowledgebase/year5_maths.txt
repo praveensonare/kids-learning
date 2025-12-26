@@ -1,0 +1,54 @@
+# Year 5 - Maths Knowledge Base
+
+## Cambridge Primary Mathematics Stage 5
+
+### Learning Objectives
+- Read, write, order and compare numbers to 1,000,000
+- Add and subtract whole numbers with more than 4 digits
+- Multiply and divide numbers mentally and using formal methods
+- Use fractions, decimals and percentages
+- Solve multi-step problems
+
+### Key Topics
+
+#### Number
+- Numbers to 1,000,000
+- Roman numerals to 1000
+- Negative numbers
+- Prime numbers, square numbers, cube numbers
+
+#### Four Operations
+- Multi-digit calculations
+- Order of operations
+- Mental calculation strategies
+- Problem solving
+
+#### Fractions, Decimals and Percentages
+- Comparing and ordering fractions
+- Mixed numbers and improper fractions
+- Decimals to 3 places
+- Percentages as fractions and decimals
+- Solving percentage problems
+
+#### Measurement
+- Converting metric units
+- Volume and capacity
+- Area and perimeter
+- Time calculations
+
+#### Geometry
+- Properties of shapes
+- Angles (acute, obtuse, reflex)
+- Reflection and translation
+- 3D shapes and nets
+
+#### Statistics
+- Tables and timetables
+- Line graphs
+- Interpreting data
+
+### Activities
+- Complex problem solving
+- Real-life mathematics
+- Investigations
+- Data handling projects
