@@ -93,7 +93,7 @@ export default function ClassPage() {
         </motion.div>
 
         {/* Subject Cards Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 max-w-7xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5 max-w-7xl mx-auto">
           {subjects.map((subject, index) => (
             <motion.div
               key={subject.id}
@@ -103,10 +103,10 @@ export default function ClassPage() {
             >
               <Link href={`/${classId}/${subject.id}`}>
                 <motion.div
-                  whileHover={{ y: -12, scale: 1.03 }}
+                  whileHover={{ y: -8, scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
-                  className={`${subject.color} rounded-3xl p-6 md:p-8 shadow-2xl cursor-pointer h-full transition-all hover:shadow-[0_25px_60px_rgba(0,0,0,0.3)] relative overflow-hidden group border-2 border-white/30`}
-                  style={{ minHeight: '320px' }}
+                  className={`${subject.color} rounded-2xl p-4 md:p-5 shadow-xl cursor-pointer h-full transition-all hover:shadow-2xl relative overflow-hidden group border-2 border-white/30`}
+                  style={{ minHeight: '240px' }}
                 >
                   {/* Decorative Pattern */}
                   <div className="absolute inset-0 opacity-10">
@@ -129,7 +129,7 @@ export default function ClassPage() {
                   <div className="relative z-10 flex flex-col items-center text-center h-full justify-between">
                     {/* Icon with Glow */}
                     <motion.div
-                      className="text-7xl md:text-8xl mb-4 drop-shadow-2xl filter brightness-110"
+                      className="text-5xl md:text-6xl mb-2 drop-shadow-2xl filter brightness-110"
                       animate={{
                         scale: [1, 1.1, 1],
                       }}
@@ -144,13 +144,13 @@ export default function ClassPage() {
 
                     <div className="flex-1 flex flex-col justify-center">
                       {/* Subject Name */}
-                      <h3 className="text-2xl md:text-3xl font-black text-white mb-4 drop-shadow-[0_4px_10px_rgba(0,0,0,0.6)]">
+                      <h3 className="text-xl md:text-2xl font-black text-white mb-3 drop-shadow-[0_4px_10px_rgba(0,0,0,0.6)]">
                         {subject.name}
                       </h3>
 
                       {/* Description Badge */}
-                      <div className="bg-white/40 backdrop-blur-xl px-5 py-2.5 rounded-full border-2 border-white/70 shadow-lg mx-auto">
-                        <p className="text-sm md:text-base font-black text-white drop-shadow-md">
+                      <div className="bg-white/40 backdrop-blur-xl px-4 py-1.5 rounded-full border-2 border-white/70 shadow-lg mx-auto">
+                        <p className="text-xs md:text-sm font-black text-white drop-shadow-md">
                           Explore Topics
                         </p>
                       </div>
@@ -158,16 +158,16 @@ export default function ClassPage() {
 
                     {/* Click Indicator */}
                     <motion.div
-                      className="mt-4"
+                      className="mt-2"
                       animate={{ x: [0, 10, 0] }}
                       transition={{
                         duration: 1.5,
                         repeat: Infinity,
                       }}
                     >
-                      <div className="bg-white/50 backdrop-blur-md p-3 rounded-full border-2 border-white/80 shadow-xl group-hover:bg-white/80 transition-all">
+                      <div className="bg-white/50 backdrop-blur-md p-2 rounded-full border-2 border-white/80 shadow-xl group-hover:bg-white/80 transition-all">
                         <svg
-                          className="w-6 h-6 text-white drop-shadow-lg"
+                          className="w-5 h-5 text-white drop-shadow-lg"
                           fill="none"
                           stroke="currentColor"
                           viewBox="0 0 24 24"

@@ -131,7 +131,7 @@ export default function SubjectPage() {
 
         {/* Topics Grid */}
         {!loading && knowledgeBase && knowledgeBase.topics.length > 0 && (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 max-w-7xl mx-auto">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5 max-w-7xl mx-auto">
             {knowledgeBase.topics.map((topic, index) => (
               <motion.div
                 key={topic.id}
@@ -141,10 +141,10 @@ export default function SubjectPage() {
               >
                 <Link href={`/${classId}/${subjectId}/${topic.id}`}>
                   <motion.div
-                    whileHover={{ y: -8, scale: 1.02 }}
+                    whileHover={{ y: -6, scale: 1.01 }}
                     whileTap={{ scale: 0.98 }}
-                    className="bg-white/95 backdrop-blur-sm rounded-3xl shadow-2xl hover:shadow-[0_20px_50px_rgba(0,0,0,0.25)] cursor-pointer transition-all relative overflow-hidden group border-2 border-purple-200/50"
-                    style={{ minHeight: '280px' }}
+                    className="bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl hover:shadow-2xl cursor-pointer transition-all relative overflow-hidden group border-2 border-purple-200/50"
+                    style={{ minHeight: '220px' }}
                   >
                     {/* Decorative Pattern */}
                     <div className="absolute inset-0 opacity-5">
@@ -166,53 +166,53 @@ export default function SubjectPage() {
                     </div>
 
                     {/* Gradient Top Bar */}
-                    <div className={`${subjectData.color} h-3 w-full`}></div>
+                    <div className={`${subjectData.color} h-2 w-full`}></div>
 
                     {/* Content */}
-                    <div className="relative z-10 p-6 md:p-7 flex flex-col h-full">
+                    <div className="relative z-10 p-4 md:p-5 flex flex-col h-full">
                       {/* Topic Number Badge */}
-                      <div className="flex items-start gap-4 mb-4">
+                      <div className="flex items-start gap-3 mb-3">
                         <motion.div
-                          className={`${subjectData.color} rounded-2xl p-4 flex-shrink-0 shadow-lg border-2 border-white`}
+                          className={`${subjectData.color} rounded-xl p-3 flex-shrink-0 shadow-lg border-2 border-white`}
                           whileHover={{ rotate: [0, -10, 10, -10, 0] }}
                           transition={{ duration: 0.5 }}
                         >
-                          <span className="text-2xl md:text-3xl font-black text-white drop-shadow-md">
+                          <span className="text-xl md:text-2xl font-black text-white drop-shadow-md">
                             {topic.number}
                           </span>
                         </motion.div>
 
                         <div className="flex-1 min-w-0">
-                          <div className="bg-gradient-to-r from-purple-100 to-pink-100 px-3 py-1 rounded-full inline-block mb-2">
+                          <div className="bg-gradient-to-r from-purple-100 to-pink-100 px-2.5 py-0.5 rounded-full inline-block">
                             <span className="text-xs font-bold text-purple-700">TOPIC {topic.number}</span>
                           </div>
                         </div>
                       </div>
 
                       {/* Topic Title */}
-                      <h3 className="text-xl md:text-2xl font-black text-gray-900 mb-4 leading-tight group-hover:text-purple-700 transition-colors">
+                      <h3 className="text-lg md:text-xl font-black text-gray-900 mb-3 leading-tight group-hover:text-purple-700 transition-colors">
                         {topic.title}
                       </h3>
 
                       {/* Topic Preview */}
-                      <div className="flex-1 mb-4">
+                      <div className="flex-1 mb-3">
                         <div className="flex items-center gap-2 text-sm text-gray-600 mb-2">
                           <FileText className="w-4 h-4 text-purple-500" />
                           <span className="font-semibold">What you'll learn:</span>
                         </div>
-                        <div className="flex flex-wrap gap-2">
+                        <div className="flex flex-wrap gap-1.5">
                           {topic.theory && (
-                            <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-xs font-bold border border-blue-200">
+                            <span className="bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full text-xs font-bold border border-blue-200">
                               Theory
                             </span>
                           )}
                           {topic.examples && (
-                            <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-xs font-bold border border-green-200">
+                            <span className="bg-green-100 text-green-700 px-2 py-0.5 rounded-full text-xs font-bold border border-green-200">
                               Examples
                             </span>
                           )}
                           {topic.worksheets && (
-                            <span className="bg-orange-100 text-orange-700 px-3 py-1 rounded-full text-xs font-bold border border-orange-200">
+                            <span className="bg-orange-100 text-orange-700 px-2 py-0.5 rounded-full text-xs font-bold border border-orange-200">
                               Worksheets
                             </span>
                           )}
@@ -221,17 +221,17 @@ export default function SubjectPage() {
 
                       {/* Click Indicator */}
                       <motion.div
-                        className="flex items-center justify-between mt-auto pt-4 border-t-2 border-purple-100"
+                        className="flex items-center justify-between mt-auto pt-3 border-t-2 border-purple-100"
                         animate={{ x: [0, 5, 0] }}
                         transition={{
                           duration: 1.5,
                           repeat: Infinity,
                         }}
                       >
-                        <span className="text-sm font-bold text-purple-600">Start Learning</span>
-                        <div className={`${subjectData.color} p-2 rounded-full shadow-md border-2 border-white group-hover:scale-110 transition-transform`}>
+                        <span className="text-xs md:text-sm font-bold text-purple-600">Start Learning</span>
+                        <div className={`${subjectData.color} p-1.5 rounded-full shadow-md border-2 border-white group-hover:scale-110 transition-transform`}>
                           <svg
-                            className="w-5 h-5 text-white"
+                            className="w-4 h-4 text-white"
                             fill="none"
                             stroke="currentColor"
                             viewBox="0 0 24 24"
