@@ -1,43 +1,201 @@
-# Nursery - Discovery (Science) Knowledge Base
+Nursery Science - Discovery and Exploration
 
-## Cambridge Early Years Foundation Stage (EYFS)
+Learning Objectives:
+- Explore the natural world through observation and investigation
+- Develop curiosity about living things, materials, and physical phenomena
+- Learn to ask questions and make predictions
+- Use all five senses to investigate objects and materials
+- Understand basic concepts about animals, plants, and the environment
+- Develop scientific vocabulary through hands-on experiences
 
-### Learning Objectives
-- Explore the natural world around them
-- Make observations and describe what they see
-- Understand basic concepts of living things
-- Develop curiosity about nature
-- Learn through hands-on exploration
+Key Topics:
 
-### Key Topics
+TOPIC 1: Living Things - Animals
+Theory: Animals are living things that move, eat, grow, and have babies. Different animals live in different places (habitats) and have special features that help them survive.
 
-#### Living Things
-- Animals and their babies
-- Plants and how they grow
-- Caring for living things
-- Habitats and homes
+Examples:
+- Pets: dogs, cats, rabbits, fish, hamsters
+- Farm animals: cows, pigs, sheep, chickens, horses
+- Wild animals: lions, elephants, monkeys, bears
+- Birds: sparrows, pigeons, ducks, owls
+- Minibeasts: butterflies, ladybirds, worms, snails, ants
 
-#### Materials
-- Different textures (soft, hard, rough, smooth)
-- Floating and sinking
-- Exploring natural materials
-- Everyday materials
+Animal Features:
+- Dogs have 4 legs, fur, a tail, and bark
+- Birds have 2 legs, feathers, wings, and lay eggs
+- Fish have fins, scales, and live in water
+- Insects have 6 legs and some can fly
 
-#### Weather and Seasons
-- Types of weather (sunny, rainy, windy, snowy)
-- Seasonal changes
-- Appropriate clothing for weather
-- Simple weather observations
+Worksheets:
+1. Animal Sorting: Group animals by number of legs (2, 4, 6, 8, no legs)
+2. Where Do I Live?: Match animals to their homes (bird-nest, fish-pond, dog-kennel)
+3. Animal Babies: Match adult animals to their babies (cat-kitten, dog-puppy)
+4. What Do I Eat?: Sort animals into groups (meat eaters, plant eaters)
 
-#### My Body
-- Parts of the body
-- Five senses (sight, hearing, touch, taste, smell)
-- Healthy habits
-- Movement and exercise
+TOPIC 2: Living Things - Plants
+Theory: Plants are living things that grow from seeds. They need water, light, and soil to grow. Plants give us food and make the air clean.
 
-### Activities
-- Nature walks and observations
-- Planting seeds and watching them grow
-- Water play and experiments
-- Sensory exploration activities
-- Weather charts
+Parts of a Plant:
+- Roots: underground, take in water and nutrients
+- Stem: holds the plant up, carries water
+- Leaves: green, make food for the plant, need sunlight
+- Flowers: colorful, make seeds
+- Seeds: grow into new plants
+
+Examples:
+- Trees: oak, apple, pine (tall plants with thick stems called trunks)
+- Flowers: sunflower, rose, daisy, tulip
+- Vegetables: carrot, potato, lettuce, tomato
+- Fruits: apple, banana, orange, strawberry
+
+Worksheets:
+1. Label the Plant: Point to roots, stem, leaves, flower on a picture
+2. Plant Needs: Circle what plants need to grow (water, light, soil vs. toys, TV)
+3. Fruit or Vegetable?: Sort pictures into fruits and vegetables
+4. Growing Sequence: Put pictures in order (seed → sprout → plant → flower)
+
+TOPIC 3: Our Bodies and Senses
+Theory: We have five senses that help us explore the world. Our bodies have different parts that do different jobs.
+
+The Five Senses:
+1. Sight (eyes): We see colors, shapes, light, dark
+2. Hearing (ears): We hear sounds - loud, quiet, high, low
+3. Touch (skin/hands): We feel textures - soft, hard, smooth, rough, hot, cold
+4. Taste (tongue): We taste flavors - sweet, salty, sour, bitter
+5. Smell (nose): We smell scents - nice, nasty, flowers, food
+
+Body Parts:
+- Head: brain (thinks), eyes (see), ears (hear), nose (smell), mouth (taste/eat)
+- Arms and hands: reach, hold, touch, write
+- Legs and feet: walk, run, jump, kick
+- Heart: pumps blood around body
+- Tummy: digests food
+
+Worksheets:
+1. Which Sense?: Match activities to senses (looking at book = sight, eating apple = taste)
+2. Body Parts: Label head, arms, legs, hands, feet, eyes, nose, mouth on outline
+3. Texture Hunt: Find and draw things that are soft, hard, smooth, rough
+4. Keeping Healthy: Circle healthy choices (fruit, exercise, washing hands)
+
+TOPIC 4: Materials and Their Properties
+Theory: Everything is made of materials. Materials have different properties (how they look and feel). We choose materials based on what we need them to do.
+
+Common Materials:
+- Wood: hard, strong, from trees (furniture, pencils, buildings)
+- Metal: hard, shiny, strong, can be cold (spoons, cars, coins)
+- Plastic: light, waterproof, bendy or hard (toys, bottles, bags)
+- Glass: transparent, hard, breakable (windows, mirrors, bottles)
+- Fabric/Cloth: soft, flexible, can be colorful (clothes, curtains, bags)
+- Paper: thin, light, tears easily (books, newspapers, tissues)
+- Rubber: bendy, stretchy, waterproof (boots, tyres, balls)
+
+Properties:
+- Hard or soft: table is hard, pillow is soft
+- Rough or smooth: sandpaper is rough, glass is smooth
+- Shiny or dull: mirror is shiny, brick is dull
+- Transparent or opaque: window is transparent, wall is opaque
+- Waterproof or absorbent: raincoat is waterproof, towel is absorbent
+
+Worksheets:
+1. Material Hunt: Find 3 things made of wood, plastic, metal
+2. Property Sorting: Group objects by properties (hard/soft, rough/smooth)
+3. Best Material: What material for a raincoat? A window? A teddy bear?
+4. Sink or Float?: Predict which objects will sink or float in water
+
+TOPIC 5: Weather and Seasons
+Theory: Weather is what it's like outside each day. It changes daily and throughout the year. There are four seasons with different weather patterns.
+
+Types of Weather:
+- Sunny: bright, warm, clear sky, need sunglasses, wear shorts
+- Rainy: wet, clouds, need umbrella and raincoat, puddles
+- Windy: air moving, trees blow, fly kites, leaves blow
+- Snowy: cold, white snow falls, build snowman, wear warm coat
+- Cloudy: grey sky, no sun visible
+- Stormy: thunder, lightning, heavy rain, very windy
+
+Four Seasons:
+- Spring: flowers bloom, baby animals born, warmer, trees get leaves
+- Summer: hot, sunny, long days, go to beach, wear light clothes
+- Autumn/Fall: leaves change color and fall, cooler, harvest time
+- Winter: cold, short days, may snow, animals hibernate, wear warm clothes
+
+Worksheets:
+1. Weather Matching: Match weather to correct clothes (sun → shorts, rain → umbrella)
+2. Season Sort: Group pictures into the four seasons
+3. Weather Chart: Record today's weather each day for a week (sunny/rainy/cloudy)
+4. What Can I Do?: Match activities to weather (make snowman = snowy, swim = sunny)
+
+TOPIC 6: Day and Night
+Theory: Earth spins, giving us day and night. During the day it's light because we can see the sun. At night it's dark and we can see the moon and stars.
+
+Day Time:
+- Light outside because of the sun
+- Sky is blue or cloudy
+- We can see clearly
+- Most people are awake
+- Day activities: school, playing, eating lunch
+
+Night Time:
+- Dark outside, sun has gone down
+- Sky is black, we see moon and stars
+- Need lights to see inside
+- Most people sleep
+- Night activities: sleeping, bedtime story, dreaming
+
+Worksheets:
+1. Day or Night?: Sort pictures of activities into day time and night time
+2. Draw the Sky: Draw daytime sky (blue, sun, clouds) and night sky (dark, moon, stars)
+3. My Day: Draw what you do in the morning, afternoon, and night
+4. Moon Shapes: Look at the moon each night and draw its shape
+
+TOPIC 7: Forces and Movement
+Theory: Forces make things move, stop, or change direction. We use pushes and pulls every day.
+
+Push and Pull:
+- Push: move something away from you (push a swing, push a toy car, push a door open)
+- Pull: move something toward you (pull a wagon, pull a drawer open, pull a rope)
+- Both: opening a drawer (pull), closing it (push)
+
+Types of Movement:
+- Rolling: wheels, balls, cylinders roll
+- Sliding: smooth surfaces let things slide
+- Bouncing: balls bounce up and down
+- Spinning: tops, wheels, merry-go-round spin round
+- Floating: boats, ducks, leaves float on water
+- Sinking: heavy things sink to the bottom
+
+Fast and Slow:
+- Car is fast, snail is slow
+- Cheetah is fast, tortoise is slow
+- Rocket is very fast, person walking is slow
+
+Worksheets:
+1. Push or Pull?: Circle if you push or pull to use each object
+2. Ramp Races: Which toy car rolls fastest down a ramp?
+3. Will It Roll?: Predict which shapes will roll (ball, cube, cylinder)
+4. Fast or Slow?: Sort animals and vehicles by how fast they move
+
+Sample Activities:
+- Nature Walks: Observe plants, animals, weather outdoors
+- Planting Seeds: Grow cress or beans in classroom
+- Sense Boxes: Mystery boxes with objects to feel, smell, or hear
+- Floating and Sinking: Test which objects float in water tray
+- Magnet Exploration: Use magnets to find what attracts
+- Ice Melting: Watch ice melt, discuss where water went
+- Shadow Play: Make shadows with flashlight
+- Weather Station: Record daily weather with pictures
+- Animal Visitors: Observe pets or small animals safely
+- Material Sorting: Sort objects by material (wood, plastic, metal)
+- Seasonal Tree: Observe same tree through all four seasons
+- Cooking Activities: Mix, melt, change materials
+
+Assessment Ideas:
+- Can name common animals and plants
+- Uses five senses to explore objects
+- Describes simple properties of materials
+- Recognizes different types of weather
+- Understands difference between day and night
+- Demonstrates push and pull with objects
+- Shows curiosity and asks questions
+- Makes simple predictions
+- Talks about observations using new vocabulary

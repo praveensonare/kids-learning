@@ -1,65 +1,295 @@
-# Year 2 - Maths Knowledge Base
+Year 2 Maths - Cambridge Primary Curriculum
 
-## Cambridge Primary Mathematics Stage 2
-
-### Learning Objectives
-- Count, read and write numbers to 100
-- Add and subtract two-digit numbers
-- Multiply and divide using 2, 5 and 10 times tables
+Learning Objectives:
+- Count, read, write numbers to 100, understanding place value
+- Add and subtract 2-digit numbers
+- Know 2, 5, 10 times tables
+- Use and apply fractions
+- Measure using standard units
 - Identify and describe properties of 2D and 3D shapes
-- Use standard units of measurement
+- Tell time to 5 minutes
+- Interpret simple graphs and data
 
-### Key Topics
+Key Topics:
 
-#### Number and Place Value
-- Numbers to 100
-- Place value (tens and ones)
-- Comparing and ordering numbers
-- Odd and even numbers
-- Counting in steps (2, 3, 5, 10)
+TOPIC 1: Place Value to 100
+Theory: Understanding that the position of a digit determines its value is crucial for all mathematics.
 
-#### Addition and Subtraction
-- Mental strategies
-- Column addition and subtraction
-- Inverse operations
-- Fact families
-- Word problems and reasoning
+Place Value Concepts:
+- Tens and Ones: 45 = 4 tens (40) + 5 ones (5)
+- Partitioning: Breaking numbers (67 = 60 + 7)
+- Comparing: 56 > 43, 28 < 31
+- Ordering: 12, 25, 34, 47, 89 (ascending)
+- Estimating: About 50, nearly 100
 
-#### Multiplication and Division
-- 2, 5, and 10 times tables
-- Multiplication as repeated addition
-- Division as sharing and grouping
-- Arrays and groups
-- Commutativity
+Number Line Skills:
+- Count in steps: 2s, 5s, 10s
+- Find number between: What's between 34 and 36? (35)
+- Round to nearest 10: 47 rounds to 50
 
-#### Fractions
-- Halves, quarters, thirds
-- Equivalent fractions (1/2 = 2/4)
-- Finding fractions of amounts
+Examples:
+- 73 = 70 + 3 = 7 tens and 3 ones
+- Compare: 45 < 54 (look at tens first)
+- Round: 34 → 30, 36 → 40 (nearest 10)
 
-#### Measurement
-- Length (cm, m)
-- Mass (g, kg)
-- Capacity (ml, l)
-- Temperature (°C)
-- Time (hours, minutes, seconds)
-- Money (£ and p)
+Worksheets:
+1. Place Value Grid: Write numbers in tens and ones
+2. Partitioning: Break numbers in different ways (42 = 40 + 2 = 30 + 12)
+3. Ordering: Arrange 6 numbers from smallest to largest
+4. Estimating: Estimate positions on number line
 
-#### Geometry
-- Properties of 2D shapes (sides, vertices, symmetry)
-- Properties of 3D shapes (faces, edges, vertices)
-- Position and movement
-- Turns and angles (quarter, half, three-quarter, full turn)
+TOPIC 2: Addition and Subtraction (2-digit numbers)
+Theory: Mental and written methods help us calculate efficiently with larger numbers.
 
-#### Statistics
-- Tally charts
-- Pictograms
-- Block diagrams
-- Interpreting data
+Mental Strategies:
+- Count on/back in tens: 34 + 20 = 54
+- Use number bonds: 27 + 3 = 30, then +17 = 47
+- Partition: 45 + 23 = (40 + 20) + (5 + 3) = 68
+- Near doubles: 6 + 7 = 6 + 6 + 1 = 13
 
-### Activities
-- Times table practice
-- Measuring real objects
-- Money problems (shopping scenarios)
-- Shape investigations
-- Data collection projects
+Column Addition (no carrying):
+```
+  34
++ 25
+----
+  59
+```
+
+Column Addition (with carrying):
+```
+  47
++ 38
+----
+  85  (7+8=15, carry 1)
+```
+
+Subtraction Methods:
+- Count back: 45 - 3 = 42
+- Find difference: Count up from smaller to larger
+- Column subtraction
+
+Word Problems:
+- There are 45 children. 28 are girls. How many boys? (45 - 28 = 17)
+- Shop has 36 apples, gets 47 more. Total? (36 + 47 = 83)
+
+Worksheets:
+1. Mental Addition: 50 quick addition facts
+2. Column Method: 10 addition problems with carrying
+3. Subtraction Practice: Mix of mental and written
+4. Word Problems: 10 real-life addition/subtraction problems
+
+TOPIC 3: Multiplication and Division
+Theory: Multiplication is repeated addition. Division is sharing or grouping equally.
+
+Times Tables (2, 5, 10):
+- 2 times table: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24
+- 5 times table: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60
+- 10 times table: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120
+
+Multiplication as Arrays:
+- 3 × 4 = 3 rows of 4 = 12
+- Commutative: 3 × 4 = 4 × 3
+
+Division:
+- Sharing: 12 ÷ 3 = 4 (12 shared among 3 = 4 each)
+- Grouping: 12 ÷ 3 = 4 (how many groups of 3 in 12? 4 groups)
+- Inverse of multiplication: If 3 × 4 = 12, then 12 ÷ 3 = 4
+
+Word Problems:
+- 5 boxes with 6 pencils each. Total? 5 × 6 = 30
+- 20 sweets shared among 4 children. Each gets? 20 ÷ 4 = 5
+
+Worksheets:
+1. Times Tables: Complete 2, 5, 10 times tables
+2. Arrays: Draw arrays for multiplication facts
+3. Division Pictures: Share objects equally
+4. Mixed Problems: Multiply and divide word problems
+
+TOPIC 4: Fractions
+Theory: Fractions represent equal parts of a whole or a group.
+
+Unit Fractions:
+- 1/2: one half (1 out of 2 equal parts)
+- 1/3: one third (1 out of 3 equal parts)
+- 1/4: one quarter (1 out of 4 equal parts)
+
+Non-Unit Fractions:
+- 2/4: two quarters (2 out of 4 equal parts)
+- 3/4: three quarters (3 out of 4 equal parts)
+- 2/3: two thirds (2 out of 3 equal parts)
+
+Finding Fractions of Amounts:
+- 1/2 of 12 = 6 (divide by 2)
+- 1/4 of 20 = 5 (divide by 4)
+- 3/4 of 20 = 15 (find 1/4 first, then ×3)
+
+Equivalent Fractions:
+- 1/2 = 2/4 (same amount)
+- Two halves = one whole
+
+Worksheets:
+1. Shade Fractions: Color 1/3, 2/4, 3/4 of shapes
+2. Fractions of Amounts: Find 1/2, 1/4, 1/3 of numbers
+3. Equivalent Fractions: Match equal fractions
+4. Compare Fractions: Which is bigger? 1/2 or 1/4?
+
+TOPIC 5: Measurement
+Theory: We use standard units to measure accurately and communicate measurements.
+
+Length:
+- Units: millimeters (mm), centimeters (cm), meters (m)
+- Tools: ruler, tape measure, meter stick
+- 1 meter = 100 centimeters
+- Examples: pencil = 15 cm, door = 2 m
+
+Mass/Weight:
+- Units: grams (g), kilograms (kg)
+- Tools: scales, balance
+- 1 kilogram = 1000 grams
+- Examples: apple = 100g, bag of sugar = 1kg
+
+Capacity:
+- Units: milliliters (ml), liters (l)
+- Tools: measuring jug, beaker
+- 1 liter = 1000 milliliters
+- Examples: spoon = 5ml, bottle = 500ml, bucket = 5l
+
+Temperature:
+- Units: degrees Celsius (°C)
+- Tool: thermometer
+- Examples: freezing = 0°C, body = 37°C, boiling = 100°C
+
+Worksheets:
+1. Measure Lines: Use ruler to measure in cm
+2. Choose Units: What unit for measuring a car's length? (meters)
+3. Reading Scales: Read measurements on scales
+4. Estimation: Estimate then measure objects
+
+TOPIC 6: Geometry - 2D and 3D Shapes
+Theory: Shapes have specific properties that help us identify and classify them.
+
+2D Shape Properties:
+- Sides: straight edges
+- Vertices: corners/points where sides meet
+- Right angles: square corners (90°)
+- Lines of symmetry: where shape can fold in half
+
+Common 2D Shapes:
+- Triangle: 3 sides, 3 vertices
+- Quadrilaterals: 4 sides, 4 vertices
+  * Square: 4 equal sides, 4 right angles
+  * Rectangle: opposite sides equal, 4 right angles
+  * Rhombus: 4 equal sides, opposite angles equal
+- Pentagon: 5 sides
+- Hexagon: 6 sides
+- Octagon: 8 sides
+- Circle: curved edge, no vertices
+
+3D Shape Properties:
+- Faces: flat surfaces
+- Edges: where two faces meet
+- Vertices: points where edges meet
+
+Common 3D Shapes:
+- Cube: 6 square faces, 12 edges, 8 vertices
+- Cuboid: 6 rectangular faces, 12 edges, 8 vertices
+- Sphere: 1 curved surface
+- Cylinder: 2 circular faces, 1 curved surface
+- Cone: 1 circular face, 1 vertex
+- Pyramid: triangular faces, 1 base
+
+Worksheets:
+1. Properties Table: List properties of shapes
+2. Symmetry: Draw lines of symmetry on shapes
+3. 3D Nets: Which nets fold to make cube?
+4. Shape Hunt: Find and photograph shapes in school
+
+TOPIC 7: Time
+Theory: We measure time to organize our lives and understand duration.
+
+Telling Time:
+- O'clock: 3:00 (hour hand on 3, minute hand on 12)
+- Half past: 3:30 (hour hand between 3 and 4, minute hand on 6)
+- Quarter past: 3:15 (minute hand on 3)
+- Quarter to: 2:45 (minute hand on 9, one before hour)
+- 5-minute intervals: 3:05, 3:10, 3:15, etc.
+
+Duration:
+- Minutes in an hour: 60
+- Hours in a day: 24
+- Days in a week: 7
+- Months in a year: 12
+- Days in a year: 365 (366 leap year)
+
+Time Calculations:
+- Start 2:00, end 3:00 = 1 hour
+- Start 3:15, end 3:45 = 30 minutes
+- 2 hours after 10:00 = 12:00
+
+Calendar:
+- Days of week: Mon, Tue, Wed, Thu, Fri, Sat, Sun
+- Months: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
+- Yesterday, today, tomorrow
+- Last week, this week, next week
+
+Worksheets:
+1. Draw Clock Hands: Show times to 5 minutes
+2. Time Intervals: How long from 2:15 to 3:00?
+3. Calendar Questions: What day is 3 days after Wednesday?
+4. Daily Timeline: Draw your day showing times for activities
+
+TOPIC 8: Statistics and Data
+Theory: We collect, organize, and interpret data to answer questions.
+
+Collecting Data:
+- Tally marks: |||| (group of 5)
+- Surveys: asking questions
+- Observations: counting what we see
+
+Displaying Data:
+- Pictograms: pictures represent numbers
+- Block graphs: blocks show frequency
+- Tables: organize information in rows and columns
+
+Reading Graphs:
+- Title: What is the graph about?
+- Axes: What do they show?
+- Scale: How much does each symbol/block represent?
+- Most/least: Which has most/least?
+- Total: Add all amounts
+- Difference: Compare amounts
+
+Example: Favorite Fruits
+| Fruit | Tally | Number |
+|-------|-------|--------|
+| Apple | |||   | 3      |
+| Banana| ||||  | 5      |
+| Orange| ||    | 2      |
+
+Worksheets:
+1. Tally Chart: Record class data using tallies
+2. Pictogram: Create pictogram (1 symbol = 2 items)
+3. Block Graph: Make block graph from data
+4. Interpret: Answer questions about given graphs
+
+Sample Activities:
+- Mental Maths: Daily quick recall practice
+- Times Tables Rock Stars: Learn multiplication facts
+- Money Shop: Role-play buying items, giving change
+- Shape Pictures: Create pictures using specific shapes
+- Measuring Hunt: Measure classroom objects
+- Time Bingo: Match clock faces to digital times
+- Data Collection: Survey class favorites, create graphs
+- Problem Solving: Multi-step word problems
+- Pattern Making: Continue and create number and shape patterns
+
+Assessment Ideas:
+- Counts to 100 and understands place value
+- Adds and subtracts 2-digit numbers
+- Knows 2, 5, 10 times tables by heart
+- Finds fractions of shapes and amounts
+- Measures using standard units (cm, m, g, kg, ml, l)
+- Tells time to 5 minutes
+- Identifies and describes 2D and 3D shapes
+- Interprets pictograms and block graphs
+- Solves problems and explains methods
