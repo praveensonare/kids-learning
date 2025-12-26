@@ -1,53 +1,13 @@
-# Year 4 - Maths Knowledge Base
+Year 4 Maths - Cambridge Primary Standards
 
-## Cambridge Primary Mathematics Stage 4
+Learning Objectives: Count to 10,000, multiply/divide by 10/100, all times tables, decimals to 2 places, area and perimeter, coordinates, time conversions
 
-### Learning Objectives
-- Count, order and compare numbers beyond 1000
-- Add and subtract numbers with up to 4 digits
-- Recall multiplication and division facts to 12 × 12
-- Recognize and write decimal equivalents of fractions
-- Solve problems involving measure and money
-
-### Key Topics
-
-#### Number and Place Value
-- Roman numerals to 100
-- Rounding to nearest 10, 100, 1000
-- Counting in multiples
-- Negative numbers
-
-#### Addition and Subtraction
-- Mental and written methods
-- 4-digit numbers
-- Estimation and checking
-
-#### Multiplication and Division
-- Times tables to 12 × 12
-- Mental methods
-- Formal written methods
-- Factor pairs
-
-#### Fractions and Decimals
-- Equivalent fractions
-- Adding and subtracting fractions
-- Decimal notation
-- Rounding decimals
-
-#### Measurement
-- Converting units
-- Perimeter and area
-- Money calculations
-- Time (12 and 24-hour)
-
-#### Geometry
-- Acute, obtuse, right angles
-- 2D and 3D properties
-- Symmetry and reflection
-- Coordinates
-
-### Activities
-- Problem-solving tasks
-- Real-world applications
-- Mathematical investigations
-- Mental arithmetic
+Key Topics:
+TOPIC 1: Place Value to 10,000: Thousands, hundreds, tens, ones; compare and order; round to nearest 10, 100, 1000; Roman numerals to 100 (I, V, X, L, C)
+TOPIC 2: Four Operations: Add/subtract 4-digits (column method); multiply 3-digits by 1-digit; divide 3-digits by 1-digit; mental strategies; inverse operations
+TOPIC 3: Times Tables: All tables to 12×12; factor pairs; multiplication facts; related division facts; multiply by 10 and 100
+TOPIC 4: Fractions/Decimals: Count in fractions; add/subtract with same denominator; recognize equivalent fractions; decimals (tenths and hundredths); compare decimals; money as decimals (£4.56)
+TOPIC 5: Measurement: Convert units (km-m, m-cm, kg-g, l-ml); perimeter of rectangles; area by counting squares; 12-hour and 24-hour time
+TOPIC 6: Geometry: Classify shapes by properties; angles (acute, obtuse, right); lines of symmetry; position and direction; translations; coordinates (first quadrant)
+TOPIC 7: Statistics: Interpret/construct bar charts, time graphs, pictograms; discrete and continuous data
+Worksheets: Place value problems, column methods, times tables tests, fraction equivalence, area and perimeter, coordinate plotting, data interpretation

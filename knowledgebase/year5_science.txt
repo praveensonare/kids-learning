@@ -1,24 +1,12 @@
-# year5 - science Knowledge Base
+Year 5 Science - Cambridge Primary Standards
 
-## Cambridge Primary Curriculum
+Learning Objectives: Plan different types of enquiry, take accurate measurements, record data and results, report findings, explain causal relationships
 
-### Learning Objectives
-- Aligned with Cambridge International Standards
-- Age-appropriate content and activities
-- Progressive skill development
-- Cross-curricular connections
+Key Topics:
+TOPIC 1: Living Things/Life Cycles: Life cycles (mammal, amphibian, insect, bird); reproduction in plants (sexual, asexual); animal reproduction; Jane Goodall, David Attenborough
+TOPIC 2: Animals/Humans: Changes through puberty, gestation periods, life expectancy
 
-### Key Topics
-[Content to be developed based on Cambridge curriculum framework]
-
-### Sample Activities
-- Hands-on learning experiences
-- Group and individual work
-- Assessment and evaluation
-- Home learning connections
-
-### Resources
-- Textbooks and workbooks
-- Digital resources
-- Practical materials
-- Assessment tools
+TOPIC 3: Properties/Changes of Materials: Compare properties, dissolving, separating mixtures (filtering, sieving, evaporating), reversible/irreversible changes (burning, rusting, mixing), new materials formed
+TOPIC 4: Earth and Space: Earth, Sun, Moon (spherical bodies); Earth's rotation (day/night); Moon orbits Earth; Earth orbits Sun; planets in Solar System; Sun at center
+TOPIC 5: Forces: Gravity, air resistance, water resistance, friction; mechanisms (levers, pulleys, gears) allow smaller force to have greater effect
+Worksheets: Life cycle diagrams, material properties testing, Earth/Space models, force investigations
