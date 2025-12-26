@@ -1,0 +1,40 @@
+Year 2 Maths - Cambridge Primary Curriculum
+TOPIC 6: Geometry - 2D and 3D Shapes
+
+Theory: Shapes have specific properties that help us identify and classify them.
+
+2D Shape Properties:
+- Sides: straight edges
+- Vertices: corners/points where sides meet
+- Right angles: square corners (90°)
+- Lines of symmetry: where shape can fold in half
+
+Common 2D Shapes:
+- Triangle: 3 sides, 3 vertices
+- Quadrilaterals: 4 sides, 4 vertices
+  * Square: 4 equal sides, 4 right angles
+  * Rectangle: opposite sides equal, 4 right angles
+  * Rhombus: 4 equal sides, opposite angles equal
+- Pentagon: 5 sides
+- Hexagon: 6 sides
+- Octagon: 8 sides
+- Circle: curved edge, no vertices
+
+3D Shape Properties:
+- Faces: flat surfaces
+- Edges: where two faces meet
+- Vertices: points where edges meet
+
+Common 3D Shapes:
+- Cube: 6 square faces, 12 edges, 8 vertices
+- Cuboid: 6 rectangular faces, 12 edges, 8 vertices
+- Sphere: 1 curved surface
+- Cylinder: 2 circular faces, 1 curved surface
+- Cone: 1 circular face, 1 vertex
+- Pyramid: triangular faces, 1 base
+
+Worksheets:
+1. Properties Table: List properties of shapes
+2. Symmetry: Draw lines of symmetry on shapes
+3. 3D Nets: Which nets fold to make cube?
+4. Shape Hunt: Find and photograph shapes in school

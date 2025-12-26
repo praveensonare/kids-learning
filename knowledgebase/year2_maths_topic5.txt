@@ -1,0 +1,33 @@
+Year 2 Maths - Cambridge Primary Curriculum
+TOPIC 5: Measurement
+
+Theory: We use standard units to measure accurately and communicate measurements.
+
+Length:
+- Units: millimeters (mm), centimeters (cm), meters (m)
+- Tools: ruler, tape measure, meter stick
+- 1 meter = 100 centimeters
+- Examples: pencil = 15 cm, door = 2 m
+
+Mass/Weight:
+- Units: grams (g), kilograms (kg)
+- Tools: scales, balance
+- 1 kilogram = 1000 grams
+- Examples: apple = 100g, bag of sugar = 1kg
+
+Capacity:
+- Units: milliliters (ml), liters (l)
+- Tools: measuring jug, beaker
+- 1 liter = 1000 milliliters
+- Examples: spoon = 5ml, bottle = 500ml, bucket = 5l
+
+Temperature:
+- Units: degrees Celsius (°C)
+- Tool: thermometer
+- Examples: freezing = 0°C, body = 37°C, boiling = 100°C
+
+Worksheets:
+1. Measure Lines: Use ruler to measure in cm
+2. Choose Units: What unit for measuring a car's length? (meters)
+3. Reading Scales: Read measurements on scales
+4. Estimation: Estimate then measure objects

@@ -1,0 +1,27 @@
+Reception Maths - Cambridge Primary Curriculum
+TOPIC 7: 2D and 3D Shapes
+
+Theory: 2D shapes are flat with sides and corners. 3D shapes are solid with faces, edges, and vertices.
+
+Examples:
+2D Shapes:
+- Circle: round, 0 sides, 0 corners
+- Triangle: 3 sides, 3 corners
+- Square: 4 equal sides, 4 corners
+- Rectangle: 4 sides (2 long, 2 short), 4 corners
+- Pentagon: 5 sides, 5 corners
+- Hexagon: 6 sides, 6 corners
+
+3D Shapes:
+- Sphere: ball-shaped, rolls
+- Cube: 6 square faces
+- Cuboid: 6 rectangular faces (box)
+- Cylinder: 2 circular faces, rolls
+- Cone: 1 circular face, 1 vertex, rolls
+- Pyramid: triangular faces, pointed top
+
+Worksheets:
+1. Shape Properties: Count the sides and corners of each shape
+2. Shape Sort: Group shapes by number of sides
+3. 3D Shape Hunt: Find objects that are cubes, spheres, cylinders
+4. Shape Patterns: Continue the pattern (triangle, circle, triangle...)

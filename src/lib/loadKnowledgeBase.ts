@@ -94,101 +94,85 @@ export async function loadKnowledgeBase(
       }
     }
 
-    // Extract topics (TOPIC 1: Title, TOPIC 2: Title, etc.)
+    // Extract topic list from index file
     const topicPattern = /^TOPIC (\d+):\s*(.+)$/;
-    let currentTopic: Topic | null = null;
-    let currentSection = '';
-    let sectionContent: string[] = [];
+    const topicsStart = lines.findIndex(line => line.includes('Topics:'));
 
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i];
-      const topicMatch = line.match(topicPattern);
+    if (topicsStart !== -1) {
+      for (let i = topicsStart + 1; i < lines.length; i++) {
+        const line = lines[i];
+        const match = line.match(topicPattern);
 
-      if (topicMatch) {
-        // Save previous topic if exists
-        if (currentTopic) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
-            }
-          }
-          parsedContent.topics.push(currentTopic);
-        }
+        if (match) {
+          const topicNumber = parseInt(match[1]);
+          const topicTitle = match[2].trim();
+          const topicId = topicTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 
-        // Start new topic
-        const topicNumber = parseInt(topicMatch[1]);
-        const topicTitle = topicMatch[2].trim();
-        currentTopic = {
-          id: topicTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
-          number: topicNumber,
-          title: topicTitle,
-          fullContent: '',
-          theory: '',
-          examples: '',
-          worksheets: '',
-        };
-        currentSection = '';
-        sectionContent = [];
-      } else if (currentTopic) {
-        // Check for section headers
-        if (line.trim() === 'Theory:' || line.startsWith('Theory:')) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
+          // Read individual topic file
+          const topicFilename = `${className}_${subjectName}_topic${topicNumber}.txt`;
+          const topicFilePath = path.join(process.cwd(), 'knowledgebase', topicFilename);
+
+          let theory = '';
+          let examples = '';
+          let worksheets = '';
+
+          if (fs.existsSync(topicFilePath)) {
+            const topicContent = fs.readFileSync(topicFilePath, 'utf-8');
+            const topicLines = topicContent.split('\n');
+
+            // Parse topic content sections
+            let currentSection = '';
+            let sectionContent: string[] = [];
+
+            for (const topicLine of topicLines) {
+              if (topicLine.trim() === 'Theory:' || topicLine.startsWith('Theory:')) {
+                if (currentSection && sectionContent.length > 0) {
+                  if (currentSection === 'Theory') theory = sectionContent.join('\n');
+                  else if (currentSection === 'Examples') examples = sectionContent.join('\n');
+                  else if (currentSection === 'Worksheets') worksheets = sectionContent.join('\n');
+                }
+                currentSection = 'Theory';
+                sectionContent = [];
+              } else if (topicLine.trim() === 'Examples:' || topicLine.startsWith('Examples:') || topicLine.includes('Mental Strategies:') || topicLine.includes('Examples - ')) {
+                if (currentSection && sectionContent.length > 0) {
+                  if (currentSection === 'Theory') theory = sectionContent.join('\n');
+                  else if (currentSection === 'Examples') examples = sectionContent.join('\n');
+                  else if (currentSection === 'Worksheets') worksheets = sectionContent.join('\n');
+                }
+                currentSection = 'Examples';
+                sectionContent = [];
+              } else if (topicLine.trim() === 'Worksheets:' || topicLine.startsWith('Worksheets:')) {
+                if (currentSection && sectionContent.length > 0) {
+                  if (currentSection === 'Theory') theory = sectionContent.join('\n');
+                  else if (currentSection === 'Examples') examples = sectionContent.join('\n');
+                  else if (currentSection === 'Worksheets') worksheets = sectionContent.join('\n');
+                }
+                currentSection = 'Worksheets';
+                sectionContent = [];
+              } else if (currentSection && topicLine.trim()) {
+                sectionContent.push(topicLine);
+              }
+            }
+
+            // Save last section
+            if (currentSection && sectionContent.length > 0) {
+              if (currentSection === 'Theory') theory = sectionContent.join('\n');
+              else if (currentSection === 'Examples') examples = sectionContent.join('\n');
+              else if (currentSection === 'Worksheets') worksheets = sectionContent.join('\n');
             }
           }
-          currentSection = 'Theory';
-          sectionContent = [];
-        } else if (line.trim() === 'Examples:' || line.startsWith('Examples:') || line.includes('Mental Strategies:') || line.includes('Examples - ')) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
-            }
-          }
-          currentSection = 'Examples';
-          sectionContent = [];
-        } else if (line.trim() === 'Worksheets:' || line.startsWith('Worksheets:')) {
-          if (currentSection && sectionContent.length > 0) {
-            if (currentSection === 'Theory') {
-              currentTopic.theory = sectionContent.join('\n');
-            } else if (currentSection === 'Examples') {
-              currentTopic.examples = sectionContent.join('\n');
-            } else if (currentSection === 'Worksheets') {
-              currentTopic.worksheets = sectionContent.join('\n');
-            }
-          }
-          currentSection = 'Worksheets';
-          sectionContent = [];
-        } else if (currentSection) {
-          sectionContent.push(line);
+
+          parsedContent.topics.push({
+            id: topicId,
+            number: topicNumber,
+            title: topicTitle,
+            fullContent: '',
+            theory: theory.trim(),
+            examples: examples.trim(),
+            worksheets: worksheets.trim(),
+          });
         }
       }
-    }
-
-    // Save last topic
-    if (currentTopic) {
-      if (currentSection && sectionContent.length > 0) {
-        if (currentSection === 'Theory') {
-          currentTopic.theory = sectionContent.join('\n');
-        } else if (currentSection === 'Examples') {
-          currentTopic.examples = sectionContent.join('\n');
-        } else if (currentSection === 'Worksheets') {
-          currentTopic.worksheets = sectionContent.join('\n');
-        }
-      }
-      parsedContent.topics.push(currentTopic);
     }
 
     // Extract sample activities

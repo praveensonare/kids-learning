@@ -1,0 +1,20 @@
+Year 1 Maths - Cambridge Primary Curriculum
+TOPIC 1: Number and Place Value to 100
+
+Theory: Our number system is based on place value. Each digit has a value depending on its position. In the number 45, the 4 represents 4 tens (40) and the 5 represents 5 ones.
+
+Counting:
+- Count forwards and backwards to 100
+- Count in steps of 1, 2, 5, and 10
+- Identify one more and one less
+
+Place Value:
+- 23 = 2 tens and 3 ones = 20 + 3
+- 50 = 5 tens and 0 ones
+- 10 ones = 1 ten
+
+Worksheets:
+1. Place Value Chart: Write numbers in tens and ones columns
+2. Partition Numbers: 47 = ___ tens + ___ ones
+3. Number Lines: Fill in missing numbers 34, 35, ___, 37, ___
+4. Comparing: Use > < = to compare numbers (45 ___ 54)

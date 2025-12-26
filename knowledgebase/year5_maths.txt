@@ -1,12 +1,13 @@
 Year 5 Maths - Cambridge Primary Standards
 
-Learning Objectives: Read/write numbers to 1,000,000, four operations with larger numbers, fractions and decimals, percentages, area/perimeter formulas, volume
+Learning Objectives:
 
-Key Topics:
+
+Topics:
+
 TOPIC 1: Place Value to 1,000,000: Read, write, compare, order; round to nearest 10, 100, 1000, 10,000, 100,000; negative numbers; Roman numerals to 1000
 TOPIC 2: Four Operations: Add/subtract numbers with more than 4 digits; multiply/divide by 10, 100, 1000; multiply 4-digits by 1/2-digits; divide 4-digits by 1-digit; mental calculations; order of operations
 TOPIC 3: Fractions/Decimals/Percentages: Compare/order fractions; add/subtract fractions with same denominator; multiply fractions by whole numbers; decimals to 3 places; percentages as "out of 100"; convert between fractions, decimals, percentages
 TOPIC 4: Measurement: Convert between metric units; area of rectangles (l × w); perimeter; volume; 12/24-hour clock; timetables
 TOPIC 5: Geometry: Properties of rectangles, triangles, parallelograms; angles in triangles (180°), quadrilaterals (360°); measure angles with protractor; reflection and translation on coordinate grid (4 quadrants)
 TOPIC 6: Statistics: Line graphs, tables, timetables; interpret and solve problems
-Worksheets: Place value to millions, long multiplication/division, fraction operations, percentage problems, angle measurement, coordinate transformations

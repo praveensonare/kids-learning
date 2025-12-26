@@ -1,0 +1,35 @@
+Year 2 Maths - Cambridge Primary Curriculum
+TOPIC 8: Statistics and Data
+
+Theory: We collect, organize, and interpret data to answer questions.
+
+Collecting Data:
+- Tally marks: |||| (group of 5)
+- Surveys: asking questions
+- Observations: counting what we see
+
+Displaying Data:
+- Pictograms: pictures represent numbers
+- Block graphs: blocks show frequency
+- Tables: organize information in rows and columns
+
+Reading Graphs:
+- Title: What is the graph about?
+- Axes: What do they show?
+- Scale: How much does each symbol/block represent?
+- Most/least: Which has most/least?
+- Total: Add all amounts
+- Difference: Compare amounts
+
+Example: Favorite Fruits
+| Fruit | Tally | Number |
+|-------|-------|--------|
+| Apple | |||   | 3      |
+| Banana| ||||  | 5      |
+| Orange| ||    | 2      |
+
+Worksheets:
+1. Tally Chart: Record class data using tallies
+2. Pictogram: Create pictogram (1 symbol = 2 items)
+3. Block Graph: Make block graph from data
+4. Interpret: Answer questions about given graphs
