@@ -92,7 +92,7 @@ export default function SubjectPage() {
 
         {/* Lessons List */}
         {lessons.length > 0 ? (
-          <div className="grid gap-4 md:gap-6 max-w-4xl mx-auto">
+          <div className="grid gap-4 md:gap-5 max-w-5xl mx-auto">
             {lessons.map((lesson, index) => (
               <motion.div
                 key={lesson.id}
@@ -102,45 +102,51 @@ export default function SubjectPage() {
               >
                 <Link href={`/${classId}/${subjectId}/${lesson.id}`}>
                   <motion.div
-                    whileHover={{ scale: 1.02, x: 10 }}
-                    whileTap={{ scale: 0.98 }}
-                    className="bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all p-6 cursor-pointer"
+                    whileHover={{ scale: 1.01, x: 8 }}
+                    whileTap={{ scale: 0.99 }}
+                    className="bg-white rounded-2xl shadow-md hover:shadow-xl transition-all p-5 md:p-6 cursor-pointer border border-gray-100"
                   >
                     <div className="flex items-start gap-4">
                       {/* Lesson Number */}
-                      <div className={`${subjectData.color} rounded-xl p-4 flex-shrink-0`}>
-                        <span className="text-2xl md:text-3xl font-bold text-white">
+                      <div className={`${subjectData.color} rounded-xl p-3 md:p-4 flex-shrink-0 shadow-md`}>
+                        <span className="text-xl md:text-2xl font-bold text-white">
                           {index + 1}
                         </span>
                       </div>
 
                       {/* Lesson Info */}
                       <div className="flex-1 min-w-0">
-                        <h3 className="text-xl md:text-2xl font-bold text-gray-800 mb-2">
+                        <h3 className="text-lg md:text-xl font-bold text-gray-900 mb-2 leading-tight">
                           {lesson.title}
                         </h3>
-                        <p className="text-gray-600 mb-4 text-sm md:text-base">
+                        <p className="text-gray-600 mb-3 text-sm md:text-base leading-relaxed">
                           {lesson.description}
                         </p>
 
                         {/* Meta Info */}
-                        <div className="flex flex-wrap gap-3">
-                          <div className="flex items-center gap-2 bg-blue-50 px-3 py-1 rounded-lg">
+                        <div className="flex flex-wrap gap-2 md:gap-3">
+                          <div className="flex items-center gap-1.5 bg-blue-50 px-3 py-1.5 rounded-lg border border-blue-100">
                             <Clock className="w-4 h-4 text-blue-600" />
-                            <span className="text-sm text-blue-700 font-medium">
+                            <span className="text-xs md:text-sm text-blue-700 font-semibold">
                               {lesson.duration}
                             </span>
                           </div>
                           <div
-                            className={`flex items-center gap-2 ${difficultyColors[lesson.difficulty]} bg-opacity-10 px-3 py-1 rounded-lg`}
+                            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg border ${
+                              lesson.difficulty === 'easy'
+                                ? 'bg-green-50 border-green-200'
+                                : lesson.difficulty === 'medium'
+                                ? 'bg-yellow-50 border-yellow-200'
+                                : 'bg-red-50 border-red-200'
+                            }`}
                           >
                             <TrendingUp
                               className={`w-4 h-4 ${difficultyColors[lesson.difficulty].replace('bg-', 'text-')}`}
                             />
                             <span
-                              className={`text-sm font-medium ${difficultyColors[lesson.difficulty].replace('bg-', 'text-')}`}
+                              className={`text-xs md:text-sm font-semibold ${difficultyColors[lesson.difficulty].replace('bg-', 'text-')}`}
                             >
-                              {difficultyIcons[lesson.difficulty]} {lesson.difficulty}
+                              {difficultyIcons[lesson.difficulty]} {lesson.difficulty.charAt(0).toUpperCase() + lesson.difficulty.slice(1)}
                             </span>
                           </div>
                         </div>
@@ -148,24 +154,24 @@ export default function SubjectPage() {
 
                       {/* Arrow */}
                       <motion.div
-                        className="flex-shrink-0 hidden md:block"
+                        className="flex-shrink-0 hidden md:flex items-center"
                         animate={{ x: [0, 5, 0] }}
                         transition={{
                           duration: 1.5,
                           repeat: Infinity,
                         }}
                       >
-                        <div className={`${subjectData.color} bg-opacity-20 p-2 rounded-full`}>
+                        <div className={`${subjectData.color} p-2.5 rounded-full shadow-sm`}>
                           <svg
-                            className={`w-6 h-6 ${subjectData.color.replace('bg-', 'text-')}`}
+                            className="w-5 h-5 text-white"
                             fill="none"
                             stroke="currentColor"
                             viewBox="0 0 24 24"
+                            strokeWidth={3}
                           >
                             <path
                               strokeLinecap="round"
                               strokeLinejoin="round"
-                              strokeWidth={2}
                               d="M9 5l7 7-7 7"
                             />
                           </svg>

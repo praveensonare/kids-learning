@@ -89,7 +89,7 @@ export default function HomePage() {
         </motion.div>
 
         {/* Class Cards Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 md:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 md:gap-6 max-w-7xl mx-auto">
           {classes.map((classItem, index) => (
             <motion.div
               key={classItem.id}
@@ -101,12 +101,16 @@ export default function HomePage() {
                 <motion.div
                   whileHover={{ y: -8, scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
-                  className={`${classItem.color} rounded-3xl p-6 shadow-xl cursor-pointer h-full transition-shadow hover:shadow-2xl`}
+                  className={`${classItem.color} rounded-2xl p-6 shadow-lg cursor-pointer h-full transition-all hover:shadow-2xl relative overflow-hidden group`}
+                  style={{ minHeight: '280px' }}
                 >
-                  <div className="flex flex-col items-center text-center">
+                  {/* Gradient overlay for better text contrast */}
+                  <div className="absolute inset-0 bg-gradient-to-br from-black/10 to-black/30 group-hover:from-black/5 group-hover:to-black/20 transition-all duration-300"></div>
+
+                  <div className="relative z-10 flex flex-col items-center text-center h-full justify-between">
                     {/* Icon */}
                     <motion.div
-                      className="text-6xl md:text-7xl mb-4"
+                      className="text-5xl md:text-6xl mb-3 drop-shadow-lg"
                       animate={{ rotate: [0, 10, -10, 0] }}
                       transition={{
                         duration: 2,
@@ -117,43 +121,45 @@ export default function HomePage() {
                       {classItem.icon}
                     </motion.div>
 
-                    {/* Title */}
-                    <h3 className="text-2xl md:text-3xl font-bold text-white mb-2">
-                      {classItem.name}
-                    </h3>
+                    <div className="flex-1 flex flex-col justify-center">
+                      {/* Title */}
+                      <h3 className="text-2xl md:text-3xl font-bold text-white mb-2 text-shadow-lg">
+                        {classItem.name}
+                      </h3>
 
-                    {/* Level */}
-                    <div className="bg-white/20 backdrop-blur-sm px-4 py-1 rounded-full mb-3">
-                      <p className="text-sm font-semibold text-white">
-                        {classItem.level}
+                      {/* Level */}
+                      <div className="inline-block bg-white/30 backdrop-blur-md px-4 py-1.5 rounded-full mb-3 border border-white/40">
+                        <p className="text-sm font-bold text-white text-shadow">
+                          {classItem.level}
+                        </p>
+                      </div>
+
+                      {/* Description */}
+                      <p className="text-white text-sm md:text-base font-medium text-shadow leading-snug">
+                        {classItem.description}
                       </p>
                     </div>
 
-                    {/* Description */}
-                    <p className="text-white/90 text-sm md:text-base">
-                      {classItem.description}
-                    </p>
-
                     {/* Arrow Icon */}
                     <motion.div
-                      className="mt-4"
+                      className="mt-3"
                       animate={{ x: [0, 5, 0] }}
                       transition={{
                         duration: 1.5,
                         repeat: Infinity,
                       }}
                     >
-                      <div className="bg-white/30 backdrop-blur-sm p-2 rounded-full">
+                      <div className="bg-white/40 backdrop-blur-sm p-2.5 rounded-full border border-white/50">
                         <svg
-                          className="w-6 h-6 text-white"
+                          className="w-5 h-5 text-white drop-shadow"
                           fill="none"
                           stroke="currentColor"
                           viewBox="0 0 24 24"
+                          strokeWidth={3}
                         >
                           <path
                             strokeLinecap="round"
                             strokeLinejoin="round"
-                            strokeWidth={2}
                             d="M9 5l7 7-7 7"
                           />
                         </svg>
