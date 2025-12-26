@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Reading Comprehension
-description: Inference, Prediction, Retrieval, Vocabulary development, Summarizing, Main ideas, Text types
+description: Inference, Prediction, Retrieval, Vocabulary
 
 chapter no: 2
 name: Narrative Writing
-description: Story writing, Character development, Settings, Plot, Past tense, Descriptive language, Story structure
+description: Stories, Character, Setting, Plot
 
 chapter no: 3
 name: Punctuation and Grammar
-description: Commas in lists, Apostrophes for contraction, Question marks, Exclamation marks, Statements, Commands, Expanded noun phrases
+description: Commas, Apostrophes, Questions, Statements
 
 chapter no: 4
 name: Spelling Patterns
-description: Spelling rules, Homophones, Contractions, Common exception words, Suffixes, Prefixes, Spell patterns
+description: Spelling rules, Homophones, Contractions, Common exception words
 

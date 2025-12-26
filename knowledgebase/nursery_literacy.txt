@@ -13,17 +13,17 @@ Chapters:
 
 chapter no: 1
 name: Alphabet Adventure
-description: Letter recognition, Uppercase letters, Lowercase letters, Letter names, Letter sounds, Alphabet song, Letter formation basics
+description: Letters, Uppercase, Lowercase, Recognition
 
 chapter no: 2
 name: Sound Explorers
-description: Phonemic awareness, Initial sounds, Rhyming words, Syllable counting, Sound discrimination, Oral blending, Sound games
+description: Phonics, Initial sounds, Rhyming, Syllables
 
 chapter no: 3
 name: Story Time Magic
-description: Listening comprehension, Story sequencing, Character identification, Picture reading, Story retelling, Predicting events, Story enjoyment
+description: Comprehension, Characters, Sequence, Prediction
 
 chapter no: 4
 name: Writing Readiness
-description: Pre-writing skills, Fine motor development, Pencil grip, Pattern making, Shape drawing, Mark making, Letter tracing
+description: Pre-writing, Fine motor, Patterns, Shapes
 

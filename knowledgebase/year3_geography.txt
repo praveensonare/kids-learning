@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Maps and Directions
-description: Compass directions, North South East West, Map symbols, Map keys, Grid references, Map skills
+description: Compass, North, South, East
 
 chapter no: 2
 name: Rivers and Mountains
-description: Rivers, Mountains, Valleys, River source, River mouth, Water cycle, Landforms
+description: Rivers, Mountains, Valleys, Source
 
 chapter no: 3
 name: Climate Zones
-description: Equator, Tropics, Poles, Climate, Temperature, Rainfall, Climate zones, Weather patterns
+description: Equator, Tropics, Poles, Climate
 
 chapter no: 4
 name: Settlements
-description: Villages, Towns, Cities, Land use, Human geography, Settlement types, Urban and rural
+description: Village, Town, City, Land use
 

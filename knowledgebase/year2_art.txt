@@ -10,17 +10,17 @@ Chapters:
 
 chapter no: 1
 name: Drawing and Mark Making
-description: Sketching, Shading, Texture, Tone, Detail, Observational skills, Drawing techniques
+description: Sketching, Shading, Texture, Tone
 
 chapter no: 2
 name: Color Theory
-description: Color wheel, Warm colors, Cool colors, Tints, Shades, Color harmony, Color mood
+description: Color wheel, Warm colors, Cool colors, Tints
 
 chapter no: 3
 name: Print Making
-description: Printing techniques, Patterns, Repeated patterns, Stamps, Textures, Block printing, Press printing
+description: Printing, Patterns, Repeated patterns, Stamps
 
 chapter no: 4
 name: Famous Artists
-description: Monet, Van Gogh, Art movements, Impressionism, Artist styles, Art appreciation, Artistic influence
+description: Monet, Van Gogh, Art movements, Impressionism
 

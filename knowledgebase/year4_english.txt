@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Advanced Reading
-description: Text analysis, Evaluating texts, Comparing texts, Themes, Language features, Reading strategies
+description: Analyzing, Evaluating, Comparing texts, Themes
 
 chapter no: 2
 name: Creative Writing
-description: Descriptive writing, Settings, Characters, Suspense, Poetry, Narrative techniques, Imagery
+description: Descriptive writing, Settings, Characters, Suspense
 
 chapter no: 3
 name: Advanced Grammar
-description: Fronted adverbials, Pronouns, Determiners, Clauses, Expanded noun phrases, Sentence structure
+description: Fronted adverbials, Pronouns, Determiners, Clauses
 
 chapter no: 4
 name: Punctuation Mastery
-description: Inverted commas, Apostrophes for possession, Commas in lists, Direct speech, Punctuation accuracy
+description: Inverted commas, Apostrophes, Commas in lists, Direct speech
 

@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Place Value to 100
-description: Tens and ones, Comparing numbers, Ordering numbers, Number patterns, Partitioning, Rounding, Counting in steps
+description: Tens, Ones, Comparing, Ordering
 
 chapter no: 2
 name: Four Operations
-description: Addition, Subtraction, Multiplication, Division, Times tables (2, 5, 10), Word problems, Inverse operations
+description: Addition, Subtraction, Multiplication, Division
 
 chapter no: 3
 name: Fractions
-description: Halves, Quarters, Thirds, Equal parts, Fractions of shapes, Fractions of amounts, Comparing fractions
+description: Halves, Quarters, Thirds, Equal parts
 
 chapter no: 4
 name: Measurement
-description: Length (cm, m), Mass (g, kg), Temperature (°C), Capacity (ml, l), Time (hours, minutes), Money (pounds, pence)
+description: Length, Mass, Temperature, Capacity
 

@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Number and Place Value
-description: Ten million, Negative numbers, Rounding, Estimation, Complex calculations
+description: Ten million, Negative numbers, Rounding, Estimation
 
 chapter no: 2
 name: Calculation Mastery
-description: Four operations, Order of operations, Mental strategies, Problem solving, Written methods
+description: Four operations, Order of operations, Mental strategies, Problem solving
 
 chapter no: 3
 name: FDP and Ratio
-description: Fractions decimals percentages, Ratio, Proportion, Algebra introduction, Relationships
+description: Fractions, Decimals, Percentages, Ratio
 
 chapter no: 4
 name: Geometry and Statistics
-description: Circles, Area, Volume, Mean average, Graphs, Pie charts, Data handling
+description: Circles, Area, Volume, Mean
 

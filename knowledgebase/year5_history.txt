@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Ancient Greek Civilization
-description: Athens, Sparta, City-states, Greek society, Daily life, Ancient Greece
+description: Athens, Sparta, City-states, Greek society
 
 chapter no: 2
 name: Greek Democracy
-description: Democracy, Government, Citizenship, Voting, Assembly, Political systems
+description: Democracy, Government, Citizenship, Voting
 
 chapter no: 3
 name: Greek Culture
-description: Olympics, Theater, Philosophy, Architecture, Art, Greek achievements
+description: Olympics, Theater, Philosophy, Architecture
 
 chapter no: 4
 name: Greek Legacy
-description: Influence on modern world, Alphabet, Mathematics, Science, Cultural legacy
+description: Influence, Modern world, Alphabet, Mathematics
 

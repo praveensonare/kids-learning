@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Reading for Meaning
-description: Comprehension skills, Inference, Author's intent, Themes, Literary language, Text analysis, Reading fluency
+description: Comprehension, Inference, Authors intent, Themes
 
 chapter no: 2
 name: Writing Stories
-description: Narrative structure, Paragraphs, Dialogue, Description, Character development, Plot development, Story openings
+description: Narrative structure, Paragraphs, Dialogue, Description
 
 chapter no: 3
 name: Grammar and Punctuation
-description: Nouns, Verbs, Adjectives, Adverbs, Prepositions, Conjunctions, Sentence types, Punctuation rules
+description: Nouns, Verbs, Adjectives, Adverbs
 
 chapter no: 4
 name: Non-Fiction Writing
-description: Information texts, Instructions, Explanations, Reports, Text organization, Headings, Subheadings
+description: Information texts, Instructions, Explanations, Reports
 

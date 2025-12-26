@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Roman Empire
-description: Julius Caesar, Roman army, Roman roads, Roman baths, Roman villas, Hadrian's Wall
+description: Julius Caesar, Roman army, Roads, Baths
 
 chapter no: 2
 name: Anglo-Saxons
-description: Saxon settlements, Anglo-Saxon kingdoms, Sutton Hoo, Anglo-Saxon culture, Daily life
+description: Saxons, Settlements, Kingdoms, Sutton Hoo
 
 chapter no: 3
 name: Vikings
-description: Longships, Viking raids, Danelaw, Norse gods, Viking life, Viking influence
+description: Longships, Raids, Danelaw, Norse gods
 
 chapter no: 4
 name: Historical Impact
-description: Legacy, Influence, Comparing periods, Change and continuity, Historical significance
+description: Legacy, Influence, Comparing periods, Change and continuity
 

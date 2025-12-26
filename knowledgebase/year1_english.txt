@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Advanced Phonics
-description: Phase 5 phonics, Alternative spellings, Split digraphs, Trigraphs, Long vowel sounds, Consonant blends, Decoding strategies
+description: Phase 5 phonics, Alternative spellings, Split digraphs, Trigraphs
 
 chapter no: 2
 name: Reading Skills
-description: Reading fluency, Expression, Comprehension strategies, Prediction, Inference, Story elements, Reading for meaning
+description: Fluency, Expression, Comprehension, Prediction
 
 chapter no: 3
 name: Sentence Construction
-description: Sentence structure, Capital letters, Full stops, Question marks, Exclamation marks, Conjunctions (and), Simple sentences
+description: Sentences, Capital letters, Full stops, Question marks
 
 chapter no: 4
 name: Word Building
-description: Prefixes, Suffixes -ed -ing -s, Plurals, Past tense, Present tense, Word families, Compound words
+description: Prefixes, Suffixes, -ed, -ing
 

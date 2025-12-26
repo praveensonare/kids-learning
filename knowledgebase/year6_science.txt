@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Classification
-description: Micro-organisms, Carl Linnaeus, Classification systems, Kingdoms, Classification keys
+description: Micro-organisms, Carl Linnaeus, Kingdoms, Classification keys
 
 chapter no: 2
 name: Circulation and Health
-description: Heart, Blood vessels, Circulatory system, Healthy lifestyle, Diet, Exercise
+description: Heart, Blood vessels, Circulatory system, Healthy lifestyle
 
 chapter no: 3
 name: Evolution and Inheritance
-description: Adaptation, Evolution, Inheritance, Fossils, Charles Darwin, Natural selection
+description: Adaptation, Evolution, Inheritance, Fossils
 
 chapter no: 4
 name: Light and Electricity
-description: Light travels, Shadows, Reflection, Circuits, Circuit symbols, Voltage
+description: Light travels, Shadows, Reflection, Circuits
 

@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Rocks and Soils
-description: Rock types, Igneous, Sedimentary, Metamorphic, Fossils, Soil formation, Permeability, Rock properties
+description: Igneous, Sedimentary, Metamorphic, Fossils
 
 chapter no: 2
 name: Animals and Humans
-description: Nutrition, Skeleton, Muscles, Bones, Joints, Balanced diet, Food groups, Movement
+description: Nutrition, Skeleton, Muscles, Bones
 
 chapter no: 3
 name: Forces and Magnets
-description: Push and pull, Friction, Magnetic materials, Poles, Attract, Repel, Magnetic force
+description: Push, Pull, Friction, Magnetic
 
 chapter no: 4
 name: Light and Shadow
-description: Light sources, Reflection, Mirrors, Shadows, Shadow formation, Sun safety, Light and dark
+description: Light sources, Reflection, Mirrors, Shadows
 

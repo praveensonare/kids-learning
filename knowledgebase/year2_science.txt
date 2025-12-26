@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Living Things and Habitats
-description: Habitats, Microhabitats, Food chains, Living things, Dead things, Never alive, Habitat conditions
+description: Habitats, Microhabitats, Food chains, Living
 
 chapter no: 2
 name: Plants
-description: Seeds, Bulbs, Plant growth, Water requirements, Light requirements, Temperature, Germination
+description: Seeds, Bulbs, Growth, Water
 
 chapter no: 3
 name: Uses of Materials
-description: Material suitability, Material properties, Changing shapes, Squashing, Bending, Twisting, Stretching
+description: Suitability, Properties, Changing shape, Squashing
 
 chapter no: 4
 name: Healthy Living
-description: Exercise importance, Nutrition, Hygiene, Growth, Human needs, Healthy choices, Food groups
+description: Exercise, Nutrition, Hygiene, Growth
 

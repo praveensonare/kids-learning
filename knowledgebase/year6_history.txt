@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Victorian Era
-description: Queen Victoria, Industrial Revolution, Railways, Factories, Social reform, Victorian life
+description: Queen Victoria, Industrial Revolution, Railways, Factories
 
 chapter no: 2
 name: British Empire
-description: Empire, Colonies, Trade, Exploration, Imperial legacy, Global influence
+description: Empire, Colonies, Trade, Exploration
 
 chapter no: 3
 name: World Wars
-description: WW1, WW2, Trenches, The Blitz, Evacuation, Home front, War impact
+description: WW1, WW2, Trenches, Blitz
 
 chapter no: 4
 name: Modern Britain
-description: Post-war Britain, Immigration, Social change, Technology, 20th century development
+description: Post-war, Immigration, Social change, Technology
 

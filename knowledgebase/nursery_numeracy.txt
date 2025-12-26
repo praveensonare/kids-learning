@@ -13,17 +13,17 @@ Chapters:
 
 chapter no: 1
 name: Counting Adventures
-description: Counting to 10, Number recognition, One-to-one correspondence, Counting objects, Number sequence, Counting songs, Number order
+description: Counting, Numbers 1-10, One-to-one, Counting objects
 
 chapter no: 2
 name: Number Recognition
-description: Numeral identification, Number formation, Writing numbers 0-10, Number names, Number matching, Number sorting, Number games
+description: Numeral recognition, Number formation, Writing numbers, Number names
 
 chapter no: 3
 name: Shape Explorers
-description: Circle, Square, Triangle, Rectangle, 2D shapes, 3D shapes, Shape properties, Shape sorting, Shape patterns
+description: 2D shapes, 3D shapes, Circle, Square
 
 chapter no: 4
 name: Patterns and Positions
-description: Pattern creation, Pattern continuation, Positional language, Above and below, Inside and outside, Next to, Spatial awareness
+description: Patterns, Sequences, Positional language, Above
 

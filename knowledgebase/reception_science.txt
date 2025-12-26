@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Living Things
-description: Animals, Plants, Life cycles, Growth, Baby animals, Plant parts, Animal homes, Living vs non-living
+description: Animals, Plants, Growth, Life cycle
 
 chapter no: 2
 name: Material Detectives
-description: Wood, Plastic, Metal, Fabric, Glass, Material properties, Waterproof, Absorbent, Material uses
+description: Materials, Wood, Plastic, Metal
 
 chapter no: 3
 name: Seasons and Weather
-description: Spring, Summer, Autumn, Winter, Seasonal changes, Weather patterns, Seasonal activities, Seasonal clothing
+description: Spring, Summer, Autumn, Winter
 
 chapter no: 4
 name: Push and Pull
-description: Forces, Pushing, Pulling, Movement, Speed, Direction, Stopping, Force in action
+description: Forces, Push, Pull, Movement
 

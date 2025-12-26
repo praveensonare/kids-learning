@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: My Five Senses
-description: Sight, Hearing, Touch, Taste, Smell, Sense exploration, Observation skills, Describing textures
+description: Sight, Hearing, Touch, Taste
 
 chapter no: 2
 name: Plants and Animals
-description: Living things, Animals, Plants, Growth, Basic needs, Habitats, Pet care, Wildlife observation
+description: Living things, Plants, Animals, Growth
 
 chapter no: 3
 name: Weather Watch
-description: Weather types, Sunny, Rainy, Windy, Cloudy, Temperature, Seasonal changes, Weather observation
+description: Weather, Seasons, Sun, Rain
 
 chapter no: 4
 name: Materials Around Us
-description: Material properties, Hard and soft, Rough and smooth, Wet and dry, Material uses, Sorting materials, Exploring textures
+description: Materials, Properties, Hard, Soft
 

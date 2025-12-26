@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Europe and Beyond
-description: Continents, Countries, Capital cities, European Union, Flags, European geography
+description: Continents, Countries, Capital cities, European Union
 
 chapter no: 2
 name: Mountains and Volcanoes
-description: Volcanoes, Earthquakes, Tectonic plates, Ring of Fire, Mountain ranges, Volcanic activity
+description: Volcanoes, Earthquakes, Tectonic plates, Ring of Fire
 
 chapter no: 3
 name: Water Cycle
-description: Evaporation, Condensation, Precipitation, Collection, Rivers, Water movement
+description: Evaporation, Condensation, Precipitation, Collection
 
 chapter no: 4
 name: Trade and Resources
-description: Natural resources, Trade, Import, Export, Fair trade, Economic geography
+description: Natural resources, Trade, Import, Export
 

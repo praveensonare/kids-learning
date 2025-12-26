@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Literary Analysis
-description: Metaphor, Simile, Personification, Analyzing language, Author's purpose, Literary devices
+description: Metaphor, Simile, Personification, Analyzing language
 
 chapter no: 2
 name: Persuasive Writing
-description: Persuasion techniques, Arguments, Evidence, Rhetorical questions, Balanced arguments, Persuasive devices
+description: Persuasion, Argument, Evidence, Rhetorical questions
 
 chapter no: 3
 name: Complex Grammar
-description: Relative clauses, Modal verbs, Passive voice, Subjunctive form, Cohesion, Complex sentences
+description: Relative clauses, Modal verbs, Passive voice, Subjunctive
 
 chapter no: 4
 name: Poetry and Performance
-description: Poetry forms, Rhythm, Meter, Performance techniques, Interpretation, Poetic devices
+description: Poetry forms, Rhythm, Meter, Performance
 

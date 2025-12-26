@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Place Value
-description: Numbers to 100, Tens and ones, Place value, Comparing numbers, Ordering numbers, Number patterns, Number line to 100
+description: Tens, Ones, Numbers to 100, Comparing
 
 chapter no: 2
 name: Addition and Subtraction
-description: Adding within 20, Subtracting within 20, Number bonds to 20, Mental strategies, Word problems, Missing numbers
+description: Adding, Subtracting, Within 20, Number bonds
 
 chapter no: 3
-name: Multiplication Introduction
-description: Equal groups, Arrays, Counting in 2s, Counting in 5s, Counting in 10s, Doubling, Halving
+name: Multiplication Intro
+description: Groups, Arrays, Doubling, Halving
 
 chapter no: 4
 name: Fractions and Measurement
-description: Half, Quarter, Length, Height, Weight, Capacity, Time (o'clock and half past), Money
+description: Half, Quarter, Length, Weight
 

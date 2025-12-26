@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Americas
-description: North America, South America, Countries, Physical features, Cities, American geography
+description: North America, South America, Countries, Physical features
 
 chapter no: 2
 name: Biomes and Climate
-description: Rainforest, Desert, Tundra, Grassland, Climate zones, Ecosystems
+description: Rainforest, Desert, Tundra, Grassland
 
 chapter no: 3
 name: Rivers
-description: River features, Erosion, Deposition, Flood plains, Deltas, Meanders
+description: River features, Erosion, Deposition, Flood plains
 
 chapter no: 4
 name: Climate Change
-description: Global warming, Greenhouse gases, Sustainability, Renewable energy, Environmental impact
+description: Global warming, Greenhouse gases, Sustainability, Renewable energy
 

@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Critical Reading
-description: Evaluation, Comparing texts, Implicit meaning, Bias, Perspective, Critical analysis
+description: Evaluation, Comparing texts, Implicit meaning, Bias
 
 chapter no: 2
 name: Advanced Writing
-description: Formal writing, Informal writing, Voice, Audience, Purpose, Writing styles
+description: Formal writing, Informal writing, Voice, Audience
 
 chapter no: 3
 name: Grammar Mastery
-description: Subjunctive, Passive voice, Perfect tense, Colons, Semicolons, Dashes, Advanced grammar
+description: Subjunctive, Passive, Perfect tense, Colons
 
 chapter no: 4
 name: SATs Preparation
-description: Exam techniques, Comprehension strategies, Spelling rules, Revision strategies, Test practice
+description: Exam techniques, Comprehension strategies, Spelling rules, Revision
 

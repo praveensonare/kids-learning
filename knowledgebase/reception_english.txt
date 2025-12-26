@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Phonics Foundations
-description: Letter sounds, Blending, Segmenting, CVC words, Consonant digraphs, Vowel digraphs, Initial sounds, Final sounds
+description: Phonics, Letter sounds, Blending, Segmenting
 
 chapter no: 2
 name: Reading Adventures
-description: Decoding words, Sight words, Reading fluency, High-frequency words, Simple sentences, Picture clues, Reading comprehension
+description: Reading, Decoding, Sight words, Fluency
 
 chapter no: 3
 name: Writing Journey
-description: Sentence writing, Capital letters, Full stops, Finger spaces, Letter formation, Handwriting, Simple punctuation
+description: Sentence writing, Capital letters, Full stops, Finger spaces
 
 chapter no: 4
 name: Story Comprehension
-description: Understanding stories, Character recognition, Story settings, Beginning middle end, Predictions, Retelling stories, Story sequencing
+description: Understanding, Prediction, Inference, Retelling
 

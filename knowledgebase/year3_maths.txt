@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Place Value
-description: Hundreds tens ones, Numbers to 1000, Comparing numbers, Rounding, Place value partitioning, Ordering numbers
+description: Hundreds, Tens, Ones, Numbers to 1000
 
 chapter no: 2
 name: Multiplication and Division
-description: Times tables (3, 4, 8), Mental strategies, Written methods, Division, Factor pairs, Multiplication facts
+description: Times tables, 3x, 4x, 8x tables
 
 chapter no: 3
 name: Fractions
-description: Unit fractions, Non-unit fractions, Equivalent fractions, Comparing fractions, Fractions on number line, Adding fractions
+description: Unit fractions, Non-unit fractions, Equivalent fractions, Comparing fractions
 
 chapter no: 4
 name: Geometry and Measurement
-description: Angles, Right angles, Perpendicular, Parallel, Perimeter, 2D shapes, 3D shapes
+description: Angles, Right angles, Perpendicular, Parallel
 

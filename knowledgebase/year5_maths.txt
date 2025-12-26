@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Large Numbers
-description: Place value to million, Negative numbers, Rounding, Roman numerals, Number operations
+description: Place value, Million, Negative numbers, Rounding
 
 chapter no: 2
 name: Four Operations
-description: Written methods, Long multiplication, Long division, Order of operations, Mental calculations
+description: Written methods, Long multiplication, Long division, Order of operations
 
 chapter no: 3
 name: Fractions and Percentages
-description: Equivalent fractions, Improper fractions, Decimals, Percentages, Converting, Fraction calculations
+description: Equivalent fractions, Improper fractions, Decimals, Percentages
 
 chapter no: 4
 name: Shape and Measure
-description: Area, Perimeter, Volume, Angles, Reflection, Translation, Shape properties
+description: Area, Perimeter, Volume, Angles
 

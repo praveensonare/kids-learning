@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Global Regions
-description: Asia, Africa, Latitude, Longitude, Time zones, Hemispheres
+description: Asia, Africa, Latitude, Longitude
 
 chapter no: 2
 name: Economic Geography
-description: Trade, Industry, Agriculture, Tourism, Economic development
+description: Trade, Industry, Agriculture, Tourism
 
 chapter no: 3
 name: Environmental Issues
-description: Deforestation, Pollution, Conservation, Endangered species, Sustainability
+description: Deforestation, Pollution, Conservation, Endangered species
 
 chapter no: 4
 name: Migration and Settlement
-description: Population, Migration, Urban areas, Rural areas, Push factors, Pull factors
+description: Population, Migration, Urban, Rural
 

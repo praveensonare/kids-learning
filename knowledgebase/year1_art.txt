@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Drawing Skills
-description: Line drawing, Shape drawing, Patterns, Observational drawing, Pencil control, Crayon techniques, Mark making
+description: Lines, Shapes, Patterns, Observation
 
 chapter no: 2
 name: Painting Techniques
-description: Brushwork, Primary colors, Secondary colors, Color mixing, Painting textures, Wash techniques, Paint control
+description: Brushwork, Color mixing, Primary colors, Secondary colors
 
 chapter no: 3
 name: Sculpture and 3D
-description: Modeling, Clay work, Construction, 3D forms, Joining techniques, Sculpting tools, Creative building
+description: Modeling, Clay, Construction, 3D forms
 
 chapter no: 4
 name: Artists and Inspiration
-description: Famous artists, Art styles, Observing artwork, Responding to art, Art appreciation, Artistic techniques, Creative expression
+description: Famous artists, Art styles, Observing art, Responding to art
 

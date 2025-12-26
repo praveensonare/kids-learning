@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Living Things
-description: Classification, Vertebrates, Invertebrates, Habitats, Food chains, Environments, Classification keys
+description: Classification, Vertebrates, Invertebrates, Habitats
 
 chapter no: 2
 name: Digestion
-description: Digestive system, Teeth, Food chains, Producers, Consumers, Decomposers, Nutrition
+description: Digestive system, Teeth, Food chains, Producers
 
 chapter no: 3
 name: States of Matter
-description: Solids liquids gases, Changes of state, Evaporation, Condensation, Water cycle, Particles
+description: Solids, Liquids, Gases, Changes of state
 
 chapter no: 4
 name: Electricity and Sound
-description: Circuits, Conductors, Insulators, Vibrations, Pitch, Volume, Sound waves
+description: Circuits, Conductors, Insulators, Vibrations
 

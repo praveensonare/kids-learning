@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Stone Age Britain
-description: Hunter gatherers, Stone tools, Skara Brae, Prehistoric life, Cave art, Early humans
+description: Hunter gatherers, Stone tools, Skara Brae, Prehistoric
 
 chapter no: 2
 name: Bronze and Iron Ages
-description: Bronze Age, Iron Age, Hillforts, Farming development, Technology advancement, Celtic culture
+description: Bronze, Iron, Hillforts, Farming
 
 chapter no: 3
 name: Ancient Egypt
-description: Pharaohs, Pyramids, Mummies, River Nile, Hieroglyphics, Egyptian civilization, Daily life
+description: Pharaohs, Pyramids, Mummies, Nile
 
 chapter no: 4
 name: Using Historical Evidence
-description: Primary sources, Artifacts, Archaeology, Timelines, Chronology, Historical interpretation
+description: Sources, Artifacts, Archaeology, Timelines
 

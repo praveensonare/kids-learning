@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Materials and Properties
-description: Dissolving, Separating mixtures, Reversible changes, Irreversible changes, Material properties
+description: Dissolving, Separating mixtures, Reversible changes, Irreversible changes
 
 chapter no: 2
 name: Earth and Space
-description: Solar system, Planets, Earth rotation, Day and night, Seasons, Moon phases
+description: Solar system, Planets, Earth rotation, Day and night
 
 chapter no: 3
 name: Forces
-description: Gravity, Air resistance, Water resistance, Friction, Mechanisms, Levers, Pulleys
+description: Gravity, Air resistance, Water resistance, Friction
 
 chapter no: 4
 name: Life Cycles
-description: Reproduction, Mammal life cycles, Amphibian life cycles, Insect life cycles, Bird life cycles, Plant life cycles
+description: Reproduction, Mammals, Amphibians, Insects
 

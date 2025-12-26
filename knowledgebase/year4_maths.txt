@@ -11,17 +11,17 @@ Chapters:
 
 chapter no: 1
 name: Place Value to 10000
-description: Thousands hundreds tens ones, Rounding, Roman numerals, Place value understanding, Number comparison
+description: Thousands, Hundreds, Tens, Ones
 
 chapter no: 2
 name: Times Tables and Division
-description: Times tables (6, 7, 9, 11, 12), Factor pairs, Division facts, Written methods, Multiplication strategies
+description: 6x, 7x, 9x, 11x
 
 chapter no: 3
 name: Fractions and Decimals
-description: Equivalent fractions, Decimals, Tenths, Hundredths, Fraction problems, Decimal notation
+description: Equivalent fractions, Decimals, Tenths, Hundredths
 
 chapter no: 4
 name: Area and Perimeter
-description: Area calculation, Perimeter calculation, Rectangles, Rectilinear shapes, Coordinates, Grid positions
+description: Area, Perimeter, Rectangles, Rectilinear shapes
 
