@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Living Things and Habitats, habitats, microhabitats, food chains, living, dead, never alive
-2, Plants, seeds, bulbs, growth, water, light, temperature, germination
-3, Uses of Materials, suitability, properties, changing shape, squashing, bending, twisting
-4, Healthy Living, exercise, nutrition, hygiene, growth, basic needs
+chapter no: 1
+name: Living Things and Habitats
+description: Habitats, Microhabitats, Food chains, Living things, Dead things, Never alive, Habitat conditions
+
+chapter no: 2
+name: Plants
+description: Seeds, Bulbs, Plant growth, Water requirements, Light requirements, Temperature, Germination
+
+chapter no: 3
+name: Uses of Materials
+description: Material suitability, Material properties, Changing shapes, Squashing, Bending, Twisting, Stretching
+
+chapter no: 4
+name: Healthy Living
+description: Exercise importance, Nutrition, Hygiene, Growth, Human needs, Healthy choices, Food groups
+

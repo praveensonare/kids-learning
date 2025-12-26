@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Place Value to 100, tens, ones, comparing, ordering, number patterns, partitioning
-2, Four Operations, addition, subtraction, multiplication, division, word problems
-3, Fractions, halves, quarters, thirds, equal parts, fraction of amount
-4, Measurement, length, mass, temperature, capacity, time, money
+chapter no: 1
+name: Place Value to 100
+description: Tens and ones, Comparing numbers, Ordering numbers, Number patterns, Partitioning, Rounding, Counting in steps
+
+chapter no: 2
+name: Four Operations
+description: Addition, Subtraction, Multiplication, Division, Times tables (2, 5, 10), Word problems, Inverse operations
+
+chapter no: 3
+name: Fractions
+description: Halves, Quarters, Thirds, Equal parts, Fractions of shapes, Fractions of amounts, Comparing fractions
+
+chapter no: 4
+name: Measurement
+description: Length (cm, m), Mass (g, kg), Temperature (°C), Capacity (ml, l), Time (hours, minutes), Money (pounds, pence)
+

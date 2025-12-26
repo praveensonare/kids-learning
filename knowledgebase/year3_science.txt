@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Rocks and Soils, igneous, sedimentary, metamorphic, fossils, soil formation, permeability
-2, Animals and Humans, nutrition, skeleton, muscles, bones, joints, diet
-3, Forces and Magnets, push, pull, friction, magnetic, poles, attract, repel
-4, Light and Shadow, light sources, reflection, mirrors, shadows, sun safety
+chapter no: 1
+name: Rocks and Soils
+description: Rock types, Igneous, Sedimentary, Metamorphic, Fossils, Soil formation, Permeability, Rock properties
+
+chapter no: 2
+name: Animals and Humans
+description: Nutrition, Skeleton, Muscles, Bones, Joints, Balanced diet, Food groups, Movement
+
+chapter no: 3
+name: Forces and Magnets
+description: Push and pull, Friction, Magnetic materials, Poles, Attract, Repel, Magnetic force
+
+chapter no: 4
+name: Light and Shadow
+description: Light sources, Reflection, Mirrors, Shadows, Shadow formation, Sun safety, Light and dark
+

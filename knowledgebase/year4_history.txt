@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Roman Empire, Julius Caesar, Roman army, roads, baths, villas, Hadrians Wall
-2, Anglo-Saxons, Saxons, settlements, kingdoms, Sutton Hoo, Anglo-Saxon culture
-3, Vikings, longships, raids, Danelaw, Norse gods, Viking life
-4, Historical Impact, legacy, influence, comparing periods, change and continuity
+chapter no: 1
+name: Roman Empire
+description: Julius Caesar, Roman army, Roman roads, Roman baths, Roman villas, Hadrian's Wall
+
+chapter no: 2
+name: Anglo-Saxons
+description: Saxon settlements, Anglo-Saxon kingdoms, Sutton Hoo, Anglo-Saxon culture, Daily life
+
+chapter no: 3
+name: Vikings
+description: Longships, Viking raids, Danelaw, Norse gods, Viking life, Viking influence
+
+chapter no: 4
+name: Historical Impact
+description: Legacy, Influence, Comparing periods, Change and continuity, Historical significance
+

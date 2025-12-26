@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Living Things, animals, plants, growth, life cycle, baby animals, seeds
-2, Material Detectives, materials, wood, plastic, metal, fabric, properties, uses
-3, Seasons and Weather, spring, summer, autumn, winter, weather patterns, seasonal changes
-4, Push and Pull, forces, push, pull, movement, speed, direction
+chapter no: 1
+name: Living Things
+description: Animals, Plants, Life cycles, Growth, Baby animals, Plant parts, Animal homes, Living vs non-living
+
+chapter no: 2
+name: Material Detectives
+description: Wood, Plastic, Metal, Fabric, Glass, Material properties, Waterproof, Absorbent, Material uses
+
+chapter no: 3
+name: Seasons and Weather
+description: Spring, Summer, Autumn, Winter, Seasonal changes, Weather patterns, Seasonal activities, Seasonal clothing
+
+chapter no: 4
+name: Push and Pull
+description: Forces, Pushing, Pulling, Movement, Speed, Direction, Stopping, Force in action
+

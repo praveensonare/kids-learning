@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Phonics Foundations, phonics, letter sounds, blending, segmenting, CVC words, digraphs
-2, Reading Adventures, reading, decoding, sight words, fluency, common exception words
-3, Writing Journey, sentence writing, capital letters, full stops, finger spaces, handwriting
-4, Story Comprehension, understanding, prediction, inference, retelling, story structure
+chapter no: 1
+name: Phonics Foundations
+description: Letter sounds, Blending, Segmenting, CVC words, Consonant digraphs, Vowel digraphs, Initial sounds, Final sounds
+
+chapter no: 2
+name: Reading Adventures
+description: Decoding words, Sight words, Reading fluency, High-frequency words, Simple sentences, Picture clues, Reading comprehension
+
+chapter no: 3
+name: Writing Journey
+description: Sentence writing, Capital letters, Full stops, Finger spaces, Letter formation, Handwriting, Simple punctuation
+
+chapter no: 4
+name: Story Comprehension
+description: Understanding stories, Character recognition, Story settings, Beginning middle end, Predictions, Retelling stories, Story sequencing
+

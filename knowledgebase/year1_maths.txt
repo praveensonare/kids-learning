@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Place Value, tens, ones, numbers to 100, comparing, ordering, number line
-2, Addition and Subtraction, adding, subtracting, within 20, number bonds, word problems
-3, Multiplication Intro, groups, arrays, doubling, halving, equal groups
-4, Fractions and Measurement, half, quarter, length, weight, capacity, time
+chapter no: 1
+name: Place Value
+description: Numbers to 100, Tens and ones, Place value, Comparing numbers, Ordering numbers, Number patterns, Number line to 100
+
+chapter no: 2
+name: Addition and Subtraction
+description: Adding within 20, Subtracting within 20, Number bonds to 20, Mental strategies, Word problems, Missing numbers
+
+chapter no: 3
+name: Multiplication Introduction
+description: Equal groups, Arrays, Counting in 2s, Counting in 5s, Counting in 10s, Doubling, Halving
+
+chapter no: 4
+name: Fractions and Measurement
+description: Half, Quarter, Length, Height, Weight, Capacity, Time (o'clock and half past), Money
+

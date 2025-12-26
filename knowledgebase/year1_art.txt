@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Drawing Skills, lines, shapes, patterns, observation, pencil, crayon
-2, Painting Techniques, brushwork, color mixing, primary colors, secondary colors, textures
-3, Sculpture and 3D, modeling, clay, construction, 3D forms, joining
-4, Artists and Inspiration, famous artists, art styles, observing art, responding to art
+chapter no: 1
+name: Drawing Skills
+description: Line drawing, Shape drawing, Patterns, Observational drawing, Pencil control, Crayon techniques, Mark making
+
+chapter no: 2
+name: Painting Techniques
+description: Brushwork, Primary colors, Secondary colors, Color mixing, Painting textures, Wash techniques, Paint control
+
+chapter no: 3
+name: Sculpture and 3D
+description: Modeling, Clay work, Construction, 3D forms, Joining techniques, Sculpting tools, Creative building
+
+chapter no: 4
+name: Artists and Inspiration
+description: Famous artists, Art styles, Observing artwork, Responding to art, Art appreciation, Artistic techniques, Creative expression
+

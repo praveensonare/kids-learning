@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, My Five Senses, sight, hearing, touch, taste, smell, senses, observation
-2, Plants and Animals, living things, plants, animals, growth, needs, habitats
-3, Weather Watch, weather, seasons, sun, rain, wind, temperature, clouds
-4, Materials Around Us, materials, properties, hard, soft, rough, smooth, textures
+chapter no: 1
+name: My Five Senses
+description: Sight, Hearing, Touch, Taste, Smell, Sense exploration, Observation skills, Describing textures
+
+chapter no: 2
+name: Plants and Animals
+description: Living things, Animals, Plants, Growth, Basic needs, Habitats, Pet care, Wildlife observation
+
+chapter no: 3
+name: Weather Watch
+description: Weather types, Sunny, Rainy, Windy, Cloudy, Temperature, Seasonal changes, Weather observation
+
+chapter no: 4
+name: Materials Around Us
+description: Material properties, Hard and soft, Rough and smooth, Wet and dry, Material uses, Sorting materials, Exploring textures
+

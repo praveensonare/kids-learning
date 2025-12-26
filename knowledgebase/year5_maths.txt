@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Large Numbers, place value, million, negative numbers, rounding, roman numerals
-2, Four Operations, written methods, long multiplication, long division, order of operations
-3, Fractions and Percentages, equivalent fractions, improper fractions, decimals, percentages, conversion
-4, Shape and Measure, area, perimeter, volume, angles, reflection, translation
+chapter no: 1
+name: Large Numbers
+description: Place value to million, Negative numbers, Rounding, Roman numerals, Number operations
+
+chapter no: 2
+name: Four Operations
+description: Written methods, Long multiplication, Long division, Order of operations, Mental calculations
+
+chapter no: 3
+name: Fractions and Percentages
+description: Equivalent fractions, Improper fractions, Decimals, Percentages, Converting, Fraction calculations
+
+chapter no: 4
+name: Shape and Measure
+description: Area, Perimeter, Volume, Angles, Reflection, Translation, Shape properties
+

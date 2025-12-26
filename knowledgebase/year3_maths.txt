@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Place Value, hundreds, tens, ones, numbers to 1000, comparing, rounding
-2, Multiplication and Division, times tables, 3x, 4x, 8x tables, mental strategies, written methods
-3, Fractions, unit fractions, non-unit fractions, equivalent fractions, comparing fractions
-4, Geometry and Measurement, angles, right angles, perpendicular, parallel, perimeter
+chapter no: 1
+name: Place Value
+description: Hundreds tens ones, Numbers to 1000, Comparing numbers, Rounding, Place value partitioning, Ordering numbers
+
+chapter no: 2
+name: Multiplication and Division
+description: Times tables (3, 4, 8), Mental strategies, Written methods, Division, Factor pairs, Multiplication facts
+
+chapter no: 3
+name: Fractions
+description: Unit fractions, Non-unit fractions, Equivalent fractions, Comparing fractions, Fractions on number line, Adding fractions
+
+chapter no: 4
+name: Geometry and Measurement
+description: Angles, Right angles, Perpendicular, Parallel, Perimeter, 2D shapes, 3D shapes
+

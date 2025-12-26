@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Living Things, classification, vertebrates, invertebrates, habitats, food chains
-2, Digestion, digestive system, teeth, food chains, producers, consumers
-3, States of Matter, solids, liquids, gases, changes of state, evaporation, condensation
-4, Electricity and Sound, circuits, conductors, insulators, vibrations, pitch, volume
+chapter no: 1
+name: Living Things
+description: Classification, Vertebrates, Invertebrates, Habitats, Food chains, Environments, Classification keys
+
+chapter no: 2
+name: Digestion
+description: Digestive system, Teeth, Food chains, Producers, Consumers, Decomposers, Nutrition
+
+chapter no: 3
+name: States of Matter
+description: Solids liquids gases, Changes of state, Evaporation, Condensation, Water cycle, Particles
+
+chapter no: 4
+name: Electricity and Sound
+description: Circuits, Conductors, Insulators, Vibrations, Pitch, Volume, Sound waves
+

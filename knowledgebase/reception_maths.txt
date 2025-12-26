@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Numbers to 20, counting, number order, more, less, estimation, number line
-2, Addition and Subtraction, adding, subtracting, number bonds, within 10, strategies
-3, Shape and Space, shapes, 2D, 3D, properties, patterns, symmetry
-4, Measurement Basics, length, height, weight, capacity, time, comparing
+chapter no: 1
+name: Numbers to 20
+description: Counting to 20, Number order, More and less, Number bonds, Estimation, Number line, Ordinal numbers
+
+chapter no: 2
+name: Addition and Subtraction
+description: Adding within 10, Subtracting within 10, Number bonds to 10, Combining groups, Taking away, Simple word problems
+
+chapter no: 3
+name: Shape and Space
+description: 2D shape names, 3D shape names, Shape properties, Patterns, Symmetry, Position, Direction
+
+chapter no: 4
+name: Measurement Basics
+description: Length comparison, Height comparison, Weight comparison, Capacity comparison, Time vocabulary, Money recognition, Non-standard units
+

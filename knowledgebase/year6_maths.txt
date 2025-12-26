@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Number and Place Value, ten million, negative numbers, rounding, estimation, calculations
-2, Calculation Mastery, four operations, order of operations, mental strategies, problem solving
-3, FDP and Ratio, fractions, decimals, percentages, ratio, proportion, algebra
-4, Geometry and Statistics, circles, area, volume, mean, graphs, pie charts
+chapter no: 1
+name: Number and Place Value
+description: Ten million, Negative numbers, Rounding, Estimation, Complex calculations
+
+chapter no: 2
+name: Calculation Mastery
+description: Four operations, Order of operations, Mental strategies, Problem solving, Written methods
+
+chapter no: 3
+name: FDP and Ratio
+description: Fractions decimals percentages, Ratio, Proportion, Algebra introduction, Relationships
+
+chapter no: 4
+name: Geometry and Statistics
+description: Circles, Area, Volume, Mean average, Graphs, Pie charts, Data handling
+

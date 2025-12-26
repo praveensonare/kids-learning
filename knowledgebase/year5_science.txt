@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Materials and Properties, dissolving, separating mixtures, reversible changes, irreversible changes
-2, Earth and Space, solar system, planets, Earth rotation, day and night, seasons
-3, Forces, gravity, air resistance, water resistance, friction, mechanisms, levers
-4, Life Cycles, reproduction, mammals, amphibians, insects, birds, plants
+chapter no: 1
+name: Materials and Properties
+description: Dissolving, Separating mixtures, Reversible changes, Irreversible changes, Material properties
+
+chapter no: 2
+name: Earth and Space
+description: Solar system, Planets, Earth rotation, Day and night, Seasons, Moon phases
+
+chapter no: 3
+name: Forces
+description: Gravity, Air resistance, Water resistance, Friction, Mechanisms, Levers, Pulleys
+
+chapter no: 4
+name: Life Cycles
+description: Reproduction, Mammal life cycles, Amphibian life cycles, Insect life cycles, Bird life cycles, Plant life cycles
+

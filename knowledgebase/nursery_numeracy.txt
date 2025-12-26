@@ -11,7 +11,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Counting Adventures, counting, numbers 1-10, one-to-one, counting objects, number sequence
-2, Number Recognition, numeral recognition, number formation, writing numbers, number names
-3, Shape Explorers, 2D shapes, 3D shapes, circle, square, triangle, rectangle, sphere, cube
-4, Patterns and Positions, patterns, sequences, positional language, above, below, beside
+chapter no: 1
+name: Counting Adventures
+description: Counting to 10, Number recognition, One-to-one correspondence, Counting objects, Number sequence, Counting songs, Number order
+
+chapter no: 2
+name: Number Recognition
+description: Numeral identification, Number formation, Writing numbers 0-10, Number names, Number matching, Number sorting, Number games
+
+chapter no: 3
+name: Shape Explorers
+description: Circle, Square, Triangle, Rectangle, 2D shapes, 3D shapes, Shape properties, Shape sorting, Shape patterns
+
+chapter no: 4
+name: Patterns and Positions
+description: Pattern creation, Pattern continuation, Positional language, Above and below, Inside and outside, Next to, Spatial awareness
+

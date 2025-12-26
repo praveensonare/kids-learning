@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Stone Age Britain, hunter gatherers, stone tools, Skara Brae, prehistoric, cave art
-2, Bronze and Iron Ages, bronze, iron, hillforts, farming, technology
-3, Ancient Egypt, pharaohs, pyramids, mummies, Nile, hieroglyphics, civilization
-4, Using Historical Evidence, sources, artifacts, archaeology, timelines, chronology
+chapter no: 1
+name: Stone Age Britain
+description: Hunter gatherers, Stone tools, Skara Brae, Prehistoric life, Cave art, Early humans
+
+chapter no: 2
+name: Bronze and Iron Ages
+description: Bronze Age, Iron Age, Hillforts, Farming development, Technology advancement, Celtic culture
+
+chapter no: 3
+name: Ancient Egypt
+description: Pharaohs, Pyramids, Mummies, River Nile, Hieroglyphics, Egyptian civilization, Daily life
+
+chapter no: 4
+name: Using Historical Evidence
+description: Primary sources, Artifacts, Archaeology, Timelines, Chronology, Historical interpretation
+

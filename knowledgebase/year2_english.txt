@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Reading Comprehension, inference, prediction, retrieval, vocabulary, summarizing
-2, Narrative Writing, stories, character, setting, plot, past tense, description
-3, Punctuation and Grammar, commas, apostrophes, questions, statements, commands, exclamations
-4, Spelling Patterns, spelling rules, homophones, contractions, common exception words
+chapter no: 1
+name: Reading Comprehension
+description: Inference, Prediction, Retrieval, Vocabulary development, Summarizing, Main ideas, Text types
+
+chapter no: 2
+name: Narrative Writing
+description: Story writing, Character development, Settings, Plot, Past tense, Descriptive language, Story structure
+
+chapter no: 3
+name: Punctuation and Grammar
+description: Commas in lists, Apostrophes for contraction, Question marks, Exclamation marks, Statements, Commands, Expanded noun phrases
+
+chapter no: 4
+name: Spelling Patterns
+description: Spelling rules, Homophones, Contractions, Common exception words, Suffixes, Prefixes, Spell patterns
+

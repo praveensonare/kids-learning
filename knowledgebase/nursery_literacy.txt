@@ -11,7 +11,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Alphabet Adventure, letters, uppercase, lowercase, recognition, sounds, phonics, alphabet song
-2, Sound Explorers, phonics, initial sounds, rhyming, syllables, word families, sound games
-3, Story Time Magic, comprehension, characters, sequence, prediction, retelling, story elements
-4, Writing Readiness, pre-writing, fine motor, patterns, shapes, pencil grip, letter formation
+chapter no: 1
+name: Alphabet Adventure
+description: Letter recognition, Uppercase letters, Lowercase letters, Letter names, Letter sounds, Alphabet song, Letter formation basics
+
+chapter no: 2
+name: Sound Explorers
+description: Phonemic awareness, Initial sounds, Rhyming words, Syllable counting, Sound discrimination, Oral blending, Sound games
+
+chapter no: 3
+name: Story Time Magic
+description: Listening comprehension, Story sequencing, Character identification, Picture reading, Story retelling, Predicting events, Story enjoyment
+
+chapter no: 4
+name: Writing Readiness
+description: Pre-writing skills, Fine motor development, Pencil grip, Pattern making, Shape drawing, Mark making, Letter tracing
+

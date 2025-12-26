@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Reading for Meaning, comprehension, inference, authors intent, themes, literary language
-2, Writing Stories, narrative structure, paragraphs, dialogue, description, character development
-3, Grammar and Punctuation, nouns, verbs, adjectives, adverbs, prepositions, conjunctions
-4, Non-Fiction Writing, information texts, instructions, explanations, reports, organization
+chapter no: 1
+name: Reading for Meaning
+description: Comprehension skills, Inference, Author's intent, Themes, Literary language, Text analysis, Reading fluency
+
+chapter no: 2
+name: Writing Stories
+description: Narrative structure, Paragraphs, Dialogue, Description, Character development, Plot development, Story openings
+
+chapter no: 3
+name: Grammar and Punctuation
+description: Nouns, Verbs, Adjectives, Adverbs, Prepositions, Conjunctions, Sentence types, Punctuation rules
+
+chapter no: 4
+name: Non-Fiction Writing
+description: Information texts, Instructions, Explanations, Reports, Text organization, Headings, Subheadings
+

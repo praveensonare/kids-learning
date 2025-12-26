@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Advanced Phonics, Phase 5 phonics, alternative spellings, split digraphs, trigraphs, decoding
-2, Reading Skills, fluency, expression, comprehension, prediction, inference
-3, Sentence Construction, sentences, capital letters, full stops, question marks, exclamation marks
-4, Word Building, prefixes, suffixes, -ed, -ing, -s, plural, word families
+chapter no: 1
+name: Advanced Phonics
+description: Phase 5 phonics, Alternative spellings, Split digraphs, Trigraphs, Long vowel sounds, Consonant blends, Decoding strategies
+
+chapter no: 2
+name: Reading Skills
+description: Reading fluency, Expression, Comprehension strategies, Prediction, Inference, Story elements, Reading for meaning
+
+chapter no: 3
+name: Sentence Construction
+description: Sentence structure, Capital letters, Full stops, Question marks, Exclamation marks, Conjunctions (and), Simple sentences
+
+chapter no: 4
+name: Word Building
+description: Prefixes, Suffixes -ed -ing -s, Plurals, Past tense, Present tense, Word families, Compound words
+

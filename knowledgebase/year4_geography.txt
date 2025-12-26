@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Europe and Beyond, continents, countries, capital cities, European Union, flags
-2, Mountains and Volcanoes, volcanoes, earthquakes, tectonic plates, Ring of Fire, mountain ranges
-3, Water Cycle, evaporation, condensation, precipitation, collection, rivers
-4, Trade and Resources, natural resources, trade, import, export, fair trade
+chapter no: 1
+name: Europe and Beyond
+description: Continents, Countries, Capital cities, European Union, Flags, European geography
+
+chapter no: 2
+name: Mountains and Volcanoes
+description: Volcanoes, Earthquakes, Tectonic plates, Ring of Fire, Mountain ranges, Volcanic activity
+
+chapter no: 3
+name: Water Cycle
+description: Evaporation, Condensation, Precipitation, Collection, Rivers, Water movement
+
+chapter no: 4
+name: Trade and Resources
+description: Natural resources, Trade, Import, Export, Fair trade, Economic geography
+

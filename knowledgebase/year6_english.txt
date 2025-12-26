@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Critical Reading, evaluation, comparing texts, implicit meaning, bias, perspective
-2, Advanced Writing, formal writing, informal writing, voice, audience, purpose
-3, Grammar Mastery, subjunctive, passive, perfect tense, colons, semicolons, dashes
-4, SATs Preparation, exam techniques, comprehension strategies, spelling rules, revision
+chapter no: 1
+name: Critical Reading
+description: Evaluation, Comparing texts, Implicit meaning, Bias, Perspective, Critical analysis
+
+chapter no: 2
+name: Advanced Writing
+description: Formal writing, Informal writing, Voice, Audience, Purpose, Writing styles
+
+chapter no: 3
+name: Grammar Mastery
+description: Subjunctive, Passive voice, Perfect tense, Colons, Semicolons, Dashes, Advanced grammar
+
+chapter no: 4
+name: SATs Preparation
+description: Exam techniques, Comprehension strategies, Spelling rules, Revision strategies, Test practice
+

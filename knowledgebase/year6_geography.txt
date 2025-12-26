@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Global Regions, Asia, Africa, latitude, longitude, time zones, hemispheres
-2, Economic Geography, trade, industry, agriculture, tourism, economic development
-3, Environmental Issues, deforestation, pollution, conservation, endangered species, sustainability
-4, Migration and Settlement, population, migration, urban, rural, push factors, pull factors
+chapter no: 1
+name: Global Regions
+description: Asia, Africa, Latitude, Longitude, Time zones, Hemispheres
+
+chapter no: 2
+name: Economic Geography
+description: Trade, Industry, Agriculture, Tourism, Economic development
+
+chapter no: 3
+name: Environmental Issues
+description: Deforestation, Pollution, Conservation, Endangered species, Sustainability
+
+chapter no: 4
+name: Migration and Settlement
+description: Population, Migration, Urban areas, Rural areas, Push factors, Pull factors
+

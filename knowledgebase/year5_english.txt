@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Literary Analysis, metaphor, simile, personification, analyzing language, authors purpose
-2, Persuasive Writing, persuasion, argument, evidence, rhetorical questions, balanced arguments
-3, Complex Grammar, relative clauses, modal verbs, passive voice, subjunctive, cohesion
-4, Poetry and Performance, poetry forms, rhythm, meter, performance, interpretation
+chapter no: 1
+name: Literary Analysis
+description: Metaphor, Simile, Personification, Analyzing language, Author's purpose, Literary devices
+
+chapter no: 2
+name: Persuasive Writing
+description: Persuasion techniques, Arguments, Evidence, Rhetorical questions, Balanced arguments, Persuasive devices
+
+chapter no: 3
+name: Complex Grammar
+description: Relative clauses, Modal verbs, Passive voice, Subjunctive form, Cohesion, Complex sentences
+
+chapter no: 4
+name: Poetry and Performance
+description: Poetry forms, Rhythm, Meter, Performance techniques, Interpretation, Poetic devices
+

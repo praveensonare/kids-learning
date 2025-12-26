@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Advanced Reading, analyzing, evaluating, comparing texts, themes, language features
-2, Creative Writing, descriptive writing, settings, characters, suspense, poetry
-3, Advanced Grammar, fronted adverbials, pronouns, determiners, clauses, expanded noun phrases
-4, Punctuation Mastery, inverted commas, apostrophes, commas in lists, direct speech
+chapter no: 1
+name: Advanced Reading
+description: Text analysis, Evaluating texts, Comparing texts, Themes, Language features, Reading strategies
+
+chapter no: 2
+name: Creative Writing
+description: Descriptive writing, Settings, Characters, Suspense, Poetry, Narrative techniques, Imagery
+
+chapter no: 3
+name: Advanced Grammar
+description: Fronted adverbials, Pronouns, Determiners, Clauses, Expanded noun phrases, Sentence structure
+
+chapter no: 4
+name: Punctuation Mastery
+description: Inverted commas, Apostrophes for possession, Commas in lists, Direct speech, Punctuation accuracy
+

@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Animals Including Humans, animal groups, mammals, birds, fish, reptiles, amphibians, body parts
-2, Plants, plant parts, leaves, flowers, roots, stem, trees, wild plants
-3, Everyday Materials, wood, plastic, glass, metal, water, rock, properties
-4, Seasonal Changes, four seasons, weather, day length, temperature, observations
+chapter no: 1
+name: Animals Including Humans
+description: Animal classification, Mammals, Birds, Fish, Reptiles, Amphibians, Human body parts, Animal diets, Senses
+
+chapter no: 2
+name: Plants
+description: Plant parts, Roots, Stem, Leaves, Flowers, Common plants, Garden plants, Wild plants, Trees, Plant growth
+
+chapter no: 3
+name: Everyday Materials
+description: Material names, Wood, Plastic, Glass, Metal, Water, Rock, Material properties, Material uses, Describing materials
+
+chapter no: 4
+name: Seasonal Changes
+description: Four seasons, Weather across seasons, Day length, Temperature changes, Seasonal observations, Seasonal activities
+

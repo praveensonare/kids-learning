@@ -104,23 +104,49 @@ export async function loadKnowledgeBase(
     }
 
     // Extract chapters from index file
-    // New format: number, title, keyword1, keyword2, ...
+    // New format: chapter no: X \n name: Chapter Name \n description: topic1, topic2, ...
     const chaptersStart = lines.findIndex(line => line.includes('Chapters:'));
 
     if (chaptersStart !== -1) {
-      for (let i = chaptersStart + 1; i < lines.length; i++) {
+      let i = chaptersStart + 1;
+      while (i < lines.length) {
         const line = lines[i].trim();
-        if (!line || line.startsWith('Sample') || line.startsWith('Assessment')) break;
 
-        // Parse CSV format: number, title, keywords...
-        const parts = line.split(',').map(p => p.trim());
-        if (parts.length >= 2) {
-          const chapterNumber = parseInt(parts[0]);
-          const chapterTitle = parts[1];
-          const keywords = parts.slice(2); // Rest are keywords
-          const chapterId = chapterTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+        // Skip empty lines
+        if (!line) {
+          i++;
+          continue;
+        }
 
-          if (!isNaN(chapterNumber)) {
+        // Stop if we hit another section
+        if (line.startsWith('Sample') || line.startsWith('Assessment')) {
+          break;
+        }
+
+        // Look for chapter no:
+        if (line.startsWith('chapter no:')) {
+          const chapterNumber = parseInt(line.split(':')[1].trim());
+
+          // Get name from next line
+          i++;
+          const nameLine = lines[i].trim();
+          let chapterTitle = '';
+          if (nameLine.startsWith('name:')) {
+            chapterTitle = nameLine.split(':').slice(1).join(':').trim();
+          }
+
+          // Get description from next line
+          i++;
+          const descLine = lines[i].trim();
+          let keywords: string[] = [];
+          if (descLine.startsWith('description:')) {
+            const descriptionText = descLine.split(':').slice(1).join(':').trim();
+            keywords = descriptionText.split(',').map(k => k.trim());
+          }
+
+          if (!isNaN(chapterNumber) && chapterTitle) {
+            const chapterId = chapterTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+
             const chapter: Chapter = {
               id: chapterId,
               number: chapterNumber,
@@ -141,6 +167,8 @@ export async function loadKnowledgeBase(
             parsedContent.chapters.push(chapter);
           }
         }
+
+        i++;
       }
     }
 

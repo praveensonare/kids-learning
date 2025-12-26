@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Americas, North America, South America, countries, physical features, cities
-2, Biomes and Climate, rainforest, desert, tundra, grassland, climate zones
-3, Rivers, river features, erosion, deposition, flood plains, deltas, meanders
-4, Climate Change, global warming, greenhouse gases, sustainability, renewable energy
+chapter no: 1
+name: Americas
+description: North America, South America, Countries, Physical features, Cities, American geography
+
+chapter no: 2
+name: Biomes and Climate
+description: Rainforest, Desert, Tundra, Grassland, Climate zones, Ecosystems
+
+chapter no: 3
+name: Rivers
+description: River features, Erosion, Deposition, Flood plains, Deltas, Meanders
+
+chapter no: 4
+name: Climate Change
+description: Global warming, Greenhouse gases, Sustainability, Renewable energy, Environmental impact
+

@@ -8,7 +8,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Drawing and Mark Making, sketching, shading, texture, tone, detail, observation
-2, Color Theory, color wheel, warm colors, cool colors, tints, shades
-3, Print Making, printing, patterns, repeated patterns, stamps, textures
-4, Famous Artists, Monet, Van Gogh, art movements, impressionism, style
+chapter no: 1
+name: Drawing and Mark Making
+description: Sketching, Shading, Texture, Tone, Detail, Observational skills, Drawing techniques
+
+chapter no: 2
+name: Color Theory
+description: Color wheel, Warm colors, Cool colors, Tints, Shades, Color harmony, Color mood
+
+chapter no: 3
+name: Print Making
+description: Printing techniques, Patterns, Repeated patterns, Stamps, Textures, Block printing, Press printing
+
+chapter no: 4
+name: Famous Artists
+description: Monet, Van Gogh, Art movements, Impressionism, Artist styles, Art appreciation, Artistic influence
+

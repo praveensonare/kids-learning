@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Classification, micro-organisms, Carl Linnaeus, kingdoms, classification keys
-2, Circulation and Health, heart, blood vessels, circulatory system, healthy lifestyle, diet, exercise
-3, Evolution and Inheritance, adaptation, evolution, inheritance, fossils, Charles Darwin
-4, Light and Electricity, light travels, shadows, reflection, circuits, symbols, voltage
+chapter no: 1
+name: Classification
+description: Micro-organisms, Carl Linnaeus, Classification systems, Kingdoms, Classification keys
+
+chapter no: 2
+name: Circulation and Health
+description: Heart, Blood vessels, Circulatory system, Healthy lifestyle, Diet, Exercise
+
+chapter no: 3
+name: Evolution and Inheritance
+description: Adaptation, Evolution, Inheritance, Fossils, Charles Darwin, Natural selection
+
+chapter no: 4
+name: Light and Electricity
+description: Light travels, Shadows, Reflection, Circuits, Circuit symbols, Voltage
+

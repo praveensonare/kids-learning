@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Ancient Greek Civilization, Athens, Sparta, city-states, Greek society, daily life
-2, Greek Democracy, democracy, government, citizenship, voting, assembly
-3, Greek Culture, Olympics, theater, philosophy, architecture, art
-4, Greek Legacy, influence, modern world, alphabet, mathematics, science
+chapter no: 1
+name: Ancient Greek Civilization
+description: Athens, Sparta, City-states, Greek society, Daily life, Ancient Greece
+
+chapter no: 2
+name: Greek Democracy
+description: Democracy, Government, Citizenship, Voting, Assembly, Political systems
+
+chapter no: 3
+name: Greek Culture
+description: Olympics, Theater, Philosophy, Architecture, Art, Greek achievements
+
+chapter no: 4
+name: Greek Legacy
+description: Influence on modern world, Alphabet, Mathematics, Science, Cultural legacy
+

@@ -9,7 +9,19 @@ Learning Objectives:
 
 Chapters:
 
-1, Place Value to 10000, thousands, hundreds, tens, ones, rounding, roman numerals
-2, Times Tables and Division, 6x, 7x, 9x, 11x, 12x tables, factor pairs, division facts
-3, Fractions and Decimals, equivalent fractions, decimals, tenths, hundredths, fraction problems
-4, Area and Perimeter, area, perimeter, rectangles, rectilinear shapes, coordinates
+chapter no: 1
+name: Place Value to 10000
+description: Thousands hundreds tens ones, Rounding, Roman numerals, Place value understanding, Number comparison
+
+chapter no: 2
+name: Times Tables and Division
+description: Times tables (6, 7, 9, 11, 12), Factor pairs, Division facts, Written methods, Multiplication strategies
+
+chapter no: 3
+name: Fractions and Decimals
+description: Equivalent fractions, Decimals, Tenths, Hundredths, Fraction problems, Decimal notation
+
+chapter no: 4
+name: Area and Perimeter
+description: Area calculation, Perimeter calculation, Rectangles, Rectilinear shapes, Coordinates, Grid positions
+
