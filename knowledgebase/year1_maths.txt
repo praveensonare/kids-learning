@@ -1,55 +1,238 @@
-# Year 1 - Maths Knowledge Base
+Year 1 Maths - Cambridge Primary Curriculum
 
-## Cambridge Primary Mathematics Stage 1
-
-### Learning Objectives
+Learning Objectives:
 - Count, read and write numbers to 100
-- Add and subtract within 20
+- Add and subtract one-digit and two-digit numbers to 20
 - Understand place value (tens and ones)
 - Recognize and name 2D and 3D shapes
+- Measure using standard and non-standard units
 - Tell time to the hour and half hour
+- Solve problems using reasoning
 
-### Key Topics
+Key Topics:
 
-#### Number and Place Value
-- Numbers 0-100
-- Counting forwards and backwards
-- One more, one less
-- Tens and ones (place value)
-- Ordering and comparing numbers
+TOPIC 1: Number and Place Value to 100
+Theory: Our number system is based on place value. Each digit has a value depending on its position. In the number 45, the 4 represents 4 tens (40) and the 5 represents 5 ones.
 
-#### Addition and Subtraction
+Counting:
+- Count forwards and backwards to 100
+- Count in steps of 1, 2, 5, and 10
+- Identify one more and one less
+
+Place Value:
+- 23 = 2 tens and 3 ones = 20 + 3
+- 50 = 5 tens and 0 ones
+- 10 ones = 1 ten
+
+Worksheets:
+1. Place Value Chart: Write numbers in tens and ones columns
+2. Partition Numbers: 47 = ___ tens + ___ ones
+3. Number Lines: Fill in missing numbers 34, 35, ___, 37, ___
+4. Comparing: Use > < = to compare numbers (45 ___ 54)
+
+TOPIC 2: Addition Within 20
+Theory: Addition combines two or more numbers to find the total. We can use number bonds, number lines, or mental strategies.
+
+Mental Strategies:
+- Count on from the larger number: 12 + 3 = start at 12, count 13, 14, 15
+- Use doubles: 6 + 6 = 12, so 6 + 7 = 13 (one more)
+- Make 10 first: 8 + 5 = 8 + 2 + 3 = 10 + 3 = 13
 - Number bonds to 10 and 20
-- Addition facts within 20
-- Subtraction facts within 20
-- Missing number problems
-- Word problems
 
-#### Multiplication and Division (Introduction)
-- Counting in 2s, 5s, 10s
-- Equal groups
-- Sharing and grouping
-- Arrays
+Examples:
+- 7 + 8 = 15
+- 9 + 9 = 18
+- 12 + 5 = 17
+- 10 + 10 = 20
 
-#### Measurement
-- Length (longer/shorter, measuring with cubes)
-- Weight (heavier/lighter)
-- Capacity (full/empty, more/less)
-- Time (days of week, months, o'clock, half past)
+Worksheets:
+1. Addition Facts: Complete addition grid (+ table to 20)
+2. Missing Numbers: 12 + ___ = 19
+3. Word Problems: "Anna has 8 apples. Ben gives her 5 more. How many now?"
+4. Number Bonds: Show all pairs that make 15
 
-#### Geometry
-- 2D shapes (circle, triangle, square, rectangle, pentagon, hexagon)
-- 3D shapes (cube, cuboid, sphere, cylinder, cone)
-- Position and direction (left/right, forwards/backwards)
-- Patterns and sequences
+TOPIC 3: Subtraction Within 20
+Theory: Subtraction means taking away, finding the difference, or finding a missing part.
 
-#### Fractions
-- Halves and quarters of shapes
-- Halves and quarters of quantities
+Mental Strategies:
+- Count back: 15 - 3 = start at 15, count back 14, 13, 12
+- Use number bonds: If 8 + 7 = 15, then 15 - 7 = 8
+- Find the difference by counting up
+- Subtract by taking away
 
-### Activities
-- Mental maths warm-ups
-- Practical measuring activities
-- Shape hunts
-- Number line games
-- Money problems (1p, 2p, 5p, 10p coins)
+Examples:
+- 17 - 5 = 12
+- 20 - 11 = 9
+- 14 - 6 = 8
+- 19 - 9 = 10
+
+Worksheets:
+1. Subtraction Practice: 50 subtraction facts within 20
+2. Fact Families: 5 + 7 = 12, 7 + 5 = 12, 12 - 5 = 7, 12 - 7 = 5
+3. Word Problems: "There were 16 birds. 9 flew away. How many left?"
+4. Missing Numbers: 18 - ___ = 11
+
+TOPIC 4: Multiplication Introduction
+Theory: Multiplication means repeated addition of equal groups. It's a quicker way to add the same number many times.
+
+Skip Counting:
+- Count in 2s: 2, 4, 6, 8, 10, 12... (pairs)
+- Count in 5s: 5, 10, 15, 20, 25, 30... (hands, fingers)
+- Count in 10s: 10, 20, 30, 40, 50... (tens)
+
+Equal Groups:
+- 3 groups of 2 = 2 + 2 + 2 = 6
+- 4 groups of 5 = 5 + 5 + 5 + 5 = 20
+- Arrays: rows and columns
+
+Examples:
+- "There are 5 boxes. Each box has 2 toys. How many toys altogether?" 
+  5 groups of 2 = 10 toys
+
+Worksheets:
+1. Skip Counting: Fill in the sequence counting in 2s, 5s, 10s
+2. Equal Groups: Draw 4 groups of 3 stars
+3. Arrays: Complete the array and write the total
+4. Repeated Addition: Write 3 × 5 as 5 + 5 + 5 = ___
+
+TOPIC 5: Division Introduction
+Theory: Division is sharing equally into groups or grouping into equal sets.
+
+Two Types:
+- Sharing: 12 sweets shared between 3 children = 4 each
+- Grouping: 12 sweets in groups of 3 = 4 groups
+
+Examples:
+- 10 ÷ 2 = 5 (10 shared between 2 = 5 each)
+- 15 ÷ 5 = 3 (15 in groups of 5 = 3 groups)
+- 20 ÷ 10 = 2
+
+Worksheets:
+1. Sharing: Share 12 counters between 4 people. Draw how many each gets
+2. Grouping: Circle groups of 2 in a set of 14 objects
+3. Division Pictures: 18 ÷ 6 = ___ (draw it)
+4. Word Problems: "20 pencils in packs of 5. How many packs?"
+
+TOPIC 6: Fractions - Halves and Quarters
+Theory: Fractions represent parts of a whole or parts of a group. The whole must be divided into equal parts.
+
+Halves (1/2):
+- 1 whole divided into 2 equal parts
+- 1/2 of 8 = 4
+- Half of a shape or quantity
+
+Quarters (1/4):
+- 1 whole divided into 4 equal parts
+- 1/4 of 8 = 2
+- Quarter of a shape or quantity
+
+Examples:
+- Half of a pizza = 2 equal slices
+- Half of 10 = 5
+- Quarter of a square = 1 of 4 equal parts
+- Quarter of 12 = 3
+
+Worksheets:
+1. Shade Halves: Color 1/2 of each shape
+2. Find Halves: What is 1/2 of 16?
+3. Quarters: Divide shapes into 4 equal parts
+4. Fraction Problems: "I ate 1/4 of 8 cookies. How many did I eat?"
+
+TOPIC 7: Geometry - 2D and 3D Shapes
+Theory: Shapes have properties that help us identify and describe them.
+
+2D Shapes Properties:
+- Triangle: 3 sides, 3 vertices (corners)
+- Square: 4 equal sides, 4 right angles
+- Rectangle: 4 sides (opposite sides equal), 4 right angles
+- Circle: curved, no sides, no vertices
+- Pentagon: 5 sides, 5 vertices
+- Hexagon: 6 sides, 6 vertices
+
+3D Shapes Properties:
+- Cube: 6 square faces, 12 edges, 8 vertices
+- Cuboid: 6 rectangular faces, 12 edges, 8 vertices
+- Sphere: 1 curved surface, no edges, no vertices
+- Cylinder: 2 circular faces, 1 curved surface
+- Cone: 1 circular face, 1 vertex, 1 curved surface
+- Pyramid: triangular faces, 1 base, pointed top
+
+Worksheets:
+1. Name the Shape: Identify shapes and write their names
+2. Properties Table: Complete a chart of sides, vertices, faces
+3. Shape Sorting: Group shapes by number of sides
+4. Real World: Find examples of shapes in the classroom
+
+TOPIC 8: Measurement
+Theory: We measure to find out how long, heavy, or much something is. We use units and tools to measure accurately.
+
+Length:
+- Non-standard units: cubes, hands, paperclips
+- Standard units: centimeters (cm), meters (m)
+- Measuring tools: ruler, tape measure
+- Compare: longer, shorter, taller, same length
+
+Weight/Mass:
+- Non-standard: compare which is heavier
+- Standard units: kilograms (kg)
+- Measuring tools: balance scales, weighing scales
+- Compare: heavier, lighter, same weight
+
+Capacity/Volume:
+- How much a container holds
+- Standard units: liters (l), milliliters (ml)
+- Compare: full, empty, half full, more, less
+
+Worksheets:
+1. Measure It: Use a ruler to measure lines in cm
+2. Comparing Weight: Which is heavier - book or pencil?
+3. Capacity: Order containers by how much they hold
+4. Estimation: Estimate then measure the length of your desk
+
+TOPIC 9: Time
+Theory: We use clocks and calendars to measure and organize time.
+
+Time Concepts:
+- Days of the week: Monday to Sunday (7 days)
+- Months of the year: January to December (12 months)
+- Seasons: Spring, Summer, Autumn, Winter
+
+Telling Time:
+- O'clock: minute hand on 12, hour hand shows hour
+- Half past: minute hand on 6, hour hand halfway between hours
+- Digital and analog clocks
+
+Time Language:
+- Before, after, next, yesterday, today, tomorrow
+- Morning, afternoon, evening, night
+- Earlier, later, quicker, slower
+
+Worksheets:
+1. Draw Clock Hands: Show 3 o'clock and 7 o'clock
+2. Match Times: Connect analog clocks to digital times
+3. Daily Routine: What time do you wake up? Eat breakfast?
+4. Duration: Circle activities that take less than 1 minute
+
+Sample Activities:
+- Daily Mental Maths: Quick recall of number facts
+- Problem Solving: Real-life word problems
+- Practical Measuring: Measure classroom objects
+- Shape Hunt: Find shapes in the environment
+- Money Games: Shopping with coins (1p, 2p, 5p, 10p, 20p, 50p, £1)
+- Number Games: Board games, card games, dice games
+- Times Table Practice: Chanting 2s, 5s, 10s
+- Pattern Making: Number patterns, shape patterns
+- Data Handling: Simple pictograms and block graphs
+
+Assessment Ideas:
+- Counts to 100 accurately
+- Reads and writes numbers to 100
+- Knows number bonds to 20
+- Adds and subtracts within 20 mentally
+- Understands place value (tens and ones)
+- Recognizes and describes 2D and 3D shapes
+- Measures using cm and compares lengths
+- Tells time to the hour and half hour
+- Solves problems and explains reasoning
+- Counts in 2s, 5s, and 10s
+- Finds halves and quarters of shapes and quantities

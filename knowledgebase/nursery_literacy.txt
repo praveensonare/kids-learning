@@ -1,35 +1,116 @@
-# Nursery - Early Literacy Knowledge Base
+Nursery Early Literacy - Cambridge Primary Curriculum
 
-## Cambridge Early Years Foundation Stage (EYFS)
+Learning Objectives:
+- Recognize and name letters of the alphabet (A-Z)
+- Develop phonological awareness and letter-sound relationships
+- Begin to understand that print carries meaning
+- Engage with books and develop a love for reading
+- Practice pre-writing skills and hand-eye coordination
+- Build vocabulary through stories, songs, and conversations
 
-### Learning Objectives
-- Recognize and identify letters of the alphabet
-- Understand that letters represent sounds
-- Begin to form letters correctly
-- Develop phonological awareness
-- Build vocabulary through stories and rhymes
+Key Topics:
 
-### Key Topics
+TOPIC 1: Alphabet Recognition
+Theory: The alphabet consists of 26 letters, each with uppercase (capital) and lowercase (small) forms. Learning to recognize these letters is the foundation of reading and writing. Letters have names and sounds.
 
-#### Letter Recognition
-- Uppercase and lowercase letters
-- Letter sounds (phonics)
-- Letter formation and writing
+Examples:
+- Letter A/a: Apple starts with A, makes the /a/ sound as in "ant"
+- Letter B/b: Ball starts with B, makes the /b/ sound as in "ball"
+- Letter C/c: Cat starts with C, makes the /c/ sound as in "cat"
+- Letter M/m: Mummy starts with M, makes the /mmm/ sound
 
-#### Early Reading Skills
-- Picture books and storytelling
-- Understanding story sequence
-- Identifying characters and settings
+Worksheets:
+1. Letter Tracing: Trace uppercase letters A-M with your finger, then with a crayon
+2. Letter Hunt: Circle all the letter A's on the page
+3. Matching Game: Match uppercase A to lowercase a
 
-#### Speaking and Listening
-- Express ideas clearly
-- Listen to others attentively
-- Follow simple instructions
-- Participate in group discussions
+TOPIC 2: Letter Sounds (Beginning Phonics)
+Theory: Each letter represents one or more sounds. Understanding letter-sound relationships helps children decode words. We focus on initial sounds - the first sound we hear in a word.
 
-### Activities
-- Singing alphabet songs
-- Tracing letters in sand/foam
-- Reading picture books together
-- Rhyming games and activities
-- Show and tell sessions
+Examples:
+- /s/ as in sun, snake, sock
+- /t/ as in toy, tiger, tent
+- /p/ as in pig, pot, pen
+- /n/ as in net, nose, nut
+
+Worksheets:
+1. Beginning Sounds: Color the pictures that start with /b/ - ball, banana, book
+2. Sound Sorting: Cut and paste pictures into groups by their first sound
+3. I Spy: Find things in the classroom that start with /s/
+
+TOPIC 3: Print Awareness
+Theory: Print carries meaning and we read from left to right, top to bottom in English. Books have covers, titles, authors, and pages. Words are made of letters and are separated by spaces.
+
+Examples:
+- The title is on the front cover
+- We turn pages from right to left
+- Words go across the page from left to right
+- Each word has spaces around it
+
+Worksheets:
+1. Book Parts: Point to the front cover, back cover, title
+2. Reading Direction: Follow the arrow from left to right across the page
+3. Word Counting: Count how many words are in the sentence "I like cats" (3 words)
+
+TOPIC 4: Story Time and Comprehension
+Theory: Stories have characters (who), settings (where), and events (what happens). Listening to stories builds vocabulary, imagination, and understanding.
+
+Examples:
+- "The Three Little Pigs" - characters: 3 pigs and wolf
+- Setting: houses made of straw, sticks, bricks
+- Events: wolf blows down houses, pigs escape
+- Favorite part: the brick house is strong
+
+Worksheets:
+1. Story Sequence: Number the pictures 1, 2, 3 to show what happened first, next, last
+2. Character Match: Draw lines to match characters to their stories
+3. Story Questions: Who is in the story? Where does it happen? What happened?
+
+TOPIC 5: Pre-Writing Skills
+Theory: Before writing letters, children need to develop fine motor control through drawing shapes and lines. Proper pencil grip (pincer grasp) is essential.
+
+Examples:
+- Vertical lines (|): Rain, fence posts
+- Horizontal lines (—): Sleeping line, horizon
+- Circles (○): Bubbles, sun, wheels
+- Diagonal lines (/  ): Roof, mountain
+
+Worksheets:
+1. Line Practice: Trace vertical lines from top to bottom
+2. Shape Tracing: Trace circles going counter-clockwise
+3. Pattern Paths: Follow the dotted path with your pencil (zigzag, wavy, loops)
+4. My Name: Trace your name with finger, then with crayon
+
+TOPIC 6: Rhyming and Word Families
+Theory: Rhyming words end with the same sound. Recognizing rhymes helps with phonological awareness.
+
+Examples:
+- cat, hat, mat, sat (all rhyme with -at)
+- dog, log, frog, hog (all rhyme with -og)
+- sun, fun, run, bun (all rhyme with -un)
+
+Worksheets:
+1. Rhyme Match: Draw lines between rhyming pictures (cat-hat, dog-log)
+2. Odd One Out: Circle the word that doesn't rhyme (cat, hat, car, mat)
+3. Rhyme Time: Think of a word that rhymes with "ball"
+
+Sample Activities:
+- Letter Hunt: Find objects around the room that start with today's letter
+- Alphabet Song: Sing the ABC song while pointing to letters on a chart
+- Story Acting: Use puppets or props to retell favorite stories
+- Playdough Letters: Form letters using playdough or clay
+- Name Recognition: Find your name card and put it on your cubby
+- Picture Walk: Look through a book and predict the story from pictures
+- Rhyme Basket: Sort objects by rhyming sounds
+- Sand Writing: Write letters in a sand tray with fingers
+- Letter Collage: Glue pictures of things starting with letter B
+- Listening Walk: Go outside and listen for environmental sounds
+
+Assessment Ideas:
+- Can identify 10-15 letters by name
+- Can produce sounds for common letters (s, t, p, n, a, m)
+- Shows interest in books and handles them correctly
+- Holds writing tools with appropriate grip
+- Recognizes own name in print
+- Can produce simple rhymes
+- Participates in story time discussions

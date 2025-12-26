@@ -1,40 +1,139 @@
-# Nursery - Early Numeracy Knowledge Base
+Nursery Early Numeracy - Cambridge Primary Curriculum
 
-## Cambridge Early Years Foundation Stage (EYFS)
+Learning Objectives:
+- Count objects from 1 to 10 with one-to-one correspondence
+- Recognize and write numerals 1-10
+- Understand basic concepts of more, less, and same
+- Identify and create simple patterns
+- Explore shapes and spatial relationships
+- Develop mathematical vocabulary and reasoning
 
-### Learning Objectives
-- Count reliably up to 10
-- Recognize numerals 1-10
-- Understand one-to-one correspondence
-- Compare quantities (more/less/same)
-- Recognize and name basic shapes
+Key Topics:
 
-### Key Topics
+TOPIC 1: Counting and Number Recognition (1-10)
+Theory: Numbers represent quantities. Each number has a symbol (numeral) and a value (how many). Counting involves saying number names in order while matching them to objects.
 
-#### Number Recognition
-- Numbers 1-10
-- Counting objects
-- Number formation
+Examples:
+- 1 one sun in the sky
+- 2 two hands, two eyes
+- 3 three bears (Goldilocks story)
+- 4 four wheels on a car
+- 5 five fingers on one hand
+- 10 ten toes
 
-#### Basic Shapes
-- Circle, square, triangle, rectangle
-- Shape properties
-- Shapes in the environment
+Worksheets:
+1. Count and Circle: Count the objects and circle the correct number (3 apples = circle 3)
+2. Number Tracing: Trace numerals 1-5, say the number name
+3. Counting Practice: Draw 4 stars, count them, write the number
 
-#### Patterns and Sorting
-- Simple patterns (AB, ABB)
-- Sorting by color, size, shape
-- Matching activities
+TOPIC 2: One-to-One Correspondence
+Theory: Touching or pointing to each object once while counting ensures accurate counting. This prevents skipping items or counting the same item twice.
 
-#### Measurement Concepts
-- Big and small
-- Long and short
-- Heavy and light
-- Full and empty
+Examples:
+- Touch each toy car and say "1, 2, 3, 4"
+- Give one cookie to each friend at snack time
+- Put one sticker on each shape
+- Match cups to saucers (one cup for each saucer)
 
-### Activities
-- Counting songs and rhymes
-- Building with blocks
-- Shape sorting games
-- Pattern making with objects
-- Measuring and comparing activities
+Worksheets:
+1. Matching: Draw lines to match each teddy to one bed
+2. Counting Dots: Touch each dot with your finger and count aloud
+3. Fair Sharing: Draw one ball for each child
+
+TOPIC 3: Number Formation (Writing Numbers)
+Theory: Each numeral has a specific way to write it. Starting at the right place and forming numbers correctly helps with legibility.
+
+Examples:
+- Number 1: Start at top, straight line down
+- Number 2: Around and down, slide right
+- Number 3: Around and around (two humps)
+- Number 4: Down, across, down
+- Number 5: Down, around, hat on top
+
+Worksheets:
+1. Skywriting: Trace numbers in the air with big movements
+2. Sand Tray: Write numbers in sand with finger
+3. Dotted Numbers: Trace numbers 1-10 on dotted lines
+4. Rainbow Numbers: Trace number 3 three times with different colors
+
+TOPIC 4: Shapes and Properties
+Theory: Shapes have different properties (sides, corners, curves). We can identify shapes by looking at these features.
+
+Examples:
+- Circle: round, no corners, no sides (ball, wheel, plate, sun)
+- Square: 4 equal sides, 4 corners (window, box, sandwich)
+- Triangle: 3 sides, 3 corners (roof, slice of pizza, mountain)
+- Rectangle: 4 sides (2 long, 2 short), 4 corners (door, book, brick)
+
+Worksheets:
+1. Shape Hunt: Color all circles red, all squares blue
+2. Shape Drawing: Trace and then draw your own circle, square, triangle
+3. Shape Sorting: Cut out shapes and group them (all circles together)
+4. Shape Pictures: Make a house using shapes (square + triangle = house)
+
+TOPIC 5: Patterns
+Theory: Patterns are sequences that repeat in a predictable way. Understanding patterns is fundamental to mathematical thinking and helps children notice order and make predictions.
+
+Examples:
+- AB pattern: red-blue-red-blue-red-blue
+- ABB pattern: clap-stomp-stomp-clap-stomp-stomp
+- ABC pattern: big-medium-small-big-medium-small
+- Shape pattern: ○△○△○△
+
+Worksheets:
+1. Continue the Pattern: ●○●○●__ (draw ○)
+2. Create Your Own: Make a pattern with 2 colors
+3. Fix the Mistake: Circle where the pattern is broken
+4. Pattern Hunt: Find patterns in the classroom (stripes, tiles)
+
+TOPIC 6: Comparison and Measurement
+Theory: We can compare quantities and sizes using mathematical language: more, less, fewer, same, equal, bigger, smaller, taller, shorter, longer, heavier, lighter.
+
+Examples:
+- 5 apples is MORE than 3 apples
+- The red tower is TALLER than the blue tower
+- These two groups have the SAME amount (4 and 4)
+- The elephant is BIGGER than the mouse
+- My feet are SMALLER than daddy's feet
+
+Worksheets:
+1. More or Less: Circle the group with MORE, cross out the group with LESS
+2. Same Amount: Draw the SAME number of stars as shown (5 = 5)
+3. Size Ordering: Number the bears from smallest (1) to biggest (3)
+4. Comparison: Color the longest snake green, shortest snake yellow
+
+TOPIC 7: Positional Language
+Theory: Understanding position and direction helps with spatial awareness and following instructions.
+
+Examples:
+- The ball is ON the table
+- The cat is UNDER the chair
+- Stand NEXT TO your friend
+- The book is BETWEEN the toys
+- Put the teddy INSIDE the box
+
+Worksheets:
+1. Position Practice: Color the ball that is ABOVE the box
+2. Following Directions: Draw a star ON TOP of the house
+3. Where is it?: Circle the toy that is UNDER the table
+
+Sample Activities:
+- Counting Songs: "Five Little Ducks," "Ten in the Bed," "Five Currant Buns"
+- Number Hunt: Find all the number 3's in the room
+- Shape Walk: Go on a walk to find circles, squares, triangles
+- Pattern Making: Create patterns with blocks, beads, or stamps
+- Snack Math: Count crackers, raisins, or fruit pieces before eating
+- Number Line Hopscotch: Jump on numbers 1-10 in order
+- Playdough Numbers: Roll and form numbers with playdough
+- Size Sorting: Arrange toys/books from smallest to biggest
+- Building Towers: Stack blocks and count how many
+- Dice Games: Roll dice, count dots, take that many counters
+
+Assessment Ideas:
+- Can count to 10 reliably with one-to-one correspondence
+- Recognizes numerals 1-10
+- Can write numbers 1-5 with correct formation
+- Identifies basic 2D shapes (circle, square, triangle, rectangle)
+- Creates and continues AB patterns
+- Uses comparison vocabulary (more, less, bigger, smaller) correctly
+- Understands positional language (on, under, next to)
