@@ -1,29 +1,19 @@
-Nursery Numeracy - Cambridge Primary Curriculum
+Nursery Numeracy - EYFS Framework
 
 Learning Objectives:
-- Count reliably up to 10 and beyond
-- Recognize and write numerals 0-10
+- Develop counting skills to 10
+- Recognize numerals 0-10
+- Compare quantities using language more/less
 - Understand one-to-one correspondence
-- Compare quantities using mathematical language
-- Recognize and describe 2D and 3D shapes
-- Understand positional language
-- Create and continue simple patterns
+- Begin to explore simple patterns
 
 Chapters:
 
 chapter no: 1
-name: Counting Adventures
-description: Counting, Numbers 1-10, One-to-one, Counting objects
+name: Numbers 1-5
+description: Counting to 5, Number Recognition 1-5, One-to-One Correspondence, Comparing Quantities to 5
 
 chapter no: 2
-name: Number Recognition
-description: Numeral recognition, Number formation, Writing numbers, Number names
-
-chapter no: 3
-name: Shape Explorers
-description: 2D shapes, 3D shapes, Circle, Square
-
-chapter no: 4
-name: Patterns and Positions
-description: Patterns, Sequences, Positional language, Above
+name: Numbers 6-10
+description: Counting to 10, Number Recognition 6-10, Number Bonds to 5, Zero
 

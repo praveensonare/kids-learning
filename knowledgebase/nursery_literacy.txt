@@ -1,29 +1,23 @@
-Nursery Literacy - Cambridge Primary Curriculum
+Nursery Literacy - EYFS Framework
 
 Learning Objectives:
-- Recognize and name all letters of the alphabet
-- Understand that letters represent sounds
-- Develop phonological awareness through rhymes and songs
-- Handle books correctly and understand print concepts
-- Begin to form recognizable letters
-- Listen to and enjoy stories
-- Develop speaking and listening skills
+- Develop phonological awareness
+- Understand that print carries meaning
+- Recognize letters and begin letter-sound correspondence
+- Enjoy stories, songs and rhymes
+- Begin mark-making and pre-writing skills
 
 Chapters:
 
 chapter no: 1
-name: Alphabet Adventure
-description: Letters, Uppercase, Lowercase, Recognition
+name: Alphabet Fun
+description: Letter Recognition A-M, Letter Recognition N-Z, Initial Sounds, Print Awareness
 
 chapter no: 2
-name: Sound Explorers
-description: Phonics, Initial sounds, Rhyming, Syllables
+name: Fruits and Vegetables
+description: Common Fruits, Common Vegetables, Where Food Comes From, Healthy Eating
 
 chapter no: 3
-name: Story Time Magic
-description: Comprehension, Characters, Sequence, Prediction
-
-chapter no: 4
-name: Writing Readiness
-description: Pre-writing, Fine motor, Patterns, Shapes
+name: Vehicles and Transport
+description: Land Vehicles, Air and Water Vehicles, Vehicle Parts and Functions, Road Safety
 
