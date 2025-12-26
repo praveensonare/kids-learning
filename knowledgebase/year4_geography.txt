@@ -1,24 +1,11 @@
-# year4 - geography Knowledge Base
+Year 4 Geography - Cambridge Primary Standards
 
-## Cambridge Primary Curriculum
+Learning Objectives: Locate world countries with focus on Europe/N&S America, identify key features, understand latitude/longitude, use fieldwork
 
-### Learning Objectives
-- Aligned with Cambridge International Standards
-- Age-appropriate content and activities
-- Progressive skill development
-- Cross-curricular connections
-
-### Key Topics
-[Content to be developed based on Cambridge curriculum framework]
-
-### Sample Activities
-- Hands-on learning experiences
-- Group and individual work
-- Assessment and evaluation
-- Home learning connections
-
-### Resources
-- Textbooks and workbooks
-- Digital resources
-- Practical materials
-- Assessment tools
+Key Topics:
+TOPIC 1: Europe in Detail: Countries, capitals, major cities; mountain ranges (Alps, Pyrenees, Carpathians); rivers (Danube, Rhine, Rhone); climate patterns; land use; compare regions
+TOPIC 2: North and South America: Countries and capitals; physical features (Andes, Amazon, Rockies, Mississippi); climate zones (rainforests, deserts, tundra); time zones
+TOPIC 3: Water Cycle: Evaporation, condensation, precipitation, collection; importance of water; rivers (source, tributary, meander, mouth); flooding; water conservation
+TOPIC 4: Map Skills Advanced: Eight compass points (N, NE, E, SE, S, SW, W, NW); six-figure grid references; contour lines show height; latitude and longitude; symbols and keys
+TOPIC 5: Settlements: Types (hamlet, village, town, city); why settle there (water, trade routes, defense); land use; impact on environment
+Worksheets: American continent mapping, water cycle diagrams, compass rose activities, settlement comparison, fieldwork data collection
