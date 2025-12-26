@@ -1,7 +1,7 @@
 'use client';
 
 import { useParams } from 'next/navigation';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
   getClassById,
@@ -21,10 +21,21 @@ import {
   Award,
   Star,
   Sparkles,
+  Lightbulb,
+  Target,
 } from 'lucide-react';
 import Link from 'next/link';
 
 type SectionType = 'learn' | 'worksheet' | 'quiz' | 'challenges';
+
+interface KnowledgeBaseContent {
+  title: string;
+  learningObjectives: string[];
+  keyTopics: string[];
+  activities: string[];
+  funFacts: string[];
+  tips: string[];
+}
 
 export default function LessonPage() {
   const params = useParams();
@@ -37,6 +48,8 @@ export default function LessonPage() {
   const [quizSubmitted, setQuizSubmitted] = useState(false);
   const [score, setScore] = useState(0);
   const [completedChallenges, setCompletedChallenges] = useState<string[]>([]);
+  const [knowledgeBase, setKnowledgeBase] = useState<KnowledgeBaseContent | null>(null);
+  const [isLoadingContent, setIsLoadingContent] = useState(true);
 
   const classData = getClassById(classId);
   const subjects = getSubjectsByClass(classId);
@@ -45,6 +58,25 @@ export default function LessonPage() {
   const lessonData = lessons.find((l) => l.id === lessonId);
   const quizQuestions = getQuizByLesson(lessonId);
   const challenges = getChallengesByLesson(lessonId);
+
+  // Load knowledge base content from the text files
+  useEffect(() => {
+    async function loadContent() {
+      setIsLoadingContent(true);
+      try {
+        const response = await fetch(`/api/knowledge-base?class=${classId}&subject=${subjectId}`);
+        if (response.ok) {
+          const data = await response.json();
+          setKnowledgeBase(data);
+        }
+      } catch (error) {
+        console.error('Error loading knowledge base:', error);
+      } finally {
+        setIsLoadingContent(false);
+      }
+    }
+    loadContent();
+  }, [classId, subjectId]);
 
   const handleQuizSubmit = () => {
     let correctCount = 0;
@@ -168,74 +200,150 @@ export default function LessonPage() {
               exit={{ opacity: 0, y: -20 }}
               className="max-w-4xl mx-auto"
             >
-              <div className="bg-white rounded-2xl md:rounded-3xl shadow-xl p-6 md:p-8">
+              <div className="bg-white/95 backdrop-blur-sm rounded-3xl shadow-2xl p-6 md:p-8 border-2 border-purple-200">
                 <div className="flex items-center gap-3 mb-6">
-                  <div className="bg-blue-500 p-3 md:p-4 rounded-xl md:rounded-2xl">
+                  <div className="bg-gradient-to-br from-blue-500 to-purple-500 p-3 md:p-4 rounded-2xl shadow-lg">
                     <BookOpen className="w-6 h-6 md:w-8 md:h-8 text-white" />
                   </div>
                   <div>
-                    <h2 className="text-2xl md:text-3xl font-bold text-gray-800">Learn</h2>
-                    <p className="text-sm md:text-base text-gray-600">{lessonData.title}</p>
+                    <h2 className="text-2xl md:text-3xl font-black bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Learn</h2>
+                    <p className="text-sm md:text-base text-gray-700 font-semibold">{lessonData.title}</p>
                   </div>
                 </div>
 
-                <div className="prose prose-sm md:prose max-w-none">
-                  <p className="text-base md:text-lg text-gray-700 leading-relaxed mb-6">
-                    {lessonData.description}
-                  </p>
-
-                  <div className="bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl md:rounded-2xl p-4 md:p-6 mb-6">
-                    <h3 className="text-lg md:text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
-                      <Sparkles className="w-5 h-5 md:w-6 md:h-6 text-purple-600" />
-                      Key Learning Points
-                    </h3>
-                    <ul className="space-y-3">
-                      <li className="flex items-start gap-3">
-                        <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                        <span className="text-sm md:text-base text-gray-700">
-                          Understand the basic concepts and foundations
-                        </span>
-                      </li>
-                      <li className="flex items-start gap-3">
-                        <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                        <span className="text-sm md:text-base text-gray-700">
-                          Practice with interactive examples
-                        </span>
-                      </li>
-                      <li className="flex items-start gap-3">
-                        <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                        <span className="text-sm md:text-base text-gray-700">
-                          Apply your knowledge to solve problems
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
-
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div className="bg-yellow-50 border-2 border-yellow-200 rounded-xl md:rounded-2xl p-4">
-                      <h4 className="font-bold text-gray-800 mb-2 text-sm md:text-base">💡 Fun Fact</h4>
-                      <p className="text-xs md:text-sm text-gray-700">
-                        Learning is more effective when you're having fun! Try to enjoy each activity.
-                      </p>
-                    </div>
-                    <div className="bg-green-50 border-2 border-green-200 rounded-xl md:rounded-2xl p-4">
-                      <h4 className="font-bold text-gray-800 mb-2 text-sm md:text-base">🎯 Tip</h4>
-                      <p className="text-xs md:text-sm text-gray-700">
-                        Take your time and don't rush. Understanding is more important than speed!
-                      </p>
+                {isLoadingContent ? (
+                  <div className="flex items-center justify-center py-12">
+                    <div className="text-center">
+                      <motion.div
+                        animate={{ rotate: 360 }}
+                        transition={{ duration: 1, repeat: Infinity, ease: 'linear' }}
+                        className="text-5xl mb-4"
+                      >
+                        📚
+                      </motion.div>
+                      <p className="text-gray-600">Loading lesson content...</p>
                     </div>
                   </div>
-                </div>
+                ) : (
+                  <div className="prose prose-sm md:prose max-w-none">
+                    <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6 font-medium">
+                      {lessonData.description}
+                    </p>
+
+                    {/* Learning Objectives */}
+                    {knowledgeBase && knowledgeBase.learningObjectives.length > 0 && (
+                      <div className="bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 rounded-2xl p-5 md:p-6 mb-6 border-2 border-blue-200 shadow-md">
+                        <h3 className="text-lg md:text-xl font-black text-gray-800 mb-4 flex items-center gap-2">
+                          <Target className="w-6 h-6 text-purple-600" />
+                          Learning Objectives
+                        </h3>
+                        <ul className="space-y-3">
+                          {knowledgeBase.learningObjectives.map((objective, index) => (
+                            <motion.li
+                              key={index}
+                              initial={{ opacity: 0, x: -20 }}
+                              animate={{ opacity: 1, x: 0 }}
+                              transition={{ delay: index * 0.1 }}
+                              className="flex items-start gap-3"
+                            >
+                              <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-green-500 flex-shrink-0 mt-0.5" />
+                              <span className="text-sm md:text-base text-gray-800 font-medium">
+                                {objective}
+                              </span>
+                            </motion.li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                    {/* Key Topics */}
+                    {knowledgeBase && knowledgeBase.keyTopics.length > 0 && (
+                      <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl p-5 md:p-6 mb-6 border-2 border-purple-200 shadow-md">
+                        <h3 className="text-lg md:text-xl font-black text-gray-800 mb-4 flex items-center gap-2">
+                          <Sparkles className="w-6 h-6 text-purple-600" />
+                          Key Topics
+                        </h3>
+                        <ul className="space-y-3">
+                          {knowledgeBase.keyTopics.map((topic, index) => (
+                            <motion.li
+                              key={index}
+                              initial={{ opacity: 0, x: -20 }}
+                              animate={{ opacity: 1, x: 0 }}
+                              transition={{ delay: index * 0.1 }}
+                              className="flex items-start gap-3"
+                            >
+                              <div className="w-2 h-2 bg-purple-500 rounded-full flex-shrink-0 mt-2"></div>
+                              <span className="text-sm md:text-base text-gray-800 font-medium">
+                                {topic}
+                              </span>
+                            </motion.li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                    {/* Sample Activities */}
+                    {knowledgeBase && knowledgeBase.activities.length > 0 && (
+                      <div className="bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl p-5 md:p-6 mb-6 border-2 border-green-200 shadow-md">
+                        <h3 className="text-lg md:text-xl font-black text-gray-800 mb-4 flex items-center gap-2">
+                          <Sparkles className="w-6 h-6 text-green-600" />
+                          Sample Activities
+                        </h3>
+                        <ul className="space-y-3">
+                          {knowledgeBase.activities.map((activity, index) => (
+                            <motion.li
+                              key={index}
+                              initial={{ opacity: 0, x: -20 }}
+                              animate={{ opacity: 1, x: 0 }}
+                              transition={{ delay: index * 0.1 }}
+                              className="flex items-start gap-3"
+                            >
+                              <div className="text-lg flex-shrink-0">✏️</div>
+                              <span className="text-sm md:text-base text-gray-800 font-medium">
+                                {activity}
+                              </span>
+                            </motion.li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                      <div className="bg-gradient-to-br from-yellow-100 to-orange-100 border-2 border-yellow-300 rounded-2xl p-5 shadow-md">
+                        <h4 className="font-black text-gray-800 mb-2 text-sm md:text-base flex items-center gap-2">
+                          <Lightbulb className="w-5 h-5 text-yellow-600" />
+                          Fun Fact
+                        </h4>
+                        <p className="text-xs md:text-sm text-gray-800 font-medium">
+                          {knowledgeBase && knowledgeBase.funFacts.length > 0
+                            ? knowledgeBase.funFacts[0]
+                            : 'Learning is more effective when you\'re having fun! Try to enjoy each activity.'}
+                        </p>
+                      </div>
+                      <div className="bg-gradient-to-br from-green-100 to-emerald-100 border-2 border-green-300 rounded-2xl p-5 shadow-md">
+                        <h4 className="font-black text-gray-800 mb-2 text-sm md:text-base flex items-center gap-2">
+                          <Target className="w-5 h-5 text-green-600" />
+                          Tip
+                        </h4>
+                        <p className="text-xs md:text-sm text-gray-800 font-medium">
+                          {knowledgeBase && knowledgeBase.tips.length > 0
+                            ? knowledgeBase.tips[0]
+                            : 'Take your time and don\'t rush. Understanding is more important than speed!'}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                )}
 
                 <motion.button
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                   onClick={() => setActiveSection('worksheet')}
-                  className="w-full bg-gradient-to-r from-blue-500 to-purple-500 text-white font-bold py-3 md:py-4 px-6 rounded-xl md:rounded-2xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2"
+                  className="w-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white font-bold py-4 px-6 rounded-2xl shadow-xl hover:shadow-2xl transition-all flex items-center justify-center gap-2 border-2 border-white"
                 >
                   <span className="text-sm md:text-base">Continue to Worksheet</span>
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={3}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
                   </svg>
                 </motion.button>
               </div>
